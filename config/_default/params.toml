@@ -3,8 +3,8 @@
 ## Homepage
 title = "Doks"
 titleSeparator = "-"
-titleAddition = "Bitlogic Documentation Theme"
-description = "Here should be placed a little description of the software product."
+titleAddition = "Modern Documentation Theme"
+description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
@@ -36,7 +36,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Written with &#x2764; by <a href=\"https://bitlogic.io\">Bitlogic</a>. Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
 
 # Alert
 alert = false
@@ -45,14 +45,3 @@ alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/
 # Edit Page
 docsRepo = "https://github.com/h-enk/doks"
 editPage = false
-
-[options]
-  lazySizes = true
-  clipBoard = true
-  instantPage = true
-  flexSearch = true
-  darkMode = true
-  bootStrapJs = false
-  breadCrumb = false
-  highLight = true
-  kaTex = false
