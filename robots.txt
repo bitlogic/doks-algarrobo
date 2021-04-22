@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bitlogic.github.io/doks-template/sitemap.xml
+Sitemap: https://bitlogic.github.io/doks-planificador/sitemap.xml
