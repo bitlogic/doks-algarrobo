@@ -33,5 +33,5 @@ En el menú ubicado en la barra lateral izquierda se muestran dos indicadores:
 - crear un seminario Experimenta, o 
 - crear un seminario común. 
 
-{{< figure src="/images/gcp.png" alt="GCP" caption="<em>Gestión de cátedras presenciales</em>" class="responsive" >}}
+{{< figure src="./images/gcp.png" alt="GCP" caption="<em>Gestión de cátedras presenciales</em>" class="responsive" >}}
 
