@@ -6,7 +6,7 @@ Proyecto basado en [Doks](https://getdoks.org/) y [doks-gh-pages](https://github
 
 #### Configuración de herramientas
 
-Puede utilizarse con las herramientas instaladas o utilizando un contenedor de docker con 🐳, como por ejemplo [este.](https://hub.docker.com/r/bitlogicos/redoc)
+Puede utilizarse con las herramientas instaladas o utilizando un contenedor de 🐳, como por ejemplo [este.](https://hub.docker.com/r/bitlogicos/redoc)
 
 Para comenzar a editar, se debe clonar o forkear el repositorio (recordando que si se clona será necesario [cambiar el link al repositorio remoto](https://docs.github.com/en/github/getting-started-with-github/managing-remote-repositories#changing-a-remote-repositorys-url), ya que esto se trata de una plantilla y no debe ser modificada)
 
