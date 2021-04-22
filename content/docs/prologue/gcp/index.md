@@ -30,8 +30,8 @@ En el menú ubicado en la barra lateral izquierda se muestran dos indicadores:
 1. A la derecha, con el ícono de signo más podrá realizar más acciones como:
 - crear una nueva cátedra presencial, 
 - crear una cátedra virtual, 
-- crear un seminario Experimenta, o 
+- crear un seminario **Experimenta**, o 
 - crear un seminario común. 
 
-{{< figure src="./images/gcp.png" alt="GCP" caption="<em>Gestión de cátedras presenciales</em>" class="responsive" >}}
+{{< img-simple src="gcp.png" alt="Gestión de cátedras presenciales" class="border-0 rounded-circle" >}}
 
