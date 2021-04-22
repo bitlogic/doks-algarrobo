@@ -1,7 +1,17 @@
-# Gestión de cátedras presenciales
-
-## Introducción
-Cuando un usuario con perfil de codocente de planificación ingresa a la herramienta, en la pantalla se mostrará la sección “Gestión de cátedras presenciales”. Aquí, se pueden buscar, ver, editar, y crear cátedras. 
+---
+title: "Gestión de cátedras presenciales"
+description: "Cuando un usuario con perfil de codocente de planificación ingresa a la herramienta, en la pantalla se mostrará la sección “Gestión de cátedras presenciales”. Aquí, se pueden buscar, ver, editar, y crear cátedras. "
+lead: "Cuando un usuario con perfil de codocente de planificación ingresa a la herramienta, en la pantalla se mostrará la sección “Gestión de cátedras presenciales”. Aquí, se pueden buscar, ver, editar, y crear cátedras. "
+date: 2020-11-16T13:59:39+01:00
+lastmod: 2020-11-16T13:59:39+01:00
+draft: false
+images: []
+menu:
+  docs:
+    parent: "prologue"
+weight: 110
+toc: true
+---
 
 ## Menú lateral
 En el menú ubicado en la barra lateral izquierda se muestran dos indicadores:
