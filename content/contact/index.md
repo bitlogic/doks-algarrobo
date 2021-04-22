@@ -7,4 +7,4 @@ draft: true
 images: []
 ---
 
-{{< email user="hello" domain="bitlogic.io" >}}
+{{< email user="info" domain="bitlogic.io" >}}

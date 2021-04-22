@@ -1,10 +1,11 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Algarrobo"
 titleSeparator = "-"
-titleAddition = "Planificador"
-description = "Here should be placed a little description of the software product."
+titleAddition = "SIS v1.0"
+description = "Plataforma para gestión de estudiantes"
+breadCrumb = true
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]

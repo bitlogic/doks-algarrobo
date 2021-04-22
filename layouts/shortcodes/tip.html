@@ -1,0 +1,4 @@
+<div class="tip tip-warning d-flex" role="tip">
+  <div class="flex-shrink-1 tip-icon">{{ with .Get "icon" }}{{.}}{{ end }}</div>
+  <div class="w-100">{{ with .Get "text" }}{{ . | safeHTML }}{{ end }}</div>
+</div>
