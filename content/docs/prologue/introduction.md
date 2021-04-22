@@ -21,7 +21,7 @@ Alternatives on how to start to use this software
 
 {{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
 
-Step-by-step guide. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+Step-by-step guide. [Tutorial →]({{< relref "novice-tutorial" >}})
 
 ### Quick Start
 

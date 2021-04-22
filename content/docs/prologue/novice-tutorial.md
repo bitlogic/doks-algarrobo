@@ -1,7 +1,7 @@
 ---
-title: "Quick Start"
-description: "Short description of how this project works."
-lead: "Short description of how this project works."
+title: "Tutorial"
+description: "Detailed description of how this project works."
+lead: "Detailed description of how this project works."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -17,7 +17,9 @@ toc: true
 
 Here should be detailed which dependencies has the software
 
-## How to start
+## Step by step guide
 
-Description of how to start
+### Step 1
+
+### Step 2
 
