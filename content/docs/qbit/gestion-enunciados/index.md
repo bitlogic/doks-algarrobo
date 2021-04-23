@@ -13,7 +13,7 @@ weight: 100
 toc: true
 ---
 
-{{< alert icon="💡" text="La herramienta de gestión de exámenes no permite agregar ni editar información a nivel de programas o contenidos. Estos datos y algunos enunciados relacionados se importan desde otro software o base de datos de la organización educativa. Desde aquí sólo se puede realizar la edición, creación y aprobación de preguntas o enunciados." >}}
+{{< alert text="La herramienta de gestión de exámenes no permite agregar ni editar información a nivel de programas o contenidos. Estos datos y algunos enunciados relacionados se importan desde otro software o base de datos de la organización educativa. Desde aquí sólo se puede realizar la edición, creación y aprobación de preguntas o enunciados." >}}
 
 Cuando usas la herramienta puedes ver, editar y agregar preguntas o enunciados vinculados al contenido de una materia. Además, podrás aprender a realizar la validación y aprobación de los enunciados según el rol de las personas que estén a cargo de estas acciones.
 
@@ -29,7 +29,7 @@ Cuando usas la herramienta puedes ver, editar y agregar preguntas o enunciados v
 6. Haz clic en el icono de signo más ![](plus.png)para crear un nuevo enunciado. El formulario contiene 5 secciones.
 
 
-{{< tip icon="☝" text="Al presionar el icono de lápiz puedes editar la misma información para aquellos enunciados que se hayan guardado anteriormente. Recuerda que si editas un enunciado que ya se encuentra incluído en un examen generado, deberás hacerlo con anticipación. Cuando esto suceda, el sistema te alertará de esta situación." >}}
+{{< tip text="Al presionar el icono de lápiz puedes editar la misma información para aquellos enunciados que se hayan guardado anteriormente. Recuerda que si editas un enunciado que ya se encuentra incluído en un examen generado, deberás hacerlo con anticipación. Cuando esto suceda, el sistema te alertará de esta situación." >}}
 
 
 A continuación se detallan la secciones y la información que puede cargar en ellas: 
@@ -37,7 +37,7 @@ A continuación se detallan la secciones y la información que puede cargar en e
 - Enunciados: en esta sección se puede redactar el enunciado utilizando texto enriquecido, imágenes (formato jpg), links, etc.
 - Respuestas: en esta sección se deben registrar la cantidad de opciones que se quieran proveer al estudiante. En el casillero de selección marca la o las respuesta/s correcta/s.
 
-> ![](consejo.png) **CONSEJO:** usa el botón “Agregar opción” y el ícono correspondiente para eliminar la/s acción/es que estén de más. Las respuestas al igual que los enunciados cuentan con la opción de crear texto enriquecido, cargar imágenes, etc.
+{{< tip text="Usa el botón “Agregar opción” y el ícono correspondiente para eliminar la/s acción/es que estén de más. Las respuestas al igual que los enunciados cuentan con la opción de crear texto enriquecido, cargar imágenes, etc.">}}
 
 - Justificación: aquí se debe redactar la justificación de la respuesta correcta.
 7. Por último, una vez que hayas ingresado todo el contenido del enunciado presiona el botón **Guardar**.
@@ -46,7 +46,7 @@ A continuación se detallan la secciones y la información que puede cargar en e
 
 > ![](note2.png) **NOTA:** Dependiendo de la organización, puede haber un rol o dos asignados a una o más personas a cargo de la revisión técnica y académica.
 
-10. Una hayas validado los datos, presiona **Guardar**.
+10. Una vez hayas validado los datos, presiona **Guardar**.
 11. En la pantalla de contenido del programa podrás ver el nuevo enunciado que se creó. 
 12. Si el enunciado no se encuentra en estado aprobado y requiere una nueva revisión, selecciónalo y haz clic en el icono de ojo ![](eye2.png).
 13.  La misma u otra persona con los permisos correspondientes, puede realizar una segunda revisión del enunciado. 
