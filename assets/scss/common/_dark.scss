@@ -80,12 +80,17 @@ body.dark .alert-primary a {
 }
 
 body.dark .alert-warning {
-  background: $violet;
+  background: $algarrobo-red-danger;
   color: $body-color-dark;
 }
 
 body.dark .note-warning {
-  background: $blue;
+  background: $algarrobo-green-secondary;
+  color: $body-color-dark;
+}
+
+body.dark .tip-warning {
+  background: $algarrobo-violet;
   color: $body-color-dark;
 }
 

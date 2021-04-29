@@ -11,6 +11,12 @@ $gray-600: #6c757d;
 $gray-700: #495057;
 $gray-800: #343a40;
 $gray-900: #212529;
+$beige: #fbf7f0;
+$red: #e55235;
+$algarrobo-green: #2f865a;
+$brown: #aa9c84;
+$blue-300: #8ed6fb;
+$pink-500: #d32e9d;
 
 //Bitlogic
 $black:#2a2c2e;
@@ -20,21 +26,17 @@ $green: #7bb5b1;
 $light-blue: #0092c6;
 $blue: #013171;
 
-//Algarrobo
-$red-danger: #dc1351;
-$yellow: #faa41a;
-$green-primary: #00a98f;
-$green-secondary: #006755;
-$green-success: #0ee1a2;
-$algarrobo-blue: #00497c;
-$violet: #6f2789;
 $color-disabled: mix($black, $white, 10%);
-$beige: #fbf7f0;
-$red: #e55235;
-$algarrobo-green: #2f865a;
-$brown: #aa9c84;
-$blue-300: #8ed6fb;
-$pink-500: #d32e9d;
+
+//Algarrobo
+$algarrobo-red-danger: #dc1351;
+$algarrobo-yellow: #faa41a;
+$algarrobo-green-primary: #00a98f;
+$algarrobo-green-secondary: #006755;
+$algarrobo-green-success: #0ee1a2;
+$algarrobo-blue: #00497c;
+$algarrobo-violet: #6f2789;
+$algarrobo-black: #000;
 
 // Shadows
 $shadow: 0 2px 3px 0 rgba($black, 0.16);
@@ -47,9 +49,9 @@ $font-primary: "Montserrat", sans-serif;
 $font-secondary: "Source Sans Pro", sans-serif;
 
 //Sizes
-$font-size-text: 0.75rem; //12px
-$font-size-subtitle: 0.875; //14px
-$font-size-title: 1rem; //16px
+$font-size-text: 0.875; //14px
+$font-size-subtitle: 1rem; //16px
+$font-size-title: 1.125rem; //18px
 
 //Weight
 $font-weight-normal: 400;
@@ -150,8 +152,8 @@ $navbar-padding-x:                  0;
 $navbar-nav-link-padding-x:         0.5rem;
 
 $navbar-light-color:                $black;
-$navbar-light-hover-color:          $green-primary;
-$navbar-light-active-color:         $green-primary;
+$navbar-light-hover-color:          $algarrobo-green-primary;
+$navbar-light-active-color:         $algarrobo-green-primary;
 
 // Cards
 

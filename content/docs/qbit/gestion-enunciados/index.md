@@ -13,7 +13,7 @@ weight: 100
 toc: true
 ---
 
-{{< alert text="La herramienta de gestión de exámenes no permite agregar ni editar información a nivel de programas o contenidos. Estos datos y algunos enunciados relacionados se importan desde otro software o base de datos de la organización educativa. Desde aquí sólo se puede realizar la edición, creación y aprobación de preguntas o enunciados." >}}
+{{< warning text="La herramienta de gestión de exámenes no permite agregar ni editar información a nivel de programas o contenidos. Estos datos y algunos enunciados relacionados se importan desde otro software o base de datos de la organización educativa. Desde aquí sólo se puede realizar la edición, creación y aprobación de preguntas o enunciados." >}}
 
 Cuando usas la herramienta puedes ver, editar y agregar preguntas o enunciados vinculados al contenido de una materia. Además, podrás aprender a realizar la validación y aprobación de los enunciados según el rol de las personas que estén a cargo de estas acciones.
 
