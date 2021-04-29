@@ -1,6 +1,7 @@
 .alert {
-  font-family: $font-family-monospace;
-  font-size: $font-size-sm;
+  font-family: $font-secondary;
+  font-size: $font-size-text;
+  border-radius: 6px;
 }
 
 .alert-icon {
@@ -54,7 +55,7 @@
 
 .alert-primary {
   color: $white;
-  background-color: $primary;
+  background-color: $green-primary;
 }
 
 .alert-primary .alert-link {

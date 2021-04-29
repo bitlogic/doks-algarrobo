@@ -1,3 +1,5 @@
+@import '../common/variables';
+
 /** Search form */
 .search-form {
   @extend .form-inline;
@@ -6,7 +8,7 @@
 .search-form label {
   @extend .form-group;
 
-  font-weight: normal;
+  font-weight: $font-weight-normal;
 }
 
 .search-form .search-field {

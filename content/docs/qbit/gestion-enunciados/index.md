@@ -18,8 +18,8 @@ toc: true
 Cuando usas la herramienta puedes ver, editar y agregar preguntas o enunciados vinculados al contenido de una materia. Además, podrás aprender a realizar la validación y aprobación de los enunciados según el rol de las personas que estén a cargo de estas acciones.
 
 
-1. Antes de empezar, accede a la herramienta. Haz clic en el ícono de lupa {{<magnifying-glass>}} ubicado en panel de navegación lateral. Luego ingresa el código o nombre de la materia cuyo contenido deseas ver. 
-1. Presiona **Buscar**. {{<search>}} Los resultados se muestran en la sección “Seleccionar materia”.
+1. Antes de empezar, accede a la herramienta. Haz clic en el ícono de lupa {{<search-icon>}} ubicado en panel de navegación lateral. Luego ingresa el código o nombre de la materia cuyo contenido deseas ver. 
+1. Presiona **Buscar**. {{<search-icon>}} Los resultados se muestran en la sección “Seleccionar materia”.
 1. Haz clic en la materia cuyos enunciados deseas ver o editar. A la derecha se muestran los programas relacionados en sus diferentes estados (activos e inactivos).
 1. En la grilla de resultados, desplázate con la barra inferior hacia la derecha y presiona el ícono de ojo ![](../../../Downloads/eye.png) para ver los enunciados en aquellos programas que se encuentren activos.
 1. En la pantalla “Gestión de evaluaciones”, usa las flechas para desplegar el contenido de la materia (unidad, tema y subtema).

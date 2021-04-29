@@ -1,3 +1,5 @@
+@import '../common/variables';
+
 .docs-links,
 .docs-toc {
   scrollbar-width: thin;
@@ -38,7 +40,7 @@
 .docs-links h3,
 .page-links h3 {
   text-transform: uppercase;
-  font-size: $font-size-base;
+  font-size: $font-size-text;
   margin: 1.25rem 0 0.5rem 0;
   padding: 1.5rem 0 0 0;
 }
@@ -59,7 +61,7 @@ a.docs-link {
   color: $body-color;
   display: block;
   padding: 0.125rem 0;
-  font-size: $font-size-base;
+  font-size: $font-size-text;
 }
 
 .page-links li {
@@ -82,7 +84,7 @@ a.docs-link {
   color: $body-color;
   display: block;
   padding: 0.125rem 0;
-  font-size: $font-size-base * 0.9375;
+  font-size: $font-size-text;
 }
 
 .docs-link:hover,
@@ -95,8 +97,8 @@ a.docs-link {
 .docs-links h3.sidebar-link,
 .page-links h3.sidebar-link {
   text-transform: none;
-  font-size: $font-size-md;
-  font-weight: normal;
+  font-size: $font-size-text;
+  font-weight: $font-weight-normal;
 }
 
 .docs-links h3.sidebar-link a,

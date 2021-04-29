@@ -1,8 +1,4 @@
-/*!
- * GitHub Light v0.5.0
- * Copyright (c) 2012 - 2017 GitHub, Inc.
- * Licensed under MIT (https://github.com/primer/github-syntax-theme-generator/blob/master/LICENSE)
- */
+@import '../common/variables';
 
  .c1,
  .c /* comment, punctuation.definition.comment, string.comment */ {
@@ -66,7 +62,7 @@
  }
  
  .sr .cce /* string.regexp constant.character.escape */ {
-   font-weight: bold;
+   font-weight: $font-weight-bold;
    color: #22863a;
  }
  
@@ -77,7 +73,7 @@
  .mh /* markup.heading */,
  .mh .en /* markup.heading entity.name */,
  .ms /* meta.separator */ {
-   font-weight: bold;
+   font-weight: $font-weight-bold;
    color: #005cc5;
  }
  
@@ -87,7 +83,7 @@
  }
  
  .mb /* markup.bold */ {
-   font-weight: bold;
+   font-weight: $font-weight-bold;
    color: #24292e;
  }
  
@@ -112,7 +108,7 @@
  }
  
  .mdr /* meta.diff.range */ {
-   font-weight: bold;
+   font-weight: $font-weight-bold;
    color: #6f42c1;
  }
  

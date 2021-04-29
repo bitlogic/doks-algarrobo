@@ -1,5 +1,6 @@
-// Color system
+/* Colors and Shadows */
 
+//Colors
 $white:    #fff;
 $gray-100: #f8f9fa;
 $gray-200: #e9ecef;
@@ -11,18 +12,51 @@ $gray-700: #495057;
 $gray-800: #343a40;
 $gray-900: #212529;
 $black:    #000;
+$red-danger: #DC1351;
+$yellow:   #FAA41A;
+$green-primary: #00A98F;
+$green-secondary: #006755;
+$green-success: #0EE1A2;
+$blue: #00497C;
+$violet: #6F2789;
+$color-disabled: mix($black, $white, 10%);
 
-$yellow:   #ffe000;
-$black:    #1d2d35;
 $beige:    #fbf7f0;
 $red:      #e55235;
 $green:   #2f865a;
 $brown:    #aa9c84;
-
 $blue-300: #8ed6fb;
 $pink-500: #d32e9d;
 
-$primary: $green;
+// Shadows
+$shadow: 0 2px 3px 0 rgba($black, .16);
+$shadow-sm: 0 1px 3px 0 rgba($black, .08);
+
+
+/* Typography */
+
+//Fonts
+$font-primary: 'Montserrat', sans-serif;
+$font-secondary: 'Source Sans Pro', sans-serif;
+
+//Sizes
+$font-size-text: 0.75rem; //12px
+$font-size-title: 0.875; //14px
+
+//Weight
+$font-weight-normal: 400;
+$font-weight-bold: 600;
+$font-weight-headings: 700;
+
+
+/* Measurements */
+
+// Radius
+$radius: 0.25rem;
+$radius-lg: 0.5rem;
+
+
+
 
 /** Bootstrap navbar fix (https://git.io/fADqW) */
 $navbar-dark-toggler-icon-bg: none;
@@ -68,14 +102,8 @@ $grid-row-columns:            6;
 
 $border-color:                $gray-200;
 
-// Typography
-//
 // Font, line-height, and color for body text, headings, and more.
 
-// stylelint-disable value-keyword-case
-$font-family-sans-serif:      "Jost", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-$font-family-monospace:       sfmono-regular, menlo, monaco, consolas, "Liberation Mono", "Courier New", monospace;
-$font-family-base:            $font-family-sans-serif;
 // stylelint-enable value-keyword-case
 
 $font-size-base:              1rem; // Assumes the browser default, typically `16px`
@@ -85,11 +113,6 @@ $font-size-md:                $font-size-base * 1.125;
 $font-size-sm:                $font-size-base * 0.875;
 
 $line-height-base:            1.5;
-
-$headings-font-family:        null;
-$headings-font-weight:        700;
-
-$lead-font-weight:            400;
 
 // Spacing
 //
@@ -107,8 +130,8 @@ $navbar-padding-x:                  0;
 $navbar-nav-link-padding-x:         0.5rem;
 
 $navbar-light-color:                $black;
-$navbar-light-hover-color:          $primary;
-$navbar-light-active-color:         $primary;
+$navbar-light-hover-color:          $green-primary;
+$navbar-light-active-color:         $green-primary;
 
 // Cards
 
@@ -122,9 +145,8 @@ $alert-padding-y:                   1rem;
 $alert-padding-x:                   1.5rem;
 $alert-margin-bottom:               0;
 $alert-border-radius:               0;
-$alert-link-font-weight:            $headings-font-weight;
+$alert-link-font-weight:            $font-weight-headings;
 $alert-border-width:                0;
-
 $alert-bg-level:                    0;
 $alert-border-level:                0;
 $alert-color-level:                 0;

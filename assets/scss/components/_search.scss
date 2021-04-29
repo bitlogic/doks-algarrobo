@@ -1,3 +1,5 @@
+@import '../common/variables';
+
 .navbar-form {
   position: relative;
 }
@@ -39,11 +41,11 @@
 
 #suggestions span {
   display: flex;
-  font-size: $font-size-base;
+  font-size: $font-size-text;
 }
 
 #suggestions span:first-child {
-  font-weight: $headings-font-weight;
+  font-weight: $font-weight-headings;
   color: $black;
 }
 
