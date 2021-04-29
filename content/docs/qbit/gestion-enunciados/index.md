@@ -24,7 +24,7 @@ Cuando usas la herramienta puedes ver, editar y agregar preguntas o enunciados v
 1. En la grilla de resultados, desplázate con la barra inferior hacia la derecha y presiona el ícono de ojo ![](../../../Downloads/eye.png) para ver los enunciados en aquellos programas que se encuentren activos.
 1. En la pantalla “Gestión de evaluaciones”, usa las flechas para desplegar el contenido de la materia (unidad, tema y subtema).
 
-> ![](note2.png)**NOTA**: sólo podrán realizar las acciones de editar y crear nuevos enunciados (preguntas) quienes tengan el perfil requerido para tales acciones. 
+{{< note text="sólo podrán realizar las acciones de editar y crear nuevos enunciados (preguntas) quienes tengan el perfil requerido para tales acciones." >}}
 
 6. Haz clic en el icono de signo más ![](plus.png)para crear un nuevo enunciado. El formulario contiene 5 secciones.
 
@@ -44,7 +44,7 @@ A continuación se detallan la secciones y la información que puede cargar en e
 8. Una vez que el enunciado se guarde, se muestra una pantalla de previsualización y validación del enunciado. 
 9. Una persona con el rol correspondiente podrá seleccionar el estado de la validación y el motivo del cambio de estado.
 
-> ![](note2.png) **NOTA:** Dependiendo de la organización, puede haber un rol o dos asignados a una o más personas a cargo de la revisión técnica y académica.
+{{< note text="Dependiendo de la organización, puede haber un rol o dos asignados a una o más personas a cargo de la revisión técnica y académica." >}}
 
 10. Una vez hayas validado los datos, presiona **Guardar**.
 11. En la pantalla de contenido del programa podrás ver el nuevo enunciado que se creó. 
@@ -52,9 +52,9 @@ A continuación se detallan la secciones y la información que puede cargar en e
 13.  La misma u otra persona con los permisos correspondientes, puede realizar una segunda revisión del enunciado. 
 14. Por último, guarda los cambios presionando el botón **Guardar**.
 
-> ![](note2.png) **NOTA:** Recuerda que únicamente se encuentran disponibles para incluir en la configuración de tipos de exámenes aquellos enunciados cuyo estado es “Aprobado”.
+{{< note text="Recuerda que únicamente se encuentran disponibles para incluir en la configuración de tipos de exámenes aquellos enunciados cuyo estado es “Aprobado”." >}}
 
-> ![](consejo.png) **CONSEJO:** En la grilla con los enunciados relacionados con cada programa también puedes realizar las siguientes acciones mediante los siguientes iconos.
+{{< tip text= "En la grilla con los enunciados relacionados con cada programa también puedes realizar las siguientes acciones mediante los siguientes iconos." >}}
 
 - Buscar ![](search.png):  habilita un campo de texto que busca los datos en las diferentes columnas.
 - Ver columnas ![](ver%20columnas%202.png): se abre un menú contextual con un selector de columnas para elegir qué información ver en la grilla.

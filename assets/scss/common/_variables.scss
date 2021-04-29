@@ -1,6 +1,6 @@
 /* Colors and Shadows */
 
-//Colors
+//General
 $white:#fff;
 $gray-100: #f8f9fa;
 $gray-200: #e9ecef;
@@ -11,20 +11,27 @@ $gray-600: #6c757d;
 $gray-700: #495057;
 $gray-800: #343a40;
 $gray-900: #212529;
-$black:#000;
+
+//Bitlogic
+$black:#2A2C2E;
+$turquoise: #74C8D2;
+$green: #7BB5B1;
+$light-blue: #0092C6;
+$blue: #013171;
+
+//Algarrobo
 $red-danger: #dc1351;
-$yellow:   #faa41a;
+$yellow: #faa41a;
 $green-primary: #00a98f;
 $green-secondary: #006755;
 $green-success: #0ee1a2;
-$blue: #00497c;
+$algarrobo-blue: #00497c;
 $violet: #6f2789;
 $color-disabled: mix($black, $white, 10%);
-
-$beige:    #fbf7f0;
-$red:      #e55235;
-$green:   #2f865a;
-$brown:    #aa9c84;
+$beige: #fbf7f0;
+$red: #e55235;
+$algarrobo-green: #2f865a;
+$brown: #aa9c84;
 $blue-300: #8ed6fb;
 $pink-500: #d32e9d;
 
@@ -40,7 +47,8 @@ $font-secondary: "Source Sans Pro", sans-serif;
 
 //Sizes
 $font-size-text: 0.75rem; //12px
-$font-size-title: 0.875; //14px
+$font-size-subtitle: 0.875; //14px
+$font-size-title: 1rem;
 
 //Weight
 $font-weight-normal: 400;

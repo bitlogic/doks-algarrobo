@@ -1,0 +1,30 @@
+.note {
+  font-family: $font-secondary;
+  font-size: $font-size-text;
+  border-radius: 6px;
+  padding: 1rem 1.5rem;
+}
+
+.note-warning {
+  background-color: $light-blue;
+  color: $white;
+}
+
+.note-icon {
+  margin: 0 0.75rem 0.75rem 0;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 8px;
+}
+
+.icon-title {
+  font-weight: $font-weight-bold;
+  font-size: $font-size-title;
+}
+
+.docs .note {
+  margin: 2rem -1.5rem;
+}

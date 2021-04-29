@@ -5,7 +5,18 @@
 }
 
 .alert-icon {
-  margin-right: 0.75rem;
+  margin: 0 0.75rem 0.75rem 0;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 8px;
+}
+
+.icon-title {
+  font-weight: $font-weight-bold;
+  font-size: $font-size-title;
 }
 
 .docs .alert {
@@ -18,7 +29,7 @@
 
 .alert-dark {
   color: $white;
-  background-color: $black;
+  background-color: $light-blue;
 }
 
 .alert-dark .alert-link {
@@ -30,8 +41,8 @@
 }
 
 .alert-warning {
-  background: $beige;
-  color: $black;
+  background-color: $red-danger;
+  color: $white;
 }
 
 .alert-success {

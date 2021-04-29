@@ -174,7 +174,8 @@ body {
 }
 
 ::selection {
-  background: lighten($green-primary, 55%);
+  background: lighten($black, 55%);
+  color: $white;
 }
 
 .bg-dots {

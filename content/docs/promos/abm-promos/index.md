@@ -22,7 +22,8 @@ Las promociones comerciales pueden configurarse para un monto fijo o un porcenta
 3. Haz clic en el botón ![](../Documents/Markdown%20Monster%20Weblog%20Posts/nueva.png) para comenzar.
 4. En la pantalla, comienza a completar los campos con los datos de la pormoción que quieres crear. Selecciona en primer lugar si va a ser un monto fijo o un porcentaje.
 5. Luego, completa el nombre, la descripción, selecciona el tipo de estudiante, el perído y la validez de la promoción.
-> ![](../Documents/Markdown%20Monster%20Weblog%20Posts/note2.png)**NOTA:** la definición de nuevo inscripto hace referencia un estudiante que acaba de ingresar a la organización. Mientras que el término reinscripto abarca a aquellos alumnos y alumnas que ya pertenecen a la organización porque han cursado anteriormente.
+
+{{< note text="La definición de nuevo inscripto hace referencia un estudiante que acaba de ingresar a la organización. Mientras que el término reinscripto abarca a aquellos alumnos y alumnas que ya pertenecen a la organización porque han cursado anteriormente." >}}
 
 6. Active la promoción dislizando el botón de "Estado" hacia la derecha.Para desactivarlo, deslízalo hacia la izquierda.
 
@@ -33,7 +34,7 @@ Las promociones comerciales pueden configurarse para un monto fijo o un porcenta
 10. En las columnas de salida, dentro del campo "Valor" puedes definir el monto de la promoción o el número de porcentaje.
 11. Si fuese necesario configurar esta promoción para que se aplique en diversas situaciones, tendrás que seleccionar ![](../Documents/Markdown%20Monster%20Weblog%20Posts/agregar%20prom%20comercial.png) para sumar las definiciones de cada una con sus criterios.
 
-> ![](file:///C:\Users\vbrue\Documents\Markdown%20Monster%20Weblog%20Posts\note2.png)**NOTA:** Se pueden agregar tantas reglas como desees. Las siguientes acciones están disponibles en esta grilla:
+{{< note text="Se pueden agregar tantas reglas como desees. Las siguientes acciones están disponibles en esta grilla:" >}}
 >
 > - Clonar ![](../Documents/Markdown%20Monster%20Weblog%20Posts/clonar.png): si una regla ya está definida, al hacer clic en este icono puedes copiar debajo exactamente la misma información.
 >
@@ -41,7 +42,7 @@ Las promociones comerciales pueden configurarse para un monto fijo o un porcenta
 >
 > - Eliminar ![](../Documents/Markdown%20Monster%20Weblog%20Posts/eliminar.png): usa este botón para eliminar una regla.
 
-> ![](file:///C:\Users\vbrue\Desktop\Imágenes\Gestionar%20enunciados\consejo.png) **CONSEJO:** en la última fila de las reglas puedes agregar un valor que será el que se va a aplicar al resto de los registros. Si ese valor es "cero" esto significa que la promoción quedará desactivada. Por este motivo, no se debería ubicar la regla con valor cero en la primera fila de la grilla ya que esto generaría que se desactiven los demás criterios.
+{{< tip text="En la última fila de las reglas puedes agregar un valor que será el que se va a aplicar al resto de los registros. Si ese valor es 'cero' esto significa que la promoción quedará desactivada. Por este motivo, no se debería ubicar la regla con valor cero en la primera fila de la grilla ya que esto generaría que se desactiven los demás criterios." >}}
 
 12. Una vez definidos los datos generales de la promoción, los tickets asocidos y las reglas o criterios de aplicación haz clic en ![](../Desktop/Imágenes/Promociones%20comerciales/Guardar.png).
 

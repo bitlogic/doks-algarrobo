@@ -1,23 +1,9 @@
-<script>
-  document.addEventListener("DOMContentLoaded", async () => {
-    const $alertIcon = <svg id="alert-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-alert-triangle"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
-    const $noteIcon = <svg id="note-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-alert-circle"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
-
-    function setIcons(role) {
-      if(role === "alert"){
-        $alert.appendChild($svg);
-      } else {
-        console.log("else...")
-      }
-    }
-
-    setIcons($role);
-  });
-</script>
-
-<div class="alert alert-warning d-flex" role="alert">
+<div class="alert alert-warning" role="alert">
   <div class="flex-shrink-1 alert-icon">
-    <svg id="note-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-alert-circle"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 0 24 24" width="20px" fill="#fff" class="icon">
+      <path d="M12 5.99L19.53 19H4.47L12 5.99M12 2L1 21h22L12 2zm1 14h-2v2h2v-2zm0-6h-2v4h2v-4z"/>
+    </svg>
+    <span class="icon-title">Alerta</span>
   </div>
   <div class="w-100">{{ with .Get "text" }}{{ . | safeHTML }}{{ end }}</div>
 </div>
