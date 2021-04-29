@@ -8,10 +8,8 @@
 				{{ $currentSection := .CurrentSection }}
 				{{ range where .Site.RegularPages.ByTitle "Section" .Section }}
 					{{ if in (.Permalink | string) $currentSection.RelPermalink }}
-						<div class="card my-3">
-							<div class="card-body">
-								<a class="stretched-link" href="{{ .Permalink }}">{{ .Params.title | title }} &rarr;</a>
-							</div>
+						<div class="btn-start">
+							<a class="stretched-link" href="{{ .Permalink }}">{{ .Params.title | title }} &rarr;</a>
 						</div>
 					{{ end }}
 				{{ end }}

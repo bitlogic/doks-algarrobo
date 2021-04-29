@@ -15,6 +15,7 @@ $gray-900: #212529;
 //Bitlogic
 $black:#2A2C2E;
 $turquoise: #74C8D2;
+$dark-turquoise: #1ECAD3;
 $green: #7BB5B1;
 $light-blue: #0092C6;
 $blue: #013171;
@@ -48,7 +49,7 @@ $font-secondary: "Source Sans Pro", sans-serif;
 //Sizes
 $font-size-text: 0.75rem; //12px
 $font-size-subtitle: 0.875; //14px
-$font-size-title: 1rem;
+$font-size-title: 1rem; //16px
 
 //Weight
 $font-weight-normal: 400;
@@ -60,6 +61,24 @@ $font-weight-headings: 700;
 // Radius
 $radius: 0.25rem;
 $radius-lg: 0.5rem;
+
+/* Patters */
+
+%button{
+  background-color: $dark-turquoise;
+  border-radius: 3px;
+  color: $white;
+  line-height: 14px;
+  padding: 12px 24px;
+  font-size: $font-size-subtitle;
+  margin-bottom: 1rem;
+  text-decoration: none;
+
+  &:hover {
+    color: $white;
+    background-color: $turquoise;
+  }
+}
 
 /** Bootstrap navbar fix (https://git.io/fADqW) */
 $navbar-dark-toggler-icon-bg: none;

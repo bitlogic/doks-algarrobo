@@ -31,8 +31,8 @@ body.dark a.text-body {
   color: $body-color-dark !important;
 }
 
-body.dark .btn-primary {
-  @include button-variant($button-color-dark, $button-color-dark);
+body.dark .btn-start {
+  @include button-variant($turquoise, $turquoise);
 
   color: $body-bg-dark !important;
 }
