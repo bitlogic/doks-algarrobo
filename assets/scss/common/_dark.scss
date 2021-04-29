@@ -25,6 +25,7 @@ body.dark {
 
 body.dark a {
   color: $link-color-dark;
+  text-decoration: none;
 }
 
 body.dark a.text-body {
@@ -32,9 +33,9 @@ body.dark a.text-body {
 }
 
 body.dark .btn-start {
-  @include button-variant($turquoise, $turquoise);
+  @include button-variant($algarrobo-green-secondary, $algarrobo-green-secondary);
 
-  color: $body-bg-dark !important;
+  color: $white !important;
 }
 
 body.dark .navbar {
@@ -184,7 +185,7 @@ body.dark .docs-navigation {
 }
 
 body.dark ::selection {
-  background: $turquoise;
+  background: $algarrobo-green-success;
   color: $black;
 }
 

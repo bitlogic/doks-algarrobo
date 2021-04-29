@@ -76,3 +76,7 @@ body.dark .toggle-dark {
 .btn-start {
   @extend %button;
 }
+
+a:hover {
+  text-decoration: none;
+}
