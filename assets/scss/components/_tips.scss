@@ -1,16 +1,16 @@
-.note {
+.tip {
   font-family: $font-secondary;
   font-size: $font-size-text;
   border-radius: 6px;
   padding: 1rem 1.5rem;
 }
 
-.note-warning {
-  background-color: $algarrobo-green-primary;
+.tip-warning {
+  background-color: $algarrobo-blue;
   color: $white;
 }
 
-.note-icon {
+.tip-icon {
   margin: 0 0.75rem 0.75rem 0;
   display: flex;
   align-items: center;
@@ -25,6 +25,6 @@
   font-size: $font-size-title;
 }
 
-.docs .note {
+.docs .tip {
   margin: 2rem -1.5rem;
 }
