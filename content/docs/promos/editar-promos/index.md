@@ -16,10 +16,10 @@ toc: true
 {{<note text="Estas acciones pueden realizarse desde la pantalla de búsqueda de promociones o desde la pantalla de consulta de tickets pendientes de pago mediante el icono de lápiz. Ve a los artículos relacionados al final de este documento.">}}
 
 1. Ingresa a la herramienta de "Gestión de ingresos".
-1. En el panel de navegación, selecciona el icono ![](../Documents/Markdown%20Monster%20Weblog%20Posts/prom.png) para acceder a la pantalla "Promociones comerciales".
+1. En el panel de navegación, selecciona el icono relacionado para acceder a la pantalla "Promociones comerciales".
 1. En la parte superior puedes ingresar los datos de la promoción que deseas editar.
-1. En la grilla con los resultados de la búsqueda, presiona el lápiz en la promoción deseada para acceder a la ventana de edición. 
-1. Realiza los cambios que sean necesarios. 
+1. En la grilla con los resultados de la búsqueda, presiona el lápiz en la promoción deseada para acceder a la ventana de edición.
+1. Realiza los cambios que sean necesarios.
 1. Cuando hayas finalizado, presiona **Guardar**.
 
 ## Véase también
