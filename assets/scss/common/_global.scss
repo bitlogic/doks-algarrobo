@@ -145,6 +145,8 @@ body {
 .docs-content {
   padding-bottom: 3rem;
   order: 1;
+  display: flex;
+  flex-direction: column;
 }
 
 .docs-navigation {
@@ -168,9 +170,37 @@ body {
   }
 }
 
+.list-unstyled > li > a {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size 0.7s;
+
+  &:hover {
+    text-decoration: none;
+    color: $algarrobo-green-secondary;
+    background-size: 90% 2px;
+  }
+}
+
 #TableOfContents ul {
   padding-left: 0;
   list-style: none;
+}
+
+#TableOfContents > ul > li > a {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size 0.7s;
+
+  &:hover {
+    text-decoration: none;
+    color: $algarrobo-green-secondary;
+    background-size: 90% 2px;
+  }
 }
 
 ::selection {
@@ -198,7 +228,6 @@ body {
   margin-top: -12rem;
 }
 
-// https://fossheim.io/writing/posts/css-text-gradient/
 .gradient-text {
   background-color: $algarrobo-green-primary;
   background-image: linear-gradient(90deg, $algarrobo-green-primary, $blue-300 50%, $pink-500);

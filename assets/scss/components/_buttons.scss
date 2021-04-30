@@ -83,10 +83,10 @@ body.dark .toggle-dark {
 
 .link {
   background-image: linear-gradient(currentColor, currentColor);
-  background-position:50% 100%;
+  background-position: 50% 100%;
   background-repeat: no-repeat;
   background-size: 0% 2px;
-  transition: background-size .3s;
+  transition: background-size 0.3s;
   cursor: pointer;
 
   &:hover {
@@ -99,17 +99,3 @@ body.dark .toggle-dark {
 a:hover {
   text-decoration: none;
 }
-
-// a {
-//   background-image: linear-gradient(currentColor, currentColor);
-//   background-position:50% 100%;
-//   background-repeat: no-repeat;
-//   background-size: 0% 2px;
-//   transition: background-size .3s;
-
-//   &:hover {
-//     text-decoration: none;
-//     color: $algarrobo-green-success;
-//     background-size: 100% 2px;
-//   }
-// }

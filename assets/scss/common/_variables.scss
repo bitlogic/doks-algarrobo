@@ -31,14 +31,16 @@ $color-disabled: mix($black, $white, 10%);
 //Algarrobo
 $algarrobo-red-danger: #dc1351;
 $algarrobo-yellow: #faa41a;
-$algarrobo-yellow-transparent: rgba(250, 164, 26, .5);
+$algarrobo-yellow-transparent: rgba(250, 164, 26, 0.5);
 $algarrobo-green-primary: #00a98f;
-$algarrobo-green-primary-transparent: rgba(0, 169, 143, .5);
+$algarrobo-green-primary-transparent: rgba(0, 169, 143, 0.1);
 $algarrobo-green-secondary: #006755;
+$algarrobo-green-secondary-transparent: rgba(0, 103, 85, 0.3);
 $algarrobo-green-success: #0ee1a2;
 $algarrobo-blue: #00497c;
-$algarrobo-blue-transparent: rgba(0, 73, 124, .5);
+$algarrobo-blue-transparent: rgba(0, 73, 124, 0.1);
 $algarrobo-violet: #6f2789;
+$algarrobo-violet-transparent: rgba(111, 39, 137, 0.3);
 $algarrobo-black: #000;
 
 // Shadows

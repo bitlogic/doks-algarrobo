@@ -15,14 +15,13 @@ toc: true
 
 ## Crear promociones comerciales
 
-Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. [Crear →]({{< relref "crear-promos" >}})
+Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. {{< link text="Crear →" to="crear-promos" >}}
 
 ## Buscar promociones comerciales
 
-Con esta funcionalidad podrás buscar las promociones comerciales que se hayan generado anteriormente. [Buscar →]({{< relref "buscar-promos" >}})
+Con esta funcionalidad podrás buscar las promociones comerciales que se hayan generado anteriormente. {{< link text="Buscar →" to="buscar-promos" >}}
 
 ## Editar promociones comerciales
-Con esta funcionalidad puedes realizar los cambios que consideres necesarios tanto en la información general de una promoción, como en sus reglas o criterios relacionados. [Editar →]({{< relref "editar-promos" >}})
-
+Con esta funcionalidad puedes realizar los cambios que consideres necesarios tanto en la información general de una promoción, como en sus reglas o criterios relacionados. {{< link text="Editar →" to="editar-promos" >}}
 ## Consultar tickets
 Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. {{< link text="Buscar tickets" to="consultar-tickets" >}}

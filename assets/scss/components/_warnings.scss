@@ -3,6 +3,7 @@
   font-size: $font-size-text;
   border-radius: 6px;
   width: 90%;
+  align-self: center;
 }
 
 .alert-icon {
@@ -13,6 +14,7 @@
 
 .icon {
   margin-right: 8px;
+  fill: $algarrobo-black;
 }
 
 .icon-title {
@@ -43,7 +45,7 @@
 
 .alert-warning {
   background-color: $algarrobo-yellow-transparent;
-  color: $white;
+  color: $algarrobo-black;
 }
 
 .alert-success {

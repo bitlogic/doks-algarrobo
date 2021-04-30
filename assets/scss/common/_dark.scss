@@ -81,22 +81,34 @@ body.dark .alert-primary a {
 }
 
 body.dark .alert-warning {
-  background: $algarrobo-yellow;
-  color: $algarrobo-black;
-}
-
-body.dark .alert-warning .icon{
-  fill: $algarrobo-black;
-}
-
-body.dark .note-warning {
-  background: $algarrobo-green-secondary;
+  background: $algarrobo-yellow-transparent;
   color: $white;
 }
 
+body.dark .alert-warning .icon {
+  fill: $white;
+}
+
+body.dark .note-warning {
+  background: $algarrobo-green-secondary-transparent;
+  color: $white;
+}
+
+body.dark .note-warning .note-icon {
+  > svg {
+    fill: $white;
+  }
+}
+
 body.dark .tip-warning {
-  background: $algarrobo-violet;
+  background: $algarrobo-violet-transparent;
   color: $body-color-dark;
+}
+
+body.dark .tip-warning .tip-icon {
+  > svg {
+    fill: $white;
+  }
 }
 
 body.dark .page-links a {
