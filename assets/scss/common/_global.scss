@@ -170,6 +170,11 @@ body {
   }
 }
 
+.lead {
+  font-size: $font-size-subtitle;
+  margin-bottom: 1rem;
+}
+
 .list-unstyled > li > a {
   background-image: linear-gradient(currentColor, currentColor);
   background-position: 0% 100%;
