@@ -1,12 +1,13 @@
 .tip {
   font-family: $font-secondary;
-  font-size: $font-size-text;
+  font-size: $font-size-supertitle;
   border-radius: 6px;
   padding: 1rem 1.5rem;
+  width: 90%;
 }
 
 .tip-warning {
-  background-color: $algarrobo-blue;
+  background-color: $algarrobo-blue-transparent;
   color: $white;
 }
 

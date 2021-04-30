@@ -31,10 +31,13 @@ $color-disabled: mix($black, $white, 10%);
 //Algarrobo
 $algarrobo-red-danger: #dc1351;
 $algarrobo-yellow: #faa41a;
+$algarrobo-yellow-transparent: rgba(250, 164, 26, .5);
 $algarrobo-green-primary: #00a98f;
+$algarrobo-green-primary-transparent: rgba(0, 169, 143, .5);
 $algarrobo-green-secondary: #006755;
 $algarrobo-green-success: #0ee1a2;
 $algarrobo-blue: #00497c;
+$algarrobo-blue-transparent: rgba(0, 73, 124, .5);
 $algarrobo-violet: #6f2789;
 $algarrobo-black: #000;
 
@@ -52,6 +55,7 @@ $font-secondary: "Source Sans Pro", sans-serif;
 $font-size-text: 0.875; //14px
 $font-size-subtitle: 1rem; //16px
 $font-size-title: 1.125rem; //18px
+$font-size-supertitle: 1.25rem; //20px
 
 //Weight
 $font-weight-normal: 400;
@@ -78,6 +82,7 @@ $radius-lg: 0.5rem;
   &:hover {
     color: $white;
     background-color: $algarrobo-green-secondary;
+    text-decoration: none;
   }
 }
 

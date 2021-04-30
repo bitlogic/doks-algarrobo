@@ -73,10 +73,43 @@ body.dark .toggle-dark {
   display: block;
 }
 
+.btn:hover {
+  text-decoration: none;
+}
+
 .btn-start {
   @extend %button;
+}
+
+.link {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position:50% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size .3s;
+  cursor: pointer;
+
+  &:hover {
+    text-decoration: none;
+    color: $algarrobo-green-success;
+    background-size: 100% 2px;
+  }
 }
 
 a:hover {
   text-decoration: none;
 }
+
+// a {
+//   background-image: linear-gradient(currentColor, currentColor);
+//   background-position:50% 100%;
+//   background-repeat: no-repeat;
+//   background-size: 0% 2px;
+//   transition: background-size .3s;
+
+//   &:hover {
+//     text-decoration: none;
+//     color: $algarrobo-green-success;
+//     background-size: 100% 2px;
+//   }
+// }

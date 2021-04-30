@@ -25,4 +25,4 @@ Con esta funcionalidad podrás buscar las promociones comerciales que se hayan g
 Con esta funcionalidad puedes realizar los cambios que consideres necesarios tanto en la información general de una promoción, como en sus reglas o criterios relacionados. [Editar →]({{< relref "editar-promos" >}})
 
 ## Consultar tickets
-on esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. [Buscar tickets →]({{< relref "consultar-tickets" >}})
+Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. {{< link text="Buscar tickets" to="consultar-tickets" >}}

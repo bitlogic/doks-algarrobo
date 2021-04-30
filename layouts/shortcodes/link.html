@@ -1,0 +1,3 @@
+{{ $link := $.Site.GetPage (.Get "to") }}
+
+<a class="link" href="{{ $link.Permalink }}">{{ .Get "text" | safeHTML }}</a>

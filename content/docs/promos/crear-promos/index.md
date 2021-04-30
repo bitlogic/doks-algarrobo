@@ -54,8 +54,8 @@ Por último, si has incluido varios criterios, será necesario que en la última
 
 12.  Una vez definidos los datos generales de la promoción, los tickets asociados y las reglas o criterios de aplicación haz clic en el botón **Guardar.**
 
-##### Véase también
+## Véase también
 
-[Buscar promociones comerciales]({{< relref "buscar-promos" >}})
-
-[Editar promociones comerciales]({{< relref "editar-promos" >}})
+{{< link text="Buscar promociones comerciales" to="buscar-promos" >}}
+</br>
+{{< link text="Editar promociones comerciales" to="editar-promos" >}}

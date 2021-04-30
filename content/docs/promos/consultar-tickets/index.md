@@ -23,10 +23,10 @@ toc: true
 
 {{<tip text="Si tienes los permisos necesarios, desde esta pantalla también puedes ver más detalles o editar las promociones comerciales haciendo clic en el icono de lápiz.">}}
 
-##### Véase también
+## Véase también
 
-[Crear promociones comerciales]({{< relref "crear-promos" >}})
-
-[Editar promociones comerciales]({{< relref "editar-promos" >}})
-
-[Buscar promociones comerciales]({{< relref "buscar-promos" >}})
+{{< link text="Crear promociones comerciales" to="crear-promos" >}}
+<br/>
+{{< link text="Editar promociones comerciales" to="editar-promos" >}}
+<br/>
+{{< link text="Buscar promociones comerciales" to="buscar-promos" >}}

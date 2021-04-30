@@ -22,10 +22,10 @@ toc: true
 1. Realiza los cambios que sean necesarios. 
 1. Cuando hayas finalizado, presiona **Guardar**.
 
-##### Véase también
+## Véase también
 
-[Crear promociones comerciales]({{< relref "crear-promos" >}})
-
-[Buscar promociones comerciales]({{< relref "buscar-promos" >}})
-
-[Consultar tickets]({{< relref "consultar-tickets" >}})
+{{< link text="Crear promociones comerciales" to="crear-promos" >}}
+<br/>
+{{< link text="Buscar promociones comerciales" to="buscar-promos" >}}
+<br/>
+{{< link text="Consultar tickets" to="consultar-tickets" >}}

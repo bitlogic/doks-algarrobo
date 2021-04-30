@@ -3,10 +3,11 @@
   font-size: $font-size-text;
   border-radius: 6px;
   padding: 1rem 1.5rem;
+  width: 90%;
 }
 
 .note-warning {
-  background-color: $algarrobo-green-primary;
+  background-color: $algarrobo-green-primary-transparent;
   color: $white;
 }
 
@@ -22,7 +23,8 @@
 
 .icon-title {
   font-weight: $font-weight-bold;
-  font-size: $font-size-title;
+  font-size: $font-size-supertitle;
+  margin: 0;
 }
 
 .docs .note {

@@ -2,6 +2,7 @@
   font-family: $font-secondary;
   font-size: $font-size-text;
   border-radius: 6px;
+  width: 90%;
 }
 
 .alert-icon {
@@ -16,7 +17,7 @@
 
 .icon-title {
   font-weight: $font-weight-bold;
-  font-size: $font-size-title;
+  font-size: $font-size-supertitle;
 }
 
 .docs .alert {
@@ -41,7 +42,7 @@
 }
 
 .alert-warning {
-  background-color: $algarrobo-yellow;
+  background-color: $algarrobo-yellow-transparent;
   color: $white;
 }
 

@@ -81,13 +81,17 @@ body.dark .alert-primary a {
 }
 
 body.dark .alert-warning {
-  background: $algarrobo-red-danger;
-  color: $body-color-dark;
+  background: $algarrobo-yellow;
+  color: $algarrobo-black;
+}
+
+body.dark .alert-warning .icon{
+  fill: $algarrobo-black;
 }
 
 body.dark .note-warning {
   background: $algarrobo-green-secondary;
-  color: $body-color-dark;
+  color: $white;
 }
 
 body.dark .tip-warning {

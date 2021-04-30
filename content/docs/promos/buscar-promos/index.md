@@ -24,10 +24,8 @@ toc: true
 
 {{<note text="En los títulos de las columnas de la grilla puedes usar las flechas para ordenar los datos de manera ascendente o descendente. Desde esta grilla también puedes activar o desactivar una promoción. Además, al hacer clic en el icono de lápiz podrás editar los datos de la promoción seleccionada. ">}}
 
-##### Véase también 
+## Véase también 
 
-[Crear promociones comerciales]({{< relref "crear-promos" >}})
-
-[Editar promociones comerciales]({{< relref "editar-promos" >}})
-
-
+{{< link text="Crear promociones comerciales" to="crear-promos" >}}
+<br/>
+{{< link text="Editar promociones comerciales" to="editar-promos" >}}
