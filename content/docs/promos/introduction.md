@@ -13,6 +13,10 @@ weight: 010
 toc: true
 ---
 
+Disfrutá de estas hermosas promos! ![etiquetas de promociones](./promo.jpg)
+
+
+
 ## Crear promociones comerciales
 
 Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. {{< link text="Crear →" to="crear-promos" >}}
