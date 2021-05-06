@@ -1,6 +1,6 @@
 ---
 title: "Consultar promociones financieras"
-description: "Con Papertic puedes ver los detalles de las promociones financieras que se aplicarán a los tickets dependiendo de los medios de pago que se elijan."
+description: "Con Paypertic puedes ver los detalles de las promociones financieras que se aplicarán a los tickets dependiendo de los medios de pago que se elijan."
 lead: "Con esta funcionalidad podrás buscar las promociiones financieras que se hayan generado anteriormente. Puedes realizar la búsqueda usando el filtros. Desde esta pantalla, puedes editar una promoción y sus criterios desde esta pantalla si tienes permisos."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "Promociones Comerciales"
-weight: 100
+weight: 070
 toc: true
 ---
 
@@ -24,4 +24,4 @@ toc: true
 
 ## Véase también
 
-Cómo editar una promoción financiera
+{{< link text="Editar una promoción financiera" to="editar-promosfinancieras" >}}

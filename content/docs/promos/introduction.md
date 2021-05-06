@@ -13,7 +13,7 @@ weight: 010
 toc: true
 ---
 
-Disfrutá de estas hermosas promos! ![etiquetas de promociones](./promo.jpg)
+Disfrutá de estas hermosas promos! ![etiquetas de promociones](promo.jpg)
 
 
 
