@@ -6,8 +6,6 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-start" href="{{ "docs/prologue/introduction/" | absURL }}" role="button">Get started</a>
-      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ .Site.Data.doks.version }}</a></p>
     </div>
   </div>
 </section>
@@ -15,35 +13,47 @@
 
 {{ define "sidebar-prefooter" }}
 <section class="section section-sm">
-  <div class="container">
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-5">
-        <h2 class="h4">Promociones comerciales</h2>
-        <p>Gestionás las mejores promos, vieja!</p><p><a href="docs/promos/introduction/">Ver más...</a></p>
-      </div>
-      <div class="col-lg-5">
-        <h2 class="h4">Exámenes online</h2>
-        <p>Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.</p>
-      </div>
-      <div class="col-lg-5">
-        <h2 class="h4">SEO-ready</h2>
-        <p>Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.</p>
-      </div>
-    </div>
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-5">
-        <h2 class="h4">Full text search</h2>
-        <p>Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.</p>
-      </div>
-      <div class="col-lg-5">
-        <h2 class="h4">Page layouts</h2>
-        <p>Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.</p>
-      </div>
-      <div class="col-lg-5">
-        <h2 class="h4">Dark mode</h2>
-        <p>Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.</p>
-      </div>
-    </div>
+  <div class="homeContainer">
+      <button class="homeContainer__card" onclick="location.href='/docs/epagos/introduction/'">
+        <h2 class="h4">ePagos</h2>
+        <p>ePagos, vieja!</p>
+        <p><a href="/docs/epagos/introduction/">Ver más...</a></p>
+      </button>
+      <button class="homeContainer__card" onclick="location.href='/docs/revenue-management/introduction/'">
+        <h2 class="h4">Revenue Management</h2>
+        <p>Revenue Management, vieja!</p>
+        <p><a href="/docs/revenue-management/introduction/">Ver más...</a></p>
+      </button>
+      <button class="homeContainer__card" onclick="location.href='/docs/revenue-management/introduction/'">
+        <h2 class="h4">Admisión</h2>
+        <p>Admisión, vieja!</p>
+        <p><a href="/docs/revenue-management/introduction/">Ver más...</a></p>
+      </button>
+      <button class="homeContainer__card" onclick="location.href='/docs/revenue-management/introduction/'">
+        <h2 class="h4">Planificación</h2>
+        <p>Planificación, vieja!</p>
+        <p><a href="/docs/revenue-management/introduction/">Ver más...</a></p>
+      </button>
+      <button class="homeContainer__card" onclick="location.href='/docs/revenue-management/introduction/'">
+        <h2 class="h4">Exámenes</h2>
+        <p>Exámenes, vieja!</p>
+        <p><a href="/docs/revenue-management/introduction/">Ver más...</a></p>
+      </button>
+      <button class="homeContainer__card" onclick="location.href='/docs/revenue-management/introduction/'">
+        <h2 class="h4">Portal Alumno (escritorio)</h2>
+        <p>Portal Alumno (escritorio), vieja!</p>
+        <p><a href="/docs/revenue-management/introduction/">Ver más...</a></p>
+      </button>
+      <button class="homeContainer__card" onclick="location.href='/docs/revenue-management/introduction/'">
+        <h2 class="h4">Portal Alumno (Móvil)</h2>
+        <p>Portal Alumno (Móvil), vieja!</p>
+        <p><a href="/docs/revenue-management/introduction/">Ver más...</a></p>
+      </button>
+      <button class="homeContainer__card" onclick="location.href='/docs/revenue-management/introduction/'">
+        <h2 class="h4">Oferta Académica</h2>
+        <p>Oferta Académica, vieja!</p>
+        <p><a href="/docs/revenue-management/introduction/">Ver más...</a></p>
+      </button>
   </div>
 </section>
 {{ end }}
