@@ -3,12 +3,7 @@
 name: GitHub Pages
 
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-  page_build:
-  release:
+  workflow_dispatch:
 
 jobs:
   deploy:
