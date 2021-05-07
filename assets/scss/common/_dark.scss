@@ -140,19 +140,19 @@ body.dark .page-links h3.sidebar-link a {
   color: $body-color-dark;
 }
 
-body.dark .page-links > h3{
+body.dark .page-links > h3 {
   color: $algarrobo-green-primary;
+}
+
+body.dark .navbar-light .navbar-text a:hover,
+body.dark .navbar-light .navbar-text a:focus {
+  color: $navbar-dark-active-color;
 }
 
 body.dark #TableOfContents > ul > li > a {
   &:hover {
     color: $blue-300;
   }
-}
-
-body.dark .navbar-light .navbar-text a:hover,
-body.dark .navbar-light .navbar-text a:focus {
-  color: $navbar-dark-active-color;
 }
 
 body.dark .navbar .btn-link {
@@ -263,12 +263,12 @@ body.dark .docs-toc::-webkit-scrollbar-thumb:hover {
   background: $border-dark;
 }
 
-body.dark .docs-links h3:not(:first-child) {
-  border-top: 1px solid $border-dark;
-}
-
 body.dark .docs-links > h3 {
   color: $algarrobo-green-primary;
+}
+
+body.dark .docs-links h3:not(:first-child) {
+  border-top: 1px solid $border-dark;
 }
 
 body.dark a.docs-link {
@@ -326,8 +326,8 @@ body.dark .figure-caption {
   color: $body-color-dark;
 }
 
-body.dark .homeContainer{
-  &__card{
+body.dark .homeContainer {
+  &__card {
     background-color: $gray-800;
     color: $white;
   }

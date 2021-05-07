@@ -20,6 +20,47 @@ h4:hover a {
   text-decoration: none;
 }
 
+.homeContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  width: 90%;
+
+  &__card {
+    border: none;
+    outline: none;
+    width: 30%;
+    margin: 15px;
+    padding: 1rem;
+    text-align: center;
+    background-color: $white;
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.123252);
+
+    &:hover {
+      background-color: $gray-100;
+      transition: 0.5s;
+    }
+
+    a {
+      background-image: linear-gradient(currentColor, currentColor);
+      background-position: 50% 100%;
+      background-repeat: no-repeat;
+      background-size: 0% 2px;
+      transition: background-size 0.3s;
+      cursor: pointer;
+      color: $blue;
+
+      &:hover {
+        text-decoration: none;
+        color: $light-blue;
+        background-size: 100% 2px;
+      }
+    }
+  }
+}
+
 .card-list {
   margin-top: 2.25rem;
 }
@@ -39,51 +80,10 @@ p.meta {
   font-size: $font-size-text;
 }
 
-.homeContainer{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin: 0 auto;
-  width: 90%;
-
-  &__card{
-    border: none;
-    outline: none;
-    width: 30%;
-    margin: 15px;
-    padding: 1rem;
-    text-align: center;
-    background-color: $white;
-    border-radius: 10px;
-    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.123252);
-
-    &:hover{
-      background-color: $gray-100;
-      transition: 0.5s;
-    }
-
-    a{
-      background-image: linear-gradient(currentColor, currentColor);
-      background-position: 50% 100%;
-      background-repeat: no-repeat;
-      background-size: 0% 2px;
-      transition: background-size 0.3s;
-      cursor: pointer;
-      color: $blue;
-
-      &:hover {
-        text-decoration: none;
-        color: $light-blue;
-        background-size: 100% 2px;
-      }
-    }
-  }
-}
-
 @media screen and (max-width: 768px) {
-  .homeContainer{
-    &__card{
+  .homeContainer {
+    &__card {
       width: 90%;
     }
   }
-} 
+}
