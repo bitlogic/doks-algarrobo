@@ -1,7 +1,7 @@
 ---
 title: "Rendir un examen"
 description: "Con esta funcionalidad podrás llevar a cabo las instancias de evaluación para las que te has inscripto."
-lead: "Puedes marcar respuestas para repasar, revisar tus elecciones y obtener la nota al finalizar si así se configuró el examen."
+lead: "Una vez que te hayas inscripto a un examen, puedes rendirlo desde esta herramienta. Mientras lo realizas puedes marcar respuestas para repasar, revisar tus elecciones y obtener la nota al finalizar si así se configuró el examen."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -30,7 +30,7 @@ toc: true
 7. Una vez que hayas respondido, haz clic en **SIGUIENTE** para continuar con la siguiente pregunta.
 8. Repite estas acciones en todos los enunciados.
 
- {{<note text="Si haces clic en <b>ANTERIOR</b> podrás regresar a las preguntas anteriores. En caso de que la conexión o la energía eléctrica se interrumpan, cuando los servicios se vuelvan a restablecer y puedas abrir la herramienta para rendir exámenes presiona en botón <b>CONTINUAR RINDIENDO</b>.">}}
+ {{<note text="Si haces clic en <b>ANTERIOR</b> podrás regresar a las preguntas anteriores. En caso de que la conexión o la energía eléctrica se interrumpan, cuando los servicios se vuelvan a restablecer y puedas abrir la herramienta para rendir exámenes presiona en botón <b>CONTINUAR RINDIENDO</b>. Dependiendo de la configuración del examen serán las veces que puedas reintentar continuar con la evaluación. Si llegas al límite máximo de intentos el sistema te alertará y dará por finalizado el examen.">}}
 
  9. Una vez que termines de repasar y revisar, haz clic en el botón **FINALIZAR EXAMEN**. Si el sistema detecta preguntas sin respuesta o marcadas para repasar que no han sido confirmadas, te alertará con un mensaje para que puedas reverlas o finalizar el examen de todos modos.
 
