@@ -28,18 +28,18 @@ toc: true
 {{<note text=`Las reglas se aplican con un orden de prioridad de arriba hacia abajo. Puedes agregar tantas reglas como desees. Las siguientes acciones están disponibles en esta grilla:
 <br>
 
-**Clonar**: si una regla ya está definida, al hacer clic en este icono puedes copiar debajo exactamente la misma información.
+<b>Clonar</b>: si una regla ya está definida, al hacer clic en este icono puedes copiar debajo exactamente la misma información.
 <br>
 
-**Ordenar**: cuando tengas varias reglas y quieras asignarles un nuevo orden en la grilla, puedes hacer clic en este ícono en el renglón de la regla que deseas mover y arrastrarla hacia su nuevo lugar. La herramienta te informa acerca de esta posibilidad con un mensaje en la parte inferior de la grilla.
+<b>Ordenar</b>: cuando tengas varias reglas y quieras asignarles un nuevo orden en la grilla, puedes hacer clic en este ícono en el renglón de la regla que deseas mover y arrastrarla hacia su nuevo lugar. La herramienta te informa acerca de esta posibilidad con un mensaje en la parte inferior de la grilla.
 <br>
 
-**Eliminar**: usa este botón para eliminar una regla.
+<b>Eliminar</b>: usa este botón para eliminar una regla.
 <br>
 
 Por último, si has incluido varios criterios, será necesario que en la última fila definas cómo se aplicará la promoción a la parte de la población excluida. Si colocas un cero en el campo valor, esto significa que no se desea incluir ningún otro tipo de población a la promoción y si ingresas otro valor (por ejemplo, cinco) este descuento será aplicado al resto de la población que se excluyó en los criterios anteriores.`>}}
 
-1. Una vez definidas las reglas o los criterios de aplicación, haz clic en el botón **Guardar.**
+8. Una vez definidas las reglas o los criterios de aplicación, haz clic en el botón **Guardar.**
 
 ## Véase también
 

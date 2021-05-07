@@ -1,5 +1,5 @@
 ---
-title: "Buscar medios de pago"
+title: "Consultar medios de pago"
 description: "Con esta funcionalidad podrás buscar los medios de pagos vigentes."
 lead: "Al ingresar a medios de pago, podrás ver las opciones disponibles en ePagos para que los estudiantes puedan abonar los tickets."
 date: 2020-11-16T13:59:39+01:00
@@ -21,4 +21,4 @@ toc: true
 
 ## Véase también
 
-{{< link text="Editar medios de pago" to="consultar-mediosdepago" >}}
+{{< link text="Editar medios de pago" to="editar-mediosdepago" >}}
