@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://localhost:1313/doks-algarrobo"
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true

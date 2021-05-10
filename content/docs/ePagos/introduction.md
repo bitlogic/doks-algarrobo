@@ -12,3 +12,13 @@ menu:
 weight: 010
 toc: true
 ---
+
+## Historial de pagos
+
+#### Consultar tu historial de pagos (estudiante)
+
+Con esta herramienta puedes consultar tu historial de pagos. [Consultar]({{< relref "/consultar-historial-estudiante.md" >}} "Consultar historial")
+
+#### Consultar tu historial de pagos (asistente)
+
+Con esta herramienta puedes consultar tu historial de pagos. [Consultar]({{< relref "/consultar-historial-asistente.md" >}} "Consultar historial")

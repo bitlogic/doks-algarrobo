@@ -6,8 +6,11 @@ date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
 images: []
+menu:
+  docs:
+    parent: "ePagos"
 weight: 070
-toc: true
+toc: false
 ---
 
 1. Ingresa a la herramienta "Gestión de ingresos".

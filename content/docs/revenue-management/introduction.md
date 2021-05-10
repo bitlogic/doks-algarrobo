@@ -15,35 +15,38 @@ toc: true
 
 Disfrutá de estas hermosas promos! ![etiquetas de promociones](promo.jpg)
 
-## Crear promociones comerciales
-
-Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. {{< link text="Crear" to="crear-promos" >}}
-
-## Buscar promociones comerciales
-
-Con esta funcionalidad podrás buscar las promociones comerciales que se hayan generado anteriormente. {{< link text="Buscar" to="buscar-promos" >}}
-
-## Editar promociones comerciales
-
-Con esta funcionalidad puedes realizar los cambios que consideres necesarios tanto en la información general de una promoción, como en sus reglas o criterios relacionados. {{< link text="Editar" to="editar-promos" >}}
-
-## Consultar promociones financieras
+## Promociones financieras
+#### Consultar promociones financieras
 
 Con esta funcionalidad podrás consultar las promociones financieras disponibles. {{< link text="Consultar" to="consultar-promosfinancieras" >}}
 
-## Editar promociones financieras
+#### Editar promociones financieras
 
 Con esta funcionalidad podrás editar las promociones financieras disponibles. {{< link text="Editar" to="editar-promosfinancieras" >}}
 
-## Consultar medios de pago
+## Medios de pago
+#### Consultar medios de pago
 
 Con esta funcionalidad podrás consultar los medios de pago disponibles. {{< link text="Consultar" to="consultar-mediosdepago" >}}
 
-## Editar medios de pago
+#### Editar medios de pago
 
 Con esta funcionalidad podrás editar los medios de pago disponibles. {{< link text="Editar" to="editar-mediosdepago" >}}
 
-## Consultar tickets
+## Reportes
+#### Consultar tickets
 
 Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. [Buscar]({{< relref "/consultar-tickets" >}} "Buscar tickets")
-{{< link text="Buscar tickets" to="/consultar-tickets" >}}
+
+## Promociones comerciales
+#### Crear promociones comerciales
+
+Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. {{< link text="Crear" to="crear-promos" >}}
+
+#### Buscar promociones comerciales
+
+Con esta funcionalidad podrás buscar las promociones comerciales que se hayan generado anteriormente. [Buscar →]({{< relref "/buscar-promos" >}})
+
+#### Editar promociones comerciales
+
+Con esta funcionalidad puedes realizar los cambios que consideres necesarios tanto en la información general de una promoción, como en sus reglas o criterios relacionados. [Editar →]({{< relref "/editar-promos" >}})
