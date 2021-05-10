@@ -185,7 +185,7 @@ body.dark .navbar-form::after {
 }
 
 body.dark .form-control:focus {
-  box-shadow: 0 0 0 0.2rem $focus-color-dark;
+  box-shadow: 0 0 0 0.2rem $dark-turquoise;
 }
 
 body.dark .border-top {
@@ -330,5 +330,9 @@ body.dark .homeContainer {
   &__card {
     background-color: $gray-800;
     color: $white;
+
+    &:hover {
+      background-color: $gray-700;
+    }
   }
 }
