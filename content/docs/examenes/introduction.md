@@ -12,10 +12,17 @@ weight: 010
 toc: true
 ---
 
-## Crear tipo de examen
+## Configuración
 
-Con esta funcionalidad podrás crear un tipo de examen. [Buscar]({{< relref "/crear-tipo-examen.md" >}} "Buscar")
-
-## Gestionar enunciados
+#### Gestionar enunciados
 
 Con esta funcionalidad podrás gestionar enunciados. [Gestionar]({{< relref "/gestionar-enunciados.md" >}} "Gestionar enunciados")
+#### Crear tipo de examen
+
+Con esta funcionalidad podrás crear un tipo de examen. [Crear]({{< relref "/crear-tipo-examen.md" >}} "Crear examen")
+
+## Instancia de examen
+
+#### Rendir un examen
+
+Con esta funcionalidad rendir un examen. [Rendir]({{< relref "/rendir.examen.md" >}} "Rendir examen")
