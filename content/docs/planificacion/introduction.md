@@ -52,7 +52,7 @@ Con esta funcionalidad podrás gestionar períodos. [Gestionar]({{< relref "/ges
 
 #### Descargar archivo en CSV (co-docente)
 
-Con esta funcionalidad podrás descargar el archivo en CSV. [Descargar]({{< relref "/descargar-archivo-svg.md" >}} "Descargar archivo")
+Con esta funcionalidad podrás descargar el archivo en CSV. [Descargar]({{< relref "/descargar-archivo-csv.md" >}} "Descargar archivo")
 
 #### Buscar y asignar docentes (co-docente)
 
