@@ -18,21 +18,34 @@ toc: true
 <br>
 
 - En “Cátedra” ingresa el código identificatorio de la cátedra.
+<br>
+
 - En “Cupo” agrega la cantidad máxima de inscriptos permitida para dicha cátedra.
+<br>
+
 - El botón “LMS” hace referencia a las clases que se dictan por medio de la plataforma online. Se muestra activado por defecto. Si necesitas puedes desactivarlo.
+<br>
+
 - En “Turno” selecciona el segmento del día en el que se van a dictar las clases.
+<br>
+
 - En “Docente” escribe el nombre del titular de la cátedra.`>}}
 
-Nota: 
-.
+5. En la sección “Carreras/Plan” a la derecha de la pantalla, indica el orden de apertura para cada carrera afectada por la cátedra.
+6. Luego, ve a la grilla del Calendario y haz clic en alguna celda. 
+7. La ventana “Crear” se abrirá automáticamente. Completa los campos “Edificio”, “Aula”, “Hora de inicio” y “Hora de fin”. 
 
-- En “Cátedra” (1) ingrese el código identificatorio de la cátedra.
-- En “Cupo” (2) ingrese la cantidad máxima de inscriptos permitida para dicha cátedra.
-- El botón “LMS” (3) hace referencia a las clases que se dictan por medio de la plataforma online. Se muestra activado por defecto.
-- En “Turno” (4), seleccione el segmento del día en el que se van a dictar las clases.
-- En “Docente” (5) seleccione al titular de la cátedra. Escriba el nombre o parte del nombre para que se muestren las opciones relacionadas.
-- En la sección “Carreras/Plan” (6) indique el orden de apertura para cada carrera afectada por la cátedra.
-- En la sección del calendario (7) haga clic. La ventana “Crear” se abrirá automáticamente. Complete los campos “Edificio”, “Aula”, “Hora de inicio” y “Hora de fin”. Si desea agregar una nueva clase el mismo día, seleccione el botón “+ Agregar horario”. Si desea eliminar alguno de los registros creados, presione el ícono eliminar.
-- Una vez que haya ingresado todos los datos, presione “Guardar” en la ventana de creación.
-6. El botón “Guardar” (8) en la parte superior derecha de la pantalla se habilita cuando todos los campos están completos. Luego de presionar el botón, se desplegará un mensaje comunicando el éxito de la transacción en la parte inferior de la pantalla.
-1. La cátedra creada se podrá ver en la grilla de la pantalla de búsqueda. Por defecto, la cátedra se creará cerrada. Para poder abrir cualquier cátedra desde esta pantalla, use el botón de encendido y apagado a al derecha de la cátedra seleccionada. 
+{{<note text="Si deseas agregar una nueva clase el mismo día, seleccione el botón <b>+ Agregar horario</b>. Si deseas eliminar alguno de los registros creados, presiona el ícono eliminar.">}}
+
+8. Una vez que hayas ingresado todos los datos, presiona **Guardar** en la ventana de creación.
+9. Por último, el botón **GUARDAR** ubicado en la parte superior derecha de la pantalla se habilita cuando todos los campos están completos. Luego de presionar el botón, se desplegará un mensaje comunicando el éxito de la transacción en la parte inferior de la pantalla.Una vez que haya ingresado todos los datos, presione “Guardar” en la ventana de creación.
+
+{{<tip text="La cátedra que acabas de crear se podrá ver en la grilla de la pantalla de búsqueda. Por defecto, la cátedra se creará cerrada. Para poder abrir cualquier cátedra desde esta pantalla, usa el botón de encendido y apagado a la derecha de la cátedra seleccionada.">}}
+
+## Véase también
+
+<!-- {{< link text="Buscar cátedras" to="buscar-catedras" >}} -->
+<br/>
+<!-- {{< link text="Editar cátedras" to="editar-catedras" >}} -->
+<br/>
+<!-- {{< link text="Abrir cátedras" to="abrir-catedras" >}} -->
