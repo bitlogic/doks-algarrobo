@@ -1,6 +1,6 @@
 ---
 title: "Buscar cátedras"
-description: "Acá va una descripción..."
+description: "Esta función te será útil si deseas conocer más detalles sobre los seminarios y cátedras creados en el sistema y si quieres buscar aquellas cátedras/seminarios cuya información o encuentros deseas editar."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -9,7 +9,8 @@ weight: 150
 toc: true
 ---
 
-##### En el formulario de búsqueda hay tres campos obligatorios: “Período” (2), “Subperíodo” (3), y “Tipo de cátedra” (8). Una vez que haya ingresado ciertos datos se habilita el botón “Filtrar” (9) para comenzar con la búsqueda.
+1. Accede a la pantalla "Gestión de cátedras presenciales". 
+2. En la parte superior de la pantalla, verás el formulario de búsqueda. Cuatro de estos campos son obligatorios: “Período”, “Subperíodo”, “Tipo de cátedra” y "Estado de cátedra". Una vez que haya ingresado ciertos datos se habilita el botón “Filtrar” (9) para comenzar con la búsqueda.
 
 _Se pueden completar algunos de los campos adicionales para acotar la búsqueda:_
 

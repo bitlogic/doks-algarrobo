@@ -1,6 +1,6 @@
 ---
 title: "Crear un seminario Experimenta"
-description: "Acá va una descripción..."
+description: "Con esta herramienta, los codocentes de planificación, codocentes SGEA, y mesa de ayuda podrán comenzar a generar las cátedras/seminarios de manera fácil y ágil."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -9,22 +9,40 @@ weight: 150
 toc: true
 ---
 
-##### Para comenzar con la creación de un seminario, deberá acceder desde la pantalla de gestión de cátedras presenciales.
+1. Accede a la pantalla "Gestión de cátedras presenciales".
+2. Haz clic en el icono de signo más **+** ubicado en la parte inferior derecha de la pantalla. Se desplegarán cuatro opciones. 
+3. Selecciona la opción “Seminario Experimenta”.
+4. En el formulario “Crear seminario Experimenta”, completa los campos “Modalidad”, “Período”, “Subperíodo”, “Materia”, “Cátedra”, “Turno” y “Cupo”. Los campos marcados con asterisco son obligatorios. La mayoría de los campos son requeridos a excepción de “Docente”.
 
-1. Haga clic en el ícono de signo más ubicado en la parte inferior derecha. Se desplegarán cuatro opciones. Seleccione la opción “Seminario Experimenta”. El formulario correspondiente se abrirá.
-1. En el formulario “Crear seminario Experimenta”, los campos marcados con asterisco son obligatorios. La mayoría de los campos son requeridos a excepción de “Docente”.
-1. Complete los campos “Modalidad”, “Período”, “Subperíodo”, y “Materia” de la misma forma que en la búsqueda de cátedras.
-1. Verifique la información que se debe incluir en los siguientes campos:
-- En “Seminario Exp” (1) ingrese el código identificatorio de la cátedra.
-- En “Cupo” (2) ingrese la cantidad máxima de inscriptos permitidos para dicha cátedra.
-- El botón “LMS” (3) hace referencia a las clases que se dictan por medio de la plataforma online. Se muestra desactivado por defecto y no se puede cambiar ya que este es un seminario de práctica presencial.
-- En “Docente” (4) seleccione al titular de la cátedra. Escriba el nombre o parte del nombre para que se muestren las opciones relacionadas.
-- En la sección “Carreras/Plan” (5) indique el orden de apertura para cada carrera afectada por el seminario.
-- En la sección calendario (6) haga clic.  La ventana “Crear” se abrirá automáticamente. Complete los campos  “Edificio”, “Aula”, “Hora de inicio” y “Hora de fin”. Al finalizar, presione “Guardar”.
+{{<note text=`Si es la primera vez que creas un seminario Experimenta, verifica la información que debes incluir en cada uno de los siguientes campos:
+<br>
 
-{{<note text="Para este tipo de seminario se deben seleccionar 5 fechas en las que se van a llevar a cabo los encuentros/clases. Si supera el número máximo de encuentros, se desplegará un mensaje notificándole esta situación. ">}}
+- En “Seminario Exp.” ingresa el número identificatorio de la cátedra.
+<br>
 
-- En la grilla, seleccione todos los encuentros y presione el botón “Guardar” (7) en la parte superior derecha de la pantalla.
-- Una vez que se hayan guardado los cambios, se muestra un mensaje comunicando el éxito de la transacción en la parte inferior de la pantalla.
+- En “Cupo” agrega la cantidad máxima de inscriptos permitida para dicha cátedra.
+<br>
 
-5. La cátedra creada se podrá ver en la grilla de la pantalla de búsqueda. Por defecto, se creará cerrada. Para poder abrir cualquier cátedra desde esta pantalla, use el botón de encendido y apagado a al derecha del registro.
+- El botón “LMS” ) hace referencia a las clases que se dictan por medio de la plataforma online. Se muestra desactivado por defecto y no se puede cambiar ya que este es un seminario de práctica presencial.
+<br>
+
+- En “Docente” escribe el nombre del titular de la cátedra.`>}}
+
+5. En la sección “Carreras/Plan” a la derecha de la pantalla, indica el orden de apertura para cada carrera afectada por el seminario.
+6. Luego, ve a la grilla del Calendario y haz clic en alguna celda. 
+7. La ventana “Crear” se abrirá automáticamente. Completa los campos “Edificio”, “Aula”, “Hora de inicio” y “Hora de fin”.
+8. Una vez que hayas ingresado todos los datos, presiona **Guardar** en la ventana de creación.
+
+{{<note text="Para este tipo de seminario se deben seleccionar 5 fechas en las que se van a llevar a cabo los encuentros/clases. Si superas el número máximo de encuentros, se desplegará un mensaje notificándote esta situación.">}}
+
+9. Por último, el botón **GUARDAR** ubicado en la parte superior derecha de la pantalla se habilita cuando todos los campos están completos. Luego de presionar el botón, se desplegará un mensaje comunicando el éxito de la transacción en la parte inferior de la pantalla.
+
+{{<tip text="El seminario Experimenta que acabas de crear se podrá ver en la grilla de la pantalla de búsqueda. Por defecto, se creará cerrado. Para poder abrir cualquier cátedra/seminario desde esta pantalla, usa el botón de encendido y apagado a al derecha del registro.">}}
+
+## Véase también
+
+<!-- {{< link text="Buscar cátedras" to="buscar-catedras" >}} -->
+<br/>
+<!-- {{< link text="Editar cátedras" to="editar-catedras" >}} -->
+<br/>
+<!-- {{< link text="Abrir cátedras" to="abrir-catedras" >}} -->
