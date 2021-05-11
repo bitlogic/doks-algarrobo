@@ -1,6 +1,6 @@
 ---
 title: "Crear una cátedra presencial"
-description: "Acá va una descripción..."
+description: "Con esta herramienta, los codocentes de planificación, codocentes SGEA, y mesa de ayuda podrán comenzar a generar las cátedras presenciales de manera fácil y ágil."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -9,12 +9,23 @@ weight: 150
 toc: true
 ---
 
-##### Para comenzar con la creación de una cátedra, deberá acceder desde la pantalla de gestión de cátedras presenciales.
+1. Accede a la pantalla de gestión de cátedras presenciales.
+1. Haz clic en el icono de signo más **+** ubicado en la parte inferior derecha de la pantalla. Se desplegarán cuatro opciones. 
+1. Selecciona la opción “Cátedra presencial”. 
+1. En el formulario “Crear cátedra presencial”, completa los campos “Modalidad”, “Período”, “Subperíodo”, “Materia”, “Cátedra”, “Turno” y “Cupo”. Los campos marcados con asterisco son obligatorios. La mayoría de los campos son requeridos a excepción de “Docente”.
 
-1. Haga clic en el ícono de signo más ubicado en la parte inferior derecha. Se desplegarán cuatro opciones. Seleccione la opción “Cátedra presencial”. El formulario correspondiente se abrirá.
-1. En el formulario “Crear cátedra presencial”, los campos marcados con asterisco son obligatorios. La mayoría de los campos son requeridos a excepción de “Docente”.
-1. Complete los campos “Modalidad”, “Período”, “Subperíodo”, y “Materia” de la misma forma que en la búsqueda de cátedras.
-1. Verifique la información que se debe incluir en los siguientes campos:
+{{<note text=`Si es la primera vez que creas una cátedra , verifica la información que debes incluir en cada uno de los siguientes campos:
+<br>
+
+- En “Cátedra” ingresa el código identificatorio de la cátedra.
+- En “Cupo” agrega la cantidad máxima de inscriptos permitida para dicha cátedra.
+- El botón “LMS” hace referencia a las clases que se dictan por medio de la plataforma online. Se muestra activado por defecto. Si necesitas puedes desactivarlo.
+- En “Turno” selecciona el segmento del día en el que se van a dictar las clases.
+- En “Docente” escribe el nombre del titular de la cátedra.`>}}
+
+Nota: 
+.
+
 - En “Cátedra” (1) ingrese el código identificatorio de la cátedra.
 - En “Cupo” (2) ingrese la cantidad máxima de inscriptos permitida para dicha cátedra.
 - El botón “LMS” (3) hace referencia a las clases que se dictan por medio de la plataforma online. Se muestra activado por defecto.
