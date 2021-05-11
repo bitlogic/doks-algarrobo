@@ -229,7 +229,7 @@ body.dark .footer {
 body.dark .docs-links,
 body.dark .docs-toc {
   scrollbar-width: thin;
-  scrollbar-color: $body-bg-dark $body-bg-dark;
+  scrollbar-color: $gray-700;
 }
 
 body.dark .docs-links::-webkit-scrollbar,
@@ -244,18 +244,18 @@ body.dark .docs-toc::-webkit-scrollbar-track {
 
 body.dark .docs-links::-webkit-scrollbar-thumb,
 body.dark .docs-toc::-webkit-scrollbar-thumb {
-  background: $body-bg-dark;
+  background: $gray-700;
 }
 
 body.dark .docs-links:hover,
 body.dark .docs-toc:hover {
   scrollbar-width: thin;
-  scrollbar-color: $border-dark $body-bg-dark;
+  scrollbar-color: $gray-700;
 }
 
 body.dark .docs-links:hover::-webkit-scrollbar-thumb,
 body.dark .docs-toc:hover::-webkit-scrollbar-thumb {
-  background: $border-dark;
+  background: $gray-700;
 }
 
 body.dark .docs-links::-webkit-scrollbar-thumb:hover,

@@ -1,7 +1,15 @@
 {{ $currentPage := . -}}
 {{ range .Site.Menus.docs -}}
-  <h3>{{ .Name }}</h3>
-  {{ if .HasChildren -}}
+  <div class="sidebar-title">
+    <h3>{{ .Name }}</h3>
+    <button class="chevron-right">
+      <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000">
+        <path d="M0 0h24v24H0V0z" fill="none"/>
+        <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6-6-6z"/>
+      </svg>
+    </button>
+    {{ if .HasChildren -}}
+  </div>
   <ul class="list-unstyled">
     {{ range .Children -}}
       {{- $active := or ($currentPage.IsMenuCurrent "docs" .) ($currentPage.HasMenuCurrent "docs" .) -}}

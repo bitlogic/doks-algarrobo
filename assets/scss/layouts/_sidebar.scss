@@ -118,3 +118,17 @@ a.docs-link {
 .page-links h3.sidebar-link a:hover {
   text-decoration: none;
 }
+
+.sidebar-title {
+  display: flex;
+  justify-content: space-between;
+  height: 4.5rem;
+  padding: 0;
+}
+
+.chevron-right {
+  border: none;
+  outline: none;
+  background: none;
+  align-self: flex-end;
+}
