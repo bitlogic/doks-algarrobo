@@ -37,11 +37,11 @@
   background: $gray-200;
 }
 
-.docs-links > h3 {
+.docs-links > .sidebarTitle > h3 {
   font-size: 20px;
   text-transform: uppercase;
-  margin: 1.25rem 0 0.5rem 0;
-  padding: 1.5rem 0 0 0;
+  margin: 0;
+  padding: 0;
   color: $algarrobo-green-secondary;
 }
 
@@ -119,16 +119,41 @@ a.docs-link {
   text-decoration: none;
 }
 
-.sidebar-title {
+.sidebarTitle {
   display: flex;
   justify-content: space-between;
-  height: 4.5rem;
+  align-items: center;
+  height: auto;
   padding: 0;
+  cursor: pointer;
+  margin-top: 1rem;
+
+  &::after {
+    content: "\002B";
+    font-size: 1.5rem;
+    color: $black;
+    margin-right: 1rem;
+  }
+
+  &.active::after {
+    content: "\2212";
+  }
 }
 
-.chevron-right {
+.arrow {
   border: none;
   outline: none;
   background: none;
   align-self: flex-end;
+}
+
+.accordion {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+
+  &__container {
+    border-top: 1px solid;
+    border-image: linear-gradient(to right, transparent, $algarrobo-green-secondary, transparent) 1;
+  }
 }

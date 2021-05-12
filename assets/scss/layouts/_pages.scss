@@ -32,7 +32,7 @@ h4:hover a {
     outline: none;
     width: 30%;
     margin: 15px;
-    padding: 1rem;
+    padding: 1.8rem 0;
     text-align: center;
     background-color: $white;
     border-radius: 10px;
@@ -40,7 +40,17 @@ h4:hover a {
 
     &:hover {
       background-color: $gray-100;
+      transform: scale(1.02);
       transition: 0.5s;
+    }
+
+    h2 {
+      padding: 0;
+      margin: 0;
+    }
+
+    p {
+      margin: 5px 0;
     }
 
     a {
