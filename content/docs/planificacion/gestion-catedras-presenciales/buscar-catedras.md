@@ -23,7 +23,7 @@ toc: true
 - El término “Estándar” hace referencia a la capacidad/cupo de una cátedra para cada materia. También se puede ver el estado actual, con mensajes como: _“Esta cátedra está a punto de llenarse”_, _“Esta cátedra tiene entre un 80% y un 90% de ocupación”_ o _“Esta cátedra está llena”._
 - El término “Cupo” hace referencia al total de inscriptos/cupo total de la cátedra. 
 - El término “Apertura” se refiere al orden en el que se abren las cátedras (en orden ascendente). 
-- El icono de lápiz sirve para abrir la ventana “Editar cátedra presencial“. Aquí puedes ver o modificar los detalles de una cátedra. Para más información, dirígete al artículo relacionado incluído en la sección **Veáse también**.
+- El icono de lápiz sirve para abrir la ventana “Editar cátedra presencial“. Aquí puedes ver o modificar los detalles de una cátedra. Para más información, dirígete al artículo relacionado incluido en la sección **Veáse también**.
 
 ## Véase también
 
