@@ -1,6 +1,6 @@
 ---
 title: "Editar cátedras"
-description: "Acá va una descripción..."
+description: "Con esta funcionalidad puedes realizar cambios en materias cátedras cuya información desas editar."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -8,8 +8,6 @@ images: []
 weight: 150
 toc: true
 ---
-
-### Editar cátedra presencial
 
 1. Haga clic en el icono “Editar”. La ventana “Editar cátedra presencial“ se abre. Aquí, se pueden ver todos los detalles que se pueden editar en una cátedra.
 1. A continuación puede ver los campos que son editables:
