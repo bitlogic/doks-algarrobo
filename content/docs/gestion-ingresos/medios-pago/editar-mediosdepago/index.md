@@ -40,4 +40,4 @@ Por último, si has incluido varios criterios, será necesario que en la última
 
 ## Véase también
 
-<!-- {{< link text="Consultar medios de pagos" to="consultar-mediosdepago" >}} -->
+[Consultar medios de pago →]({{< ref "consultar-mediosdepago" >}} "Consultar medios de pago")

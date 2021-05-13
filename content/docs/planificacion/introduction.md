@@ -32,7 +32,7 @@ Con esta funcionalidad podrás crear otros seminarios. [Crear]({{< relref "/crea
 
 #### Buscar cátedras
 
-Con esta funcionalidad podrás buscar cátedras. [Buscar]({{< relref "/buscar-catedras.md" >}} "Buscar cátedras")
+Con esta funcionalidad podrás buscar cátedras. {{<link text="Buscar cátedras" to="/buscar-catedras.md">}}
 
 #### Abrir cátedras
 

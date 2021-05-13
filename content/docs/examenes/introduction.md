@@ -25,4 +25,4 @@ Con esta funcionalidad podrás crear un tipo de examen. [Crear]({{< relref "/cre
 
 #### Rendir un examen
 
-Con esta funcionalidad rendir un examen. [Rendir]({{< relref "/rendir.examen.md" >}} "Rendir examen")
+Con esta funcionalidad rendir un examen. [Rendir]({{< relref "/rendir-examen.md" >}} "Rendir examen")

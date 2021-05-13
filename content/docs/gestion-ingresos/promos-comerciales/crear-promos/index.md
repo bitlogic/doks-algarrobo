@@ -46,6 +46,6 @@ Por último, si has incluido varios criterios, será necesario que en la última
 
 ## Véase también
 
-<!-- {{< link text="Buscar promociones comerciales" to="buscar-promos" >}}
+[Buscar promociones comerciales →]({{< ref "buscar-promos" >}} "Buscar promociones comerciales")
 </br>
-{{< link text="Editar promociones comerciales" to="editar-promos" >}} -->
+[Editar promociones comerciales →]({{< ref "editar-promos" >}} "Editar promociones comerciales")

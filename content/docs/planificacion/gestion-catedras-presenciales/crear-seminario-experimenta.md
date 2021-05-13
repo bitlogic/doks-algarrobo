@@ -41,8 +41,8 @@ toc: true
 
 ## Véase también
 
-<!-- {{< link text="Buscar cátedras" to="buscar-catedras" >}} -->
+[Buscar cátedras →]({{< ref "buscar-catedras" >}} "Buscar cátedras")
 <br/>
-<!-- {{< link text="Editar cátedras" to="editar-catedras" >}} -->
+[Editar cátedras→]({{< ref "editar-catedras" >}} "Editar cátedras")
 <br/>
-<!-- {{< link text="Abrir cátedras" to="abrir-catedras" >}} -->
+[Abrir cátedras →]({{< ref "abrir-catedras" >}} "Abrir cátedras")

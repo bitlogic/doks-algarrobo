@@ -21,8 +21,8 @@ toc: true
 
 ## Véase también
 
-{{< link text="Crear promociones comerciales" to="crear-promos" >}}
+[Crear promociones comerciales →]({{< ref "crear-promos" >}} "Crear promociones comerciales")
 <br/>
-{{< link text="Editar promociones comerciales" to="editar-promos" >}}
+[Editar promociones comerciales →]({{< ref "editar-promos" >}} "Editar promociones comerciales")
 <br/>
-{{< link text="Buscar promociones comerciales" to="buscar-promos" >}}
+[Buscar promociones comerciales →]({{< ref "buscar-promos" >}} "Buscar promociones comerciales")

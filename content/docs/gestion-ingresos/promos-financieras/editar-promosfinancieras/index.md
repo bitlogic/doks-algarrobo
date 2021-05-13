@@ -36,4 +36,4 @@ Por último, si has incluido varios criterios, será necesario que en la última
 
 ## Véase también
 
-<!-- {{< link text="Consultar promociones financieras" to="consultar-promosfinancieras" >}} -->
+[Consultar promociones financieras →]({{< ref "consultar-promosfinancieras" >}} "Consultar promociones financieras")

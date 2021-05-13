@@ -18,4 +18,4 @@ toc: true
 
 ## Véase también
 
-<!-- {{< link text="Editar medios de pago" to="editar-mediosdepago" >}} -->
+[Editar medios de pago →]({{< ref "editar-mediosdepago" >}} "Editar medios de pago")

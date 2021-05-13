@@ -21,8 +21,6 @@ toc: true
 
 ## Véase también
 
-<!-- {{< link text="Crear promociones comerciales" to="crear-promos" >}}
+[Crear promociones comerciales →]({{< ref "crear-promos" >}} "Crear promociones comerciales")
 <br/>
-{{< link text="Buscar promociones comerciales" to="buscar-promos" >}}
-<br/>
-{{< link text="Consultar tickets" to="consultar-tickets" >}} -->
+[Buscar promociones comerciales →]({{< ref "buscar-promos" >}} "Buscar promociones comerciales")

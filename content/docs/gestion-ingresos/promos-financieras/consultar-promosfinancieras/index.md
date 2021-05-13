@@ -21,4 +21,4 @@ toc: false
 
 ## Véase también
 
-<!-- {{< link text="Editar promociones financieras" to="editar-promosfinancieras" >}} -->
+[Editar promociones financieras →]({{< ref "editar-promosfinancieras" >}} "Editar promociones financieras")
