@@ -22,6 +22,7 @@ toc: true
 {{<note text="Solo podrán realizar las acciones de editar y crear nuevos enunciados (preguntas) quienes tengan el perfil requerido para tales acciones.">}}
 </b>
 
+
 7. Haz clic en el icono de signo más {{<inline-icon image="plus.png" alt="plus icon">}} para crear un nuevo enunciado. El formulario contiene 5 secciones.
 
 {{<tip text="Al presionar el icono de lápiz puedes editar la misma información para aquellos enunciados que se hayan guardado anteriormente. Recuerda que si editas un enunciado que ya se encuentra incluído en un examen generado, deberás hacerlo con anticipación.Cuando esto suceda, el sistema te alertará de esta situación.">}}
