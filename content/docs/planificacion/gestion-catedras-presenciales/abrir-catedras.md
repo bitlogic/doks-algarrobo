@@ -1,6 +1,6 @@
 ---
 title: "Abrir cátedras"
-description: "Si has creado una cátedra y deseas abrirla puedes hacerlo siguiendo estas instrucciones."
+lead: "Si has creado una cátedra y deseas abrirla puedes hacerlo siguiendo estas instrucciones."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
