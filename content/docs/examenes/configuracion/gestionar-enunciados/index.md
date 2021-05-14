@@ -37,8 +37,10 @@ A continuación se detallan la secciones y la información que puede cargar en e
 - Una persona con el rol correspondiente podrá seleccionar el estado de la validación y el motivo del cambio de estado. 
 
 {{<note text="Recuerda que únicamente se encuentran disponibles para incluir en la configuración de tipos de exámenes aquellos enunciados cuyo estado es 'Aprobado'.">}}
+</br>
 
 {{<tip text="En la grilla con los enunciados relacionados con cada programa también puedes realizar las siguientes acciones mediante los siguientes iconos.">}}
+</br>
 
 - Buscar: esta opción habilita un campo de texto que busca los datos en las diferentes columnas.
 - Ver columnas: se abre un menú contextual con un selector de columnas para elegir qué información ver en la grilla.
