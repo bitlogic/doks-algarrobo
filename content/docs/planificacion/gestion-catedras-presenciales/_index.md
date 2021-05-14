@@ -4,6 +4,8 @@ lead: "Aquí puedes ver todas las opciones disponibles que corresponden a la ges
 menu:
   docs:
     parent: "Planificación"
+draft: false
+images: []
 weight: 010
 toc: true
 ---

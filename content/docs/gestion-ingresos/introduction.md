@@ -15,28 +15,34 @@ Disfrutá de estas hermosas promos! ![etiquetas de promociones](promo.jpg)
 ## Promociones financieras
 #### Consultar promociones financieras
 
-Con esta funcionalidad podrás consultar las promociones financieras disponibles. [Consultar]({{< relref "/consultar-promosfinancieras" >}} "Consultar")
+Con esta funcionalidad podrás consultar las promociones financieras disponibles. [Consultar →
+]({{< relref "/consultar-promosfinancieras" >}} "Consultar")
 #### Editar promociones financieras
 
-Con esta funcionalidad podrás editar las promociones financieras disponibles. [Editar]({{< relref "/editar-promosfinancieras" >}} "Editar")
+Con esta funcionalidad podrás editar las promociones financieras disponibles. [Editar →
+]({{< relref "/editar-promosfinancieras" >}} "Editar")
 
 ## Medios de pago
 #### Consultar medios de pago
 
-Con esta funcionalidad podrás consultar los medios de pago disponibles. [Consultar]({{< relref "/consultar-mediosdepago" >}} "Consultar")
+Con esta funcionalidad podrás consultar los medios de pago disponibles. [Consultar →
+]({{< relref "/consultar-mediosdepago" >}} "Consultar")
 
 #### Editar medios de pago
 
-Con esta funcionalidad podrás editar los medios de pago disponibles. [Editar]({{< relref "/editar-mediosdepago" >}} "Editar")
+Con esta funcionalidad podrás editar los medios de pago disponibles. [Editar →
+]({{< relref "/editar-mediosdepago" >}} "Editar")
 ## Reportes
 #### Consultar tickets
 
-Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. [Buscar]({{< relref "/consultar-tickets" >}} "Buscar tickets")
+Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. [Buscar →
+]({{< relref "/consultar-tickets" >}} "Buscar tickets")
 
 ## Promociones comerciales
 #### Crear promociones comerciales
 
-Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. [Crear]({{< relref "/crear-promos" >}} "Crear")
+Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. [Crear →
+]({{< relref "/crear-promos" >}} "Crear")
 
 #### Buscar promociones comerciales
 

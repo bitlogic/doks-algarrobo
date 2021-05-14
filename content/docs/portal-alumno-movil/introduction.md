@@ -6,9 +6,6 @@ date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
 images: []
-menu:
-  docs:
-    parent: "Portal Alumno Móvil"
 weight: 010
 toc: true
 ---
@@ -50,3 +47,17 @@ Con esta funcionalidad podrás consultar el historial de inscripciones a exámen
 #### Realizar pagos
 
 Con esta funcionalidad podrás realizar el pago de aranceles, matrículas y otros conceptos. [Pagar →]({{< relref "/realizar-pago.md" >}} "Pagar aranceles")
+
+## Más opciones
+
+#### Editar perfil 
+
+Con esta funcionalidad podrás editar tu perfil. [Editar →]({{< relref "/editar-perfil-movil.md" >}} "Editar perfil")
+
+#### Iniciar sesión
+
+Desde aquí podrás iniciar sesión. [Iniciar →]({{< relref "/iniciar-sesion-movil.md" >}} "Iniciar sesión")
+
+#### Cerrar sesión
+
+Desde aquí podrás cerrar sesión. [Cerrar →]({{< relref "/cerrar-sesion-movil.md" >}} "Cerrar sesión")

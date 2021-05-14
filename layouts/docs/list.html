@@ -1,16 +1,13 @@
 {{ define "main" }}
 <div class="row justify-content-center">
-  <div class="col-md-12 col-lg-10 col-xl-8">
+  <div>
     <article>
       <h1 class="text-center">{{ .Title }}</h1>
-      <div class="text-center">{{ .Content }}</div>
-			<div class="card-list">
+      <div>{{ .Content }}</div>
+			<div>
 				{{ $currentSection := .CurrentSection }}
 				{{ range where .Site.RegularPages.ByTitle "Section" .Section }}
 					{{ if in (.Permalink | string) $currentSection.RelPermalink }}
-						<div class="btn-start">
-							<a class="stretched-link" href="{{ .Permalink }}">{{ .Params.title | title }} &rarr;</a>
-						</div>
 					{{ end }}
 				{{ end }}
 			</div>

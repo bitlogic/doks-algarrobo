@@ -1,14 +1,13 @@
 document.getElementById('mode').addEventListener('click', () => {
-
   document.body.classList.toggle('dark');
-  localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
-
+  localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : '');
 });
 
 if (localStorage.getItem('theme') === 'dark') {
-
   document.body.classList.add('dark');
-
+}
+if (localStorage.getItem('theme') === '') {
+  document.body.classList.remove('dark');
 }
 
 /* eslint-disable */

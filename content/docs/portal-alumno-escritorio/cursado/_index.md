@@ -1,0 +1,21 @@
+---
+title: "Cursado - Versión Escritorio"
+lead: "Aquí puedes ver todas las opciones disponibles que corresponden al cursado."
+menu:
+  docs:
+    parent: "Portal Alumno Escritorio"
+weight: 010
+toc: true
+---
+
+#### Consultar carreras y/o historial de cursado
+
+Con esta funcionalidad podrás consultar las carreras y/o el historial de cursado. [Consultar →]({{< relref "/consultar-carreras-e-historial-cursado.md" >}} "Consultar carreras")
+
+#### Consultar calendario académico/agenda
+
+Con esta funcionalidad podrás consultar el calendario académico. [Consultar →]({{< relref "/consultar-calendario-academico.md" >}} "Consultar calendario")
+
+#### Consultar el historial de inscripciones a exámenes
+
+Con esta funcionalidad podrás consultar el calendario académico. [Consultar →]({{< relref "/consultar-historial-inscripciones.md" >}} "Consultar historial")
