@@ -10,8 +10,8 @@ toc: true
 
 #### Consultar las políticas de seguridad
 
-Con esta funcionalidad podrás consultar las políticas de seguridad. [Consultar →]({{< relref "/consultar-politicas.md" >}} "Consultar políticas")
+Con esta funcionalidad podrás consultar las políticas de seguridad. [Consultar →]({{< relref "/consultar-politicas" >}} "Consultar políticas")
 
 #### Consultar los canales de contacto
 
-Con esta funcionalidad podrás consultar los canales de contacto. [Consultar →]({{< relref "/consultar-canales-contacto.md" >}} "Consultar canales")
+Con esta funcionalidad podrás consultar los canales de contacto. [Consultar →]({{< relref "/consultar-canales-contacto" >}} "Consultar canales")

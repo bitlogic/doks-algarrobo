@@ -10,12 +10,12 @@ toc: true
 
 #### Editar perfil 
 
-Con esta funcionalidad podrás editar tu perfil. [Editar →]({{< relref "/editar-perfil.md" >}} "Editar perfil")
+Con esta funcionalidad podrás editar tu perfil. [Editar →]({{< relref "/editar-perfil" >}} "Editar perfil")
 
 #### Iniciar sesión
 
-Desde aquí podrás iniciar sesión. [Iniciar →]({{< relref "/iniciar-sesion.md" >}} "Iniciar sesión")
+Desde aquí podrás iniciar sesión. [Iniciar →]({{< relref "/iniciar-sesion" >}} "Iniciar sesión")
 
 #### Cerrar sesión
 
-Desde aquí podrás cerrar sesión. [Cerrar →]({{< relref "/cerrar-sesion.md" >}} "Cerrar sesión")
+Desde aquí podrás cerrar sesión. [Cerrar →]({{< relref "/cerrar-sesion" >}} "Cerrar sesión")

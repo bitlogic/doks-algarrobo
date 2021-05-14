@@ -10,4 +10,4 @@ toc: true
 
 #### Consultar formas de pago
 
-Con esta funcionalidad podrás consultar las distintas formas de pago. [Consultar →]({{< relref "/consultar-formas-pago.md" >}} "Consultar formas de pago")
+Con esta funcionalidad podrás consultar las distintas formas de pago. [Consultar →]({{< relref "/consultar-formas-pago" >}} "Consultar formas de pago")

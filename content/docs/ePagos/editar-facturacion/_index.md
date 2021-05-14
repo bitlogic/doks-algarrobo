@@ -10,4 +10,4 @@ toc: true
 
 #### Editar contacto de facturación
 
-Con esta funcionalidad podrás editar tu contacto de facturación. [Editar →]({{< relref "/editar-contacto.md" >}} "Editar contacto")
+Con esta funcionalidad podrás editar tu contacto de facturación. [Editar →]({{< relref "/editar-contacto" >}} "Editar contacto")

@@ -10,8 +10,8 @@ toc: true
 
 #### Consultar el estado de tu cuenta (estudiante)
 
-Con esta herramienta podrás consultar el estado de tu cuenta. [Consultar →]({{< relref "/consultar-cuenta-estudiante.md" >}} "Consultar cuenta")
+Con esta herramienta podrás consultar el estado de tu cuenta. [Consultar →]({{< relref "/consultar-cuenta-estudiante" >}} "Consultar cuenta")
 
 #### Consultar el estado de la cuenta de un estudiante (co-docente)
 
-Con esta herramienta podrás consultar el estado de la cuenta de un estudiante. [Consultar →]({{< relref "/consultar-cuenta-asistente.md" >}} "Consultar cuenta")
+Con esta herramienta podrás consultar el estado de la cuenta de un estudiante. [Consultar →]({{< relref "/consultar-cuenta-asistente" >}} "Consultar cuenta")

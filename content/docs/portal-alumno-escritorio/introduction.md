@@ -14,38 +14,38 @@ toc: true
 
 #### Consultar carreras y/o historial de cursado
 
-Con esta funcionalidad podrás consultar las carreras y/o el historial de cursado. [Consultar →]({{< relref "/consultar-carreras-e-historial-cursado.md" >}} "Consultar carreras")
+Con esta funcionalidad podrás consultar las carreras y/o el historial de cursado. [Consultar →]({{< relref "/consultar-carreras-e-historial-cursado" >}} "Consultar carreras")
 
 #### Consultar calendario académico/agenda
 
-Con esta funcionalidad podrás consultar el calendario académico. [Consultar →]({{< relref "/consultar-calendario-academico.md" >}} "Consultar calendario")
+Con esta funcionalidad podrás consultar el calendario académico. [Consultar →]({{< relref "/consultar-calendario-academico" >}} "Consultar calendario")
 
 #### Consultar el historial de inscripciones a exámenes
 
-Con esta funcionalidad podrás consultar el calendario académico. [Consultar →]({{< relref "/consultar-historial-inscripciones.md" >}} "Consultar historial")
+Con esta funcionalidad podrás consultar el calendario académico. [Consultar →]({{< relref "/consultar-historial-inscripciones" >}} "Consultar historial")
 
 ## Exámenes
 
 #### Inscribirse a un examen
 
-Con esta funcionalidad podrás inscribirte a un examen. [Inscribite →]({{< relref "/inscripcion-examen.md" >}} "Inscribite a un examen")
+Con esta funcionalidad podrás inscribirte a un examen. [Inscribite →]({{< relref "/inscripcion-examen" >}} "Inscribite a un examen")
 
 ## Pagos
 
 #### Acceder a la aplicación de Pagos Electrónicos
 
-Con esta funcionalidad podrás acceder a la aplicación. [Acceder →]({{< relref "/acceder-aplicacion.md" >}} "Acceder a la aplicación")
+Con esta funcionalidad podrás acceder a la aplicación. [Acceder →]({{< relref "/acceder-aplicacion" >}} "Acceder a la aplicación")
 
 ## Más opciones
 
 #### Editar perfil 
 
-Con esta funcionalidad podrás editar tu perfil. [Editar →]({{< relref "/editar-perfil.md" >}} "Editar perfil")
+Con esta funcionalidad podrás editar tu perfil. [Editar →]({{< relref "/editar-perfil" >}} "Editar perfil")
 
 #### Iniciar sesión
 
-Desde aquí podrás iniciar sesión. [Iniciar →]({{< relref "/iniciar-sesion.md" >}} "Iniciar sesión")
+Desde aquí podrás iniciar sesión. [Iniciar →]({{< relref "/iniciar-sesion" >}} "Iniciar sesión")
 
 #### Cerrar sesión
 
-Desde aquí podrás cerrar sesión. [Cerrar →]({{< relref "/cerrar-sesion.md" >}} "Cerrar sesión")
+Desde aquí podrás cerrar sesión. [Cerrar →]({{< relref "/cerrar-sesion" >}} "Cerrar sesión")

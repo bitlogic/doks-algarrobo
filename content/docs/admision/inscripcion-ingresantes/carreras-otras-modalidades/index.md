@@ -1,5 +1,5 @@
 ---
-title: "Inscripción de Ingresantes- Resto de las carreras y resto de las modalidades"
+title: "Inscripción de Ingresantes - Resto de las carreras y resto de las modalidades"
 description: "Acá va una descripción..."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
