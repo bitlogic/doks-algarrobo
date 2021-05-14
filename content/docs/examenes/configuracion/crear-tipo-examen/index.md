@@ -26,9 +26,10 @@ toc: true
 9. Haz clic nuevamente en la flecha {{<inline-icon image="arrow right.png" alt="arrow icon">}} para continuar.
 10. En la tercera pantalla, configura si el examen cuenta con control de tiempo e instancia de revisión con sus respectivos tiempos máximos de ejecución. Además, puedes definir si el estudiante tiene la posibilidad de reiniciar el examen (por ejemplo, si corta la conexión a internet o si hay un corte de energía eléctrica mientras se está realizando la evaluación) y cuántas veces puede realizar esta acción. Por último, elige el tipo de cálculo de nota y si ésta se mostrará al finalizar el examen. 
 11. Nuevamente avanza hacia la última pantalla haciendo clic en la flecha {{<inline-icon image="arrow right.png" alt="arrow icon">}}.
-1. La pantalla de revisión final muestra un resumen de los datos que se configuraron. Si fuese necesario, desde aquí puedes ver si es necesario realizar algunos cambios en las pantallas anteriores o cambiar los estados de algunos enunciados.
-1. Para finalizar, haz clic en el botón **Guardar configuración**.
-1. Una vez que se guardaron los cambios en la parte superior del asistente podrás ver el título del examen acabas de configurar. Si deseas generar un nuevo tipo de examen, presiona nuevamente el signo más en el centro de la pantalla.
+12. La pantalla de revisión final muestra un resumen de los datos que se configuraron. Si fuese necesario, desde aquí puedes ver si es necesario realizar algunos cambios en las pantallas anteriores o cambiar los estados de algunos enunciados.
+13. Para finalizar, haz clic en el botón **Guardar configuración**.
+14. Una vez que se guardaron los cambios en la parte superior del asistente podrás ver el título del examen acabas de configurar. Si deseas generar un nuevo tipo de examen, presiona nuevamente el signo más en el centro de la pantalla.
+
 ## Véase también
 
 [Gestionar enunciados →]({{< ref "gestionar-enunciados.md" >}} "Gestionar enunciados")
