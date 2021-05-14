@@ -1,6 +1,6 @@
 ---
 title: "Editar cátedras"
-description: "Con esta funcionalidad puedes realizar cambios en materias cátedras cuya información desas editar."
+lead: "Con esta funcionalidad puedes realizar cambios en materias cátedras cuya información desas editar."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -37,3 +37,8 @@ A continuación, se listan los campos que permiten su edición:
 ` >}}
 
 **Véase también**
+
+[Buscar cátedras →]({{< ref "buscar-catedras.md" >}} "Buscar cátedras")
+<br/>
+
+[Abrir cátedras →]({{< ref "abrir-catedras" >}} "Abrir cátedras")

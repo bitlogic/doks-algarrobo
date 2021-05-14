@@ -1,6 +1,6 @@
 ---
 title: "Buscar cátedras"
-description: "Esta función te será útil si deseas conocer más detalles sobre los seminarios y cátedras creados en el sistema y si quieres buscar aquellas cátedras/seminarios cuya información o encuentros deseas editar."
+lead: "Esta función te será útil si deseas conocer más detalles sobre los seminarios y cátedras creados en el sistema y si quieres buscar aquellas cátedras/seminarios cuya información o encuentros deseas editar."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
