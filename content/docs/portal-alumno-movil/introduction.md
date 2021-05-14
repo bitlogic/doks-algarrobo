@@ -1,5 +1,5 @@
 ---
-title: "Conocé más sobre el portal"
+title: "Conocé más sobre el portal alumno (móvil)"
 description: "Introducción funcional al nuevo sistema de promociones comerciales."
 lead: "Portal Alumno...."
 date: 2020-10-06T08:48:57+00:00
@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "Portal Alumno"
+    parent: "Portal Alumno Móvil"
 weight: 010
 toc: true
 ---
@@ -23,9 +23,9 @@ Con esta funcionalidad podrás consultar las carreras y/o el historial de cursad
 
 Con esta funcionalidad podrás consultar el historial de materias de la carrera. [Consultar →]({{< relref "/consultar-historial-materias.md" >}} "Consultar historial")
 
-#### Consultar calendario académico
+#### Consultar calendario académico/agenda
 
-Con esta funcionalidad podrás consultar el calendario académico. [Consultar →]({{< relref "/consultar-calendario-academico.md" >}} "Consultar calendario")
+Con esta funcionalidad podrás consultar el calendario académico. [Consultar →]({{< relref "/consultar-agenda.md" >}} "Consultar calendario")
 
 ## Exámenes
 
@@ -46,20 +46,7 @@ Con esta funcionalidad podrás anular la inscripción de un examen. [Anular →]
 Con esta funcionalidad podrás consultar el historial de inscripciones a exámenes. [Consultar →]({{< relref "/consultar-historial-inscripciones.md" >}} "Consultar historial de inscripciones")
 
 ## Pagos
+
 #### Realizar pagos
 
 Con esta funcionalidad podrás realizar el pago de aranceles, matrículas y otros conceptos. [Pagar →]({{< relref "/realizar-pago.md" >}} "Pagar aranceles")
-
-## Más opciones
-
-#### Editar perfil 
-
-Con esta funcionalidad podrás editar tu perfil. [Editar →]({{< relref "/editar-perfil.md" >}} "Editar perfil")
-
-#### Iniciar sesión
-
-Desde aquí podrás iniciar sesión. [Iniciar →]({{< relref "/iniciar-sesion.md" >}} "Iniciar sesión")
-
-#### Cerrar sesión
-
-Desde aquí podrás cerrar sesión. [Cerrar →]({{< relref "/cerrar-sesion.md" >}} "Cerrar sesión")
