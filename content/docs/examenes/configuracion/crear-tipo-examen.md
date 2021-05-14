@@ -23,7 +23,6 @@ Haz clic en la materia cuyos exámenes quieras configurar. A la derecha verás l
 1. La pantalla de revisión final muestra un resumen de los datos que se configuraron. Si fuese necesario, desde aquí puedes ver si es necesario realizar algunos cambios en las pantallas anteriores o cambiar los estados de algunos enunciados.
 1. Para finalizar, haz clic en el botón **Guardar configuración**.
 1. Una vez que se guardaron los cambios en la parte superior del asistente podrás ver el título del examen acabas de configurar. Si deseas generar un nuevo tipo de examen, presiona nuevamente el signo más en el centro de la pantalla.
-
 ## Véase también
 
 [Gestionar enunciados →]({{< ref "gestionar-enunciados.md" >}} "Gestionar enunciados")
