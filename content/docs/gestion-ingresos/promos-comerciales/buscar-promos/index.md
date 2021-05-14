@@ -16,7 +16,7 @@ toc: true
 
 {{<note text="Dependiendo de las opciones que seleccionas en los filtros, algunos datos se volverán obligatorios.">}}
 
-4. Por último, presiona **Buscar** {{< inline-img image="buscar.png" alt="Botón 'Buscar'">}}.
+4. Por último, presiona **Buscar**. {{< inline-img image="buscar.png" alt="Botón 'Buscar'">}}
 5. Los resultados de la búsqueda se verán en el listado en la parte inferior de la pantalla.
 
 {{<note text="En los títulos de las columnas de la grilla puedes usar las flechas para ordenar los datos de manera ascendente o descendente. Desde esta grilla también puedes activar o desactivar una promoción. Además, al hacer clic en el icono de lápiz podrás editar los datos de la promoción seleccionada. ">}}
