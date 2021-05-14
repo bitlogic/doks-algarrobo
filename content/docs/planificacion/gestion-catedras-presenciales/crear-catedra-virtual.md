@@ -44,6 +44,6 @@ En el formulario “Crear cátedra virtual”, completa los campos “Modalidad�
 
 [Buscar cátedras →]({{< ref "buscar-catedras" >}} "Buscar cátedras")
 <br/>
-[Editar cátedras→]({{< ref "editar-catedras" >}} "Editar cátedras")
+[Editar cátedras →]({{< ref "editar-catedras" >}} "Editar cátedras")
 <br/>
 [Abrir cátedras →]({{< ref "abrir-catedras" >}} "Abrir cátedras")

@@ -6,9 +6,6 @@ date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
 images: []
-menu:
-  docs:
-    parent: "Gestión de ingresos"
 weight: 010
 toc: true
 ---
@@ -18,21 +15,19 @@ Disfrutá de estas hermosas promos! ![etiquetas de promociones](promo.jpg)
 ## Promociones financieras
 #### Consultar promociones financieras
 
-Con esta funcionalidad podrás consultar las promociones financieras disponibles. {{< link text="Consultar" to="consultar-promosfinancieras" >}}
-
+Con esta funcionalidad podrás consultar las promociones financieras disponibles. [Consultar]({{< relref "/consultar-promosfinancieras" >}} "Consultar")
 #### Editar promociones financieras
 
-Con esta funcionalidad podrás editar las promociones financieras disponibles. {{< link text="Editar" to="editar-promosfinancieras" >}}
+Con esta funcionalidad podrás editar las promociones financieras disponibles. [Editar]({{< relref "/editar-promosfinancieras" >}} "Editar")
 
 ## Medios de pago
 #### Consultar medios de pago
 
-Con esta funcionalidad podrás consultar los medios de pago disponibles. {{< link text="Consultar" to="consultar-mediosdepago" >}}
+Con esta funcionalidad podrás consultar los medios de pago disponibles. [Consultar]({{< relref "/consultar-mediosdepago" >}} "Consultar")
 
 #### Editar medios de pago
 
-Con esta funcionalidad podrás editar los medios de pago disponibles. {{< link text="Editar" to="editar-mediosdepago" >}}
-
+Con esta funcionalidad podrás editar los medios de pago disponibles. [Editar]({{< relref "/editar-mediosdepago" >}} "Editar")
 ## Reportes
 #### Consultar tickets
 
@@ -41,7 +36,7 @@ Con esta herramienta puedes configurar promociones comerciales que se aplicarán
 ## Promociones comerciales
 #### Crear promociones comerciales
 
-Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. {{< link text="Crear" to="crear-promos" >}}
+Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. [Crear]({{< relref "/crear-promos" >}} "Crear")
 
 #### Buscar promociones comerciales
 

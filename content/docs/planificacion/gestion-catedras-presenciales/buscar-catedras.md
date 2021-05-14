@@ -44,6 +44,6 @@ toc: true
 
 ## Véase también
 
-[Editar cátedras→]({{< ref "editar-catedras" >}} "Editar cátedras")
+[Editar cátedras →]({{< ref "editar-catedras" >}} "Editar cátedras")
 <br/>
-[Abrir cátedras→]({{< ref "abrir-catedras" >}} "Abrir cátedras")
+[Abrir cátedras →]({{< ref "abrir-catedras" >}} "Abrir cátedras")

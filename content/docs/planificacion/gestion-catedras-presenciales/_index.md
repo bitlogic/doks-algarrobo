@@ -1,16 +1,13 @@
 ---
-title: "Conocé más sobre planificación"
-description: "Introducción funcional al nuevo sistema de promociones comerciales."
-lead: "Con esta funcionalidad de promociones comerciales podrás asociar descuentos y beneficios a los tickets de estudiantes según los criterios de aplicación que definas. Además, puedes consultar los tickets pendientes de pago y las promociones financieras y comerciales vinculadas con ellos."
-date: 2020-10-06T08:48:57+00:00
-lastmod: 2020-10-06T08:48:57+00:00
-draft: false
-images: []
+title: "Gestión de cátedras presenciales"
+lead: "Aquí puedes ver todas las opciones disponibles que corresponden a la gestión de cátedras presenciales."
+menu:
+  docs:
+    parent: "Planificación"
 weight: 010
 toc: true
 ---
 
-## Gestión de cátedras presenciales
 #### Crear una cátedra presencial
 
 Con esta funcionalidad podrás crear una cátedra presencial. [Crear →]({{< relref "/crear-catedra-presencial.md" >}} "Crear cátedra")
