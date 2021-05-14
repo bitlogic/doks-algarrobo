@@ -35,7 +35,7 @@ toc: true
 - Puedes hacer clic en los dos iconos de menú para expandir/colapsar los detalles de todas las cátedras que se incluyen en el resultado de la búsqueda.
 ` >}}
 
-4. Selecciona una materia o cátedra sobre la que desees conocer más detalles haciendo clic sobre su registo. Aquí podrás ver datos como: nombre y código de la materia/cátedra (los códigos de las cátedras contienen letras y los de los seminarios, números), cantidad total de cátedras de la materia, cantidad de cátedras llenas/abiertas/cerradas. Además se desplegará toda su información debajo del nombre. Algunos de los datos que encontrarás son:
+4. Selecciona una materia o cátedra sobre la que desees conocer más detalles haciendo clic sobre su registro. Aquí podrás ver datos como: nombre y código de la materia/cátedra (los códigos de las cátedras contienen letras y los de los seminarios, números), cantidad total de cátedras de la materia, cantidad de cátedras llenas/abiertas/cerradas. Además se desplegará toda su información debajo del nombre. Algunos de los datos que encontrarás son:
 
 - El término “Estándar” hace referencia a la capacidad/cupo de una cátedra para cada materia. También se puede ver el estado actual, con mensajes como: _“Esta cátedra está a punto de llenarse”_, _“Esta cátedra tiene entre un 80% y un 90% de ocupación”_ o _“Esta cátedra está llena”._
 - El término “Cupo” hace referencia al total de inscriptos/cupo total de la cátedra. 

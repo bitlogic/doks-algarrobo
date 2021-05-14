@@ -1,6 +1,6 @@
 ---
 title: "Abrir cátedras"
-description: "Acá va una descripción..."
+lead: "Si has creado una cátedra y deseas abrirla puedes hacerlo siguiendo estas instrucciones."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -9,5 +9,13 @@ weight: 150
 toc: true
 ---
 
-1. El botón selector al final de la línea de cada carrera muestra el estado de la misma. Haga clic en elinterruptor para cambiar el estado de la carrera.
-1. Al presionar el selector, se abre un mensaje pata confirmar la acción.
+1. Accede a la pantalla "Gestión de cátedras presenciales". 
+1. Ingresa los datos necesarios para realizar la búsqueda de la cátedra/materia que deseas abrir.
+1. En los detalles que se despliegan debajo del encabezado con el nombre y código de la cátedra, desliza el interruptor hacia a derecha para cambiar el estado de la carrera.
+1. El sistema desplegará un mensaje para completar la acción. Haz clic en **Aceptar**. La cátedra cambiará de estado cerrado a abierto.
+
+**Véase también**
+
+<!-- {{< link text="Editar cátedras" to="editar-catedras" >}} -->
+<br/>
+<!-- {{< link text="Buscar cátedras" to="buscar-catedras" >}} -->
