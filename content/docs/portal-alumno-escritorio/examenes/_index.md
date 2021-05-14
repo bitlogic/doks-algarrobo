@@ -10,4 +10,4 @@ toc: true
 
 #### Inscribirse a un examen
 
-Con esta funcionalidad podrás inscribirte a un examen. [Inscribite →]({{< relref "/inscripcion-examen.md" >}} "Inscribite a un examen")
+Con esta funcionalidad podrás inscribirte a un examen. [Inscribite →]({{< relref "/inscripcion-examen" >}} "Inscribite a un examen")

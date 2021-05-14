@@ -14,4 +14,4 @@ Con esta herramienta podrás consultar tu historial de pagos. [Consultar →]({{
 
 #### Consultar tu historial de pagos (asistente)
 
-Con esta herramienta podrás consultar tu historial de pagos. [Consultar →]({{< relref "/consultar-historial-asistente.md" >}} "Consultar historial")
+Con esta herramienta podrás consultar tu historial de pagos. [Consultar →]({{< relref "/consultar-historial-asistente" >}} "Consultar historial")

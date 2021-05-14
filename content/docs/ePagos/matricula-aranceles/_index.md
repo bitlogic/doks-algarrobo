@@ -10,8 +10,8 @@ toc: true
 
 #### Consultar tus tickets pendientes de pago (estudiante)
 
-Con esta funcionalidad podrás consultar tus tickets pendientes de pago. [Consultar →]({{< relref "/consultar-ticket-estudiante.md" >}} "Consultar tickets")
+Con esta funcionalidad podrás consultar tus tickets pendientes de pago. [Consultar →]({{< relref "/consultar-ticket-estudiante" >}} "Consultar tickets")
 
 #### Consultar los tickets pendientes de pago de un estudiante (co-docente)
 
-Con esta funcionalidad podrás consultar los tickets pendientes de pago de un estudiante. [Consultar →]({{< relref "/consultar-ticket-asistente.md" >}} "Consultar tickets")
+Con esta funcionalidad podrás consultar los tickets pendientes de pago de un estudiante. [Consultar →]({{< relref "/consultar-ticket-asistente" >}} "Consultar tickets")

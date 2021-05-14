@@ -10,4 +10,4 @@ toc: true
 
 #### Rendir un examen
 
-Con esta funcionalidad rendir un examen. [Rendir →]({{< relref "/rendir-examen.md" >}} "Rendir examen")
+Con esta funcionalidad rendir un examen. [Rendir →]({{< relref "/rendir-examen" >}} "Rendir examen")

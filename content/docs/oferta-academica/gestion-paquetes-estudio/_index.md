@@ -10,12 +10,12 @@ toc: true
 
 #### Buscar paquetes
 
-Con esta funcionalidad podrás buscar paquetes de estudio. [Buscar →]({{< relref "/buscar-paquetes.md" >}} "Buscar paquetes")
+Con esta funcionalidad podrás buscar paquetes de estudio. [Buscar →]({{< relref "/buscar-paquetes" >}} "Buscar paquetes")
 
 #### Crear paquetes
 
-Con esta funcionalidad podrás crear paquetes de estudio. [Crear →]({{< relref "/crear-paquetes.md" >}} "Crear paquetes")
+Con esta funcionalidad podrás crear paquetes de estudio. [Crear →]({{< relref "/crear-paquetes" >}} "Crear paquetes")
 
 #### Editar paquetes
 
-Con esta funcionalidad podrás editar paquetes de estudio. [Editar →]({{< relref "/editar-paquetes.md" >}} "Editar paquetes")
+Con esta funcionalidad podrás editar paquetes de estudio. [Editar →]({{< relref "/editar-paquetes" >}} "Editar paquetes")

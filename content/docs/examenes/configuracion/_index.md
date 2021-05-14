@@ -10,8 +10,8 @@ toc: true
 
 #### Gestionar enunciados
 
-Con esta funcionalidad podrás gestionar enunciados. [Gestionar →]({{< relref "/gestionar-enunciados.md" >}} "Gestionar enunciados")
+Con esta funcionalidad podrás gestionar enunciados. [Gestionar →]({{< relref "/gestionar-enunciados" >}} "Gestionar enunciados")
 
 #### Crear tipo de examen
 
-Con esta funcionalidad podrás crear un tipo de examen. [Crear →]({{< relref "/crear-tipo-examen.md" >}} "Crear examen")
+Con esta funcionalidad podrás crear un tipo de examen. [Crear →]({{< relref "/crear-tipo-examen" >}} "Crear examen")

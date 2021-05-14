@@ -10,8 +10,8 @@ toc: true
 
 #### Cargar saldo a tu cuenta (estudiante)
 
-Con esta funcionalidad podrás cargar saldo a tu cuenta. [Consultar →]({{< relref "/cargar-saldo-estudiante.md" >}} "Cargar Saldo")
+Con esta funcionalidad podrás cargar saldo a tu cuenta. [Consultar →]({{< relref "/cargar-saldo-estudiante" >}} "Cargar Saldo")
 
 #### Cargar saldo a la cuenta de un estudiante (co-docente)
 
-Con esta funcionalidad podrás cargar saldo a la cuenta de un estudiante. [Consultar →]({{< relref "/cargar-saldo-asistente.md" >}} "Cargar Saldo")
+Con esta funcionalidad podrás cargar saldo a la cuenta de un estudiante. [Consultar →]({{< relref "/cargar-saldo-asistente" >}} "Cargar Saldo")

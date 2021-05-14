@@ -11,7 +11,7 @@ toc: true
 ---
 
 1. Ingresa a la herramienta "Gestión de ingresos".
-1. En el panel de navegación, selecciona el icono relacionado para que puedas acceder a la pantalla "Promociones comerciales". {{<inline-icon image="play.png" alt="icon">}}
+1. En el panel de navegación, selecciona el icono relacionado para que puedas acceder a la pantalla "Promociones comerciales".
 1. En la parte superior puedes comenzar a completar los campos con algunos datos de las promociones que deseas ver.
 
 {{<note text="Dependiendo de las opciones que seleccionas en los filtros, algunos datos se volverán obligatorios.">}}
