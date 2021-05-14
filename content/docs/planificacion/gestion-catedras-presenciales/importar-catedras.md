@@ -1,6 +1,6 @@
 ---
 title: "Importar cátedras"
-description: "Acá va una descripción..."
+lead: "Esta funcionalidad te permite cargar en el planificador múltiples cátedras y/o seminarios con todos sus detalles (modalidad, período, materia, cupo, docente, etc.) por medio de una plantilla con extensión .xls o .xlsx."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -9,9 +9,7 @@ weight: 150
 toc: true
 ---
 
-##### Esta funcionalidad le permite cargar en el planificador múltiples cátedras y/o seminarios con todos sus detalles (modalidad, período, materia, cupo, docente, etc.) por medio de una plantilla con extensión .xls o .xlsx.
-
-1. Al seleccionar la planilla ubicada en el disco local se inicia el proceso de análisis e importación de los datos incluidos en la misma.
+1. En el panel de navegación selecciona el icono Al seleccionar la planilla ubicada en el disco local se inicia el proceso de análisis e importación de los datos.
 1. Si la planilla ya existe se muestra el siguiente error: “El archivo que desea subir ya existe. Intente nuevamente modificándolo o subiendo otro archivo”.
 1. El primer paso es el análisis de importación. En esta instancia se verifica que la planilla no se haya subido antes y que no contenga errores u omisión de datos requeridos.
 1. Si existe alguna inconsistencia en los datos, el proceso de importación se detiene en la etapa “Detalle del análisis”. El sistema ofrece la opción de descargar un reporte con los errores (1). Éste incluye detalles de las filas y columnas con su tipo de error. También se muestra un mensaje con la cantidad de errores (2) en la parte superior de la pantalla.

@@ -9,7 +9,7 @@ weight: 150
 toc: true
 ---
 
-1. En la pantalla a la que accedes desde la herramienta de gestión de evaluaciones, haz clic en el ícono de lupa del panel de navegación lateral e ingresa el código o nombre de la materia cuyo contenido deseas incluir en el tipo de examen.
+1. En la pantalla a la que accedes desde la herramienta de gestión de evaluaciones, haz clic en el ícono de lupa {{<inline-icon image="search.png" alt="search icon">}} del panel de navegación lateral e ingresa el código o nombre de la materia cuyo contenido deseas incluir en el tipo de examen.
 1. Presiona **Buscar**. Los resultados se mostrarán en la sección “Seleccionar materia”.
 Haz clic en la materia cuyos exámenes quieras configurar. A la derecha verás los programas relacionados en sus diferentes estados (activos e inactivos).
 1. En la grilla de resultados, desplázate con la barra inferior hacia la derecha y presiona el icono de ojo para ver los enunciados en aquellos programas que se encuentren activos.
