@@ -1,6 +1,6 @@
 ---
 title: "Crear una cátedra presencial"
-description: "Con esta herramienta, los codocentes de planificación, codocentes SGEA, y mesa de ayuda podrán comenzar a generar las cátedras presenciales de manera fácil y ágil."
+lead: "Con esta herramienta, los codocentes de planificación, codocentes SGEA, y mesa de ayuda podrán comenzar a generar las cátedras presenciales de manera fácil y ágil."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false

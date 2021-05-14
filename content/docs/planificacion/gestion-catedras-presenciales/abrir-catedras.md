@@ -16,6 +16,7 @@ toc: true
 
 **Véase también**
 
-<!-- {{< link text="Editar cátedras" to="editar-catedras" >}} -->
+[Editar cátedras →]({{< ref "editar-catedras.md" >}} "Editar cátedras")
 <br/>
-<!-- {{< link text="Buscar cátedras" to="buscar-catedras" >}} -->
+
+[Buscar cátedras →]({{< ref "buscar-catedras.md" >}} "Buscar cátedras")
