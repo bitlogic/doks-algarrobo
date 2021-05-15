@@ -10,6 +10,7 @@ toc: true
 ---
 
 1. En el panel de navegación selecciona el icono Al seleccionar la planilla ubicada en el disco local se inicia el proceso de análisis e importación de los datos.
+1. Haz clic en {{< inline-img image="subir archivo.png" alt="Botón subir archivo">}}
 1. Si la planilla ya existe se muestra el siguiente error: “El archivo que desea subir ya existe. Intente nuevamente modificándolo o subiendo otro archivo”.
 1. El primer paso es el análisis de importación. En esta instancia se verifica que la planilla no se haya subido antes y que no contenga errores u omisión de datos requeridos.
 1. Si existe alguna inconsistencia en los datos, el proceso de importación se detiene en la etapa “Detalle del análisis”. El sistema ofrece la opción de descargar un reporte con los errores (1). Éste incluye detalles de las filas y columnas con su tipo de error. También se muestra un mensaje con la cantidad de errores (2) en la parte superior de la pantalla.
