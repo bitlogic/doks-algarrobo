@@ -5,14 +5,14 @@
 	{{ with $pages.Next . -}}
 		<a href="{{ .Permalink }}">
 			<div class="btn-start">
-				&larr; {{ .Title }}
+				&larr; Anterior
 			</div>
 		</a>
 	{{ end -}}
 	{{ with $pages.Prev . -}}
 		<a class="ml-auto" href="{{ .Permalink }}">
 			<div class="btn-start">
-				{{ .Title }} &rarr;
+				Siguiente &rarr;
 			</div>
 		</a>
 	{{ end -}}

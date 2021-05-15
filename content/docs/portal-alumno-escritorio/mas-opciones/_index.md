@@ -1,5 +1,5 @@
 ---
-title: "Más opciones - Versión Escritorio"
+title: "Más opciones - Escritorio"
 lead: "Aquí puedes ver todas las opciones disponibles que corresponden a más opciones."
 menu:
   docs:
@@ -8,14 +8,6 @@ weight: 010
 toc: true
 ---
 
-#### Editar perfil 
+#### Menu 
 
-Con esta funcionalidad podrás editar tu perfil. [Editar →]({{< relref "/editar-perfil" >}} "Editar perfil")
-
-#### Iniciar sesión
-
-Desde aquí podrás iniciar sesión. [Iniciar →]({{< relref "/iniciar-sesion" >}} "Iniciar sesión")
-
-#### Cerrar sesión
-
-Desde aquí podrás cerrar sesión. [Cerrar →]({{< relref "/cerrar-sesion" >}} "Cerrar sesión")
+Con esta funcionalidad podrás acceder a las opciones del menú. [Acceder →]({{< relref "/menu" >}} "Acceder al menú")

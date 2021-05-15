@@ -1,9 +1,9 @@
 ---
-title: "Más opciones - Versión Móvil"
+title: "Más opciones - Móvil"
 lead: "Aquí puedes ver todas las opciones disponibles que corresponden a más opciones."
 menu:
   docs:
-    parent: "Portal Alumno Escritorio"
+    parent: "Portal Alumno Móvil"
 weight: 010
 toc: true
 ---

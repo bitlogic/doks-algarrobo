@@ -1,5 +1,5 @@
 ---
-title: "Cursado - Versión Móvil"
+title: "Cursado - Móvil"
 lead: "Aquí puedes ver todas las opciones disponibles que corresponden al cursado."
 menu:
   docs:

@@ -40,12 +40,4 @@ Con esta funcionalidad podrás acceder a la aplicación. [Acceder →]({{< relre
 
 #### Editar perfil 
 
-Con esta funcionalidad podrás editar tu perfil. [Editar →]({{< relref "/editar-perfil" >}} "Editar perfil")
-
-#### Iniciar sesión
-
-Desde aquí podrás iniciar sesión. [Iniciar →]({{< relref "/iniciar-sesion" >}} "Iniciar sesión")
-
-#### Cerrar sesión
-
-Desde aquí podrás cerrar sesión. [Cerrar →]({{< relref "/cerrar-sesion" >}} "Cerrar sesión")
+Con esta funcionalidad podrás acceder a las opciones del menú. [Acceder →]({{< relref "/menu" >}} "Acceder al menú")

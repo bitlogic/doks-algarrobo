@@ -1,5 +1,5 @@
 ---
-title: "Exámenes - Versión Escritorio"
+title: "Exámenes - Escritorio"
 lead: "Aquí puedes ver todas las opciones disponibles que corresponden a los exámenes."
 menu:
   docs:

@@ -1,5 +1,5 @@
 ---
-title: "Pagos - Versión Escritorio"
+title: "Pagos - Escritorio"
 lead: "Aquí puedes ver todas las opciones disponibles que corresponden a pagos."
 menu:
   docs:
