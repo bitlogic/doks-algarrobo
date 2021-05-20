@@ -1,7 +1,7 @@
 ---
-title: "Conocé más sobre planificación"
+title: "Conoce más sobre nuestro Planificador"
 description: "Introducción funcional al nuevo sistema de promociones comerciales."
-lead: "Con esta funcionalidad de promociones comerciales podrás asociar descuentos y beneficios a los tickets de estudiantes según los criterios de aplicación que definas. Además, puedes consultar los tickets pendientes de pago y las promociones financieras y comerciales vinculadas con ellos."
+lead: "Con esta funcionalidad puedes gestionar cátedras y docentes. Para aprovechar las funcionalidades de esta herramienta recuerda las siguientes definiciones: una <b>cátedra</b> involucra la parte teórica de una materia, mientras que un <b>seminario</b> incluye la parte práctica de los contenidos; un <b>seminario Experimenta</b> se dicta únicamente en el edificio para tal fin."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false

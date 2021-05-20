@@ -1,5 +1,5 @@
 ---
-title: "Cómo gestionar enunciados"
+title: "Gestionar enunciados"
 lead: "Con esta herramienta puedes ver, editar y agregar preguntas o enunciados vinculados al contenido de una materia. Además, podrás aprender a realizar la validación y aprobación de los enunciados según el rol de las personas que estén a cargo de estas acciones."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00

@@ -1,6 +1,6 @@
 ---
 title: "Gestión de cátedras presenciales"
-lead: "Aquí puedes ver todas las opciones disponibles que corresponden a la gestión de cátedras presenciales."
+lead: "Aquí puedes ver todas las opciones disponibles que corresponden a la gestión de cátedras y docentes. Las siguientes definiciones son importantes: una **cátedra** "
 menu:
   docs:
     parent: "Planificación"
