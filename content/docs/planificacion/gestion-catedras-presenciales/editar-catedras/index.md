@@ -23,7 +23,7 @@ toc: true
 
 5. En la sección “Carreras/Plan” puedes ver las carreras disponibles para la cátedra que estás editando. A la derecha de este dato hay un campo editable para que indiques el orden de apertura.
 6. En el calendario, selecciona un evento/clase ya creado cuya información deseas editar o haz click en el calendario directamente para crear uno nuevo. El formulario de edición se abrirá. Si al editar el sistema detecta que hay una superposición, se desplegará un mensaje en la pantalla.
-7. En las ventanas "Crear" o "Editar" realiza los cambios que desees en los campos: “Edificio”, “Aula”, “Hora de inicio”, y “Hora de fin”. 
+7. En las ventanas "Crear" o "Editar" realiza los cambios que desees en los campos: “Edificio”, “Aula”, “Hora de inicio” y “Hora de fin”. 
 
 {{< note text=`El campo “Capacidad” se encuentra protegido y no se puede editar ya que muestra la capacidad del aula seleccionada.
 

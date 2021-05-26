@@ -1,6 +1,6 @@
 ---
 title: "Descargar archivo en formato CSV"
-description: "Acá va una descripción..."
+lead: "Al ingresar con el rol de codocente SGEA puedes buscar cátedras y descargar el listado de la búsqueda con formato .csv."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -9,6 +9,15 @@ weight: 150
 toc: true
 ---
 
-1. Al hacer click en la flecha hacia abajo (11) se descarga automaticamente un CSV con los datos de la búsqueda realizada de la página en la que me encuentro posicionada (14) y con la cantidad indicada (13)
-1. En caso de necesitar agregar más registros modificar el valor de resultados por página (13)
-1. Al modificar el valor obtenemos la cantidad de registros indicados 
+1. Accede a la pantalla "Gestión de cátedras presenciales". 
+1. En la parte superior de la pantalla, se encuentra el formulario de búsqueda. Ingresa los datos que deseas buscar e incluir en el archivo que vas a descargar. 
+1. En la grilla de resultados, haz clic en el icono de descarga {{<inline-icon image="download file.png" alt="downlead icon">}}. Automáticamente se descargará un archivo .CSV con los datos de la búsqueda que se visualicen en la pantalla.
+</b>
+
+{{< note text=`Si necesitas agregar más registros puedes modificar el valor de resultados por página y cuando obtengas los nuevos resultados descargar nuevamente el archivo.
+
+` >}}
+
+## Véase también
+
+[Buscar cátedras →]({{< ref "buscar-catedras.md" >}} "Buscar cátedras")

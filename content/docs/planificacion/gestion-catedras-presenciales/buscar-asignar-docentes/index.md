@@ -1,6 +1,6 @@
 ---
 title: "Buscar y asignar docentes"
-description: "Acá va una descripción..."
+lead: "Con el rol de Codocente de SGA puedes editar los docentes asignados a una cátedra."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -9,12 +9,12 @@ weight: 150
 toc: true
 ---
 
-1. Al hacer click en los tres puntitos consecutivos de una materia determinada (12) se puede buscar un docente (15), primer suplente (16) y segundo suplente (17) y asignarlo a la materia.
-1. Al hacer click en Docente Titular (15) se puede buscar un docente por nombre y apellido
-1. Al hacer click en primer suplente (16) se puede buscar primer suplente por nombre y apellido
-1. Al hacer click en primer suplente (17) se puede buscar primer suplente por nombre y apellido
-1. Al completar los campos se puede:
-- Guardar los cambios
-- Cancelar los cambios
+1. Accede a la pantalla "Gestión de cátedras presenciales". 
+1. En la parte superior de la pantalla, se encuentra el formulario de búsqueda. Ingresa los datos de las cátedras cuyos docentes deseas modificar.
+1. En la grilla de resultados, haz clic en el icono de más acciones {{<inline-icon image="more actions H.png" alt="more actions horizontal icon">}} que se encuentran a la derecha del registro de la materia. La ventana "Docentes asignados" se abrirá.
+1. Desde aquí podrás buscar y asignar un docente, un primer suplente y un segundo suplente por nombre y apellido y asignarlo a la materia.
+1. Al finalizar, presionar **Aceptar** se guardarán los cambios que realizaste.
 
-6. Al hacer click en “Aceptar” (18) se obtiene un mensaje de que los datos se almacenaron correctamente
+## Véase también
+
+[Buscar cátedras →]({{< ref "buscar-catedras.md" >}} "Buscar cátedras")

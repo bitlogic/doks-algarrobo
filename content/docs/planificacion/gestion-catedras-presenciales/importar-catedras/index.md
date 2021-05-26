@@ -9,26 +9,34 @@ weight: 150
 toc: true
 ---
 
-1. En el panel de navegación selecciona el icono correspondiente para acceder a la pantalla "Importación de cátedras".
-1. Haz clic en el botón para subir archivos {{<inline-icon image="cloud upload.png" alt="upload icon">}}.
-1. La ventana para seleccionar la plantilla desde el disco local se abrirá. se inicia el proceso de análisis e importación de los datos.
-1. Si la planilla ya existe se muestra el siguiente error: “El archivo que desea subir ya existe. Intente nuevamente modificándolo o subiendo otro archivo”.
-1. El primer paso es el análisis de importación. En esta instancia se verifica que la planilla no se haya subido antes y que no contenga errores u omisión de datos requeridos.
-1. Si existe alguna inconsistencia en los datos, el proceso de importación se detiene en la etapa “Detalle del análisis”. El sistema ofrece la opción de descargar un reporte con los errores (1). Éste incluye detalles de las filas y columnas con su tipo de error. También se muestra un mensaje con la cantidad de errores (2) en la parte superior de la pantalla.
-1. En el detalle del análisis se incluyen la cantidad de cátedras/seminarios analizados. Si desea, puede descargar  este informe haciendo clic en el ícono de descarga (3).
-1. Si la planilla no contiene errores o inconsistencias en los datos, en el paso “Detalle del análisis” se habilita el botón “Cargar”.
-1. Cuando los datos se comienzan a cargar se inicia el proceso de importación de datos.
-1. Al finalizar se muestra el siguiente mensaje que indica que la importación se realizó con éxito.
-1. Si hace clic en “Ver resumen” podrá ver el total de cátedras/seminarios cargados. En el paso 4 “Reporte de creación” se indica que la importación está completa.
-1. Haga clic en “Volver a gestión” para volver a la pantalla principal del planificador. Las cátedras/seminarios de la planilla son parte del sistema.
+{{<warning text="Para poder migrar masivamente la información de cátedras usando esta herramienta, primero debes tener disponible el archivo que se usa como plantilla de importación y que se entrega cuando el planificador está disponible en el entorno de producción. Una vez que tengas la plantilla complete con los datos que se incluyen al final de este documento, se la deberá guardar de manera local.">}}
+</b>
+
+1. Para comenzar, en el panel de navegación selecciona el icono de almacenamiento en la nube para acceder a la pantalla "Importación de cátedras".
+1. Haz clic en el botón {{<inline-icon image="cloud upload.png" alt="upload icon">}} para subir la plantilla con los datos de las cátedras que deseas migrar.
+1. La ventana para seleccionar la plantilla desde el disco local se abrirá. Elige el archivo y haz clic en abrir. 
+
+{{< note text=`Si la planilla ya existe se mostrará el siguiente mensajes: “El archivo que deseas subir ya existe. Intenta nuevamente modificándolo o subiendo otro archivo”.
+
+` >}}
+</b>
+
+4. El primer paso del proceso de importación de datos es el **Análisis de importación**. En esta instancia se verifica que la planilla no contenga errores u omisión de datos requeridos.
+5. Si existe alguna inconsistencia en los datos, el proceso de importación se detiene en la etapa 2 **Detalle del análisis**. El sistema ofrece la opción de descargar un reporte con los errores dónde se incluyen detalles de las filas y columnas con su tipo de error. También se muestra un mensaje con la cantidad de errores en la parte superior de la pantalla. 
+6. Si en esta etapa no se encuentran errores, puedes ver en la pantalla la cantidad de cátedras/seminarios analizados. Si deseas descargar este informe haciendo clic en el ícono de descarga.
+7. Si la plantilla no contiene errores o inconsistencias en los datos, en el paso “Detalle del análisis” se habilita el botón **Cargar**.
+8. Cuando los datos se comienzan a cargar, se inicia el proceso de importación de datos.
+9. Al finalizar, se abrirá una ventana con un mensaje que confirma que la importación se realizó con éxito.
+10. Haz clic en **Ver resumen** para controlar el total de cátedras/seminarios que se cargaron. 
+11. En el paso 4 “Reporte de creación”, el sistema indica que la importación se completó. Si quieres, puedes presionar el botón **Volver a gestión** para regresar a la pantalla principal del planificador. Las cátedras/seminarios ya son parte del sistema y puedes cargar filtros en el buscador para verlos en la pantalla.
 
 ### Formato de la planilla de importación
 
 El importador analiza el contenido de la planilla cargada por lo que deben seguirse las siguientes  especificaciones sobre el archivo .xls:
 
 - El nombre de la hoja que contenga la información de las cátedras a importar debe ser “AULERO”, evitando incluir datos como el año o período.
-- Los datos agregados manualmente al archivo deben coincidir con los nombres como figuran en la base de datos. Ejemplo: si en la DB figura como “CURSADO MODALIDAD PRESENCIAL 2-20”, se debe asegurar que en la planilla no se carguen con diferencias (“CURSADO MODALIDAD PRESENCIAL 2/20”).
-- La modalidad debe ser P, P. o PH. Actualmente viene como MP 1
+- Los datos que se agreguen manualmente al archivo deben coincidir con los nombres que figuran en la base de datos. Por ejemplo, si en la base de datos figura como “CURSADO MODALIDAD PRESENCIAL 2-20”, se debe asegurar que el nombre en la plantilla se exactamente igual.
+- La modalidad debe ser P, P. o PH. Actualmente viene como MP 1.
 
 #### Datos requeridos para la carga de datos:
 
@@ -56,3 +64,11 @@ El importador analiza el contenido de la planilla cargada por lo que deben segui
 ---
 
 _Información exclusiva de la Universidad Siglo 21_
+
+## Véase también
+
+[Buscar cátedras →]({{< ref "buscar-catedras" >}} "Buscar cátedras")
+<br/>
+[Editar cátedras →]({{< ref "editar-catedras" >}} "Editar cátedras")
+<br/>
+[Abrir cátedras →]({{< ref "abrir-catedras" >}} "Abrir cátedras")
