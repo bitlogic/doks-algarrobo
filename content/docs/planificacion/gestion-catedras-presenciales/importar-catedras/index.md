@@ -12,8 +12,8 @@ toc: true
 {{<warning text="Para poder migrar masivamente la información de cátedras usando esta herramienta, primero debes tener disponible el archivo que se usa como plantilla de importación y que se entrega cuando el planificador está disponible en el entorno de producción. Una vez que tengas la plantilla complete con los datos que se incluyen al final de este documento, se la deberá guardar de manera local.">}}
 </b>
 
-1. Para comenzar, en el panel de navegación selecciona el icono de almacenamiento en la nube para acceder a la pantalla "Importación de cátedras".
-1. Haz clic en el botón {{<inline-icon image="cloud upload.png" alt="upload icon">}} para subir la plantilla con los datos de las cátedras que deseas migrar.
+1. Para comenzar, en el panel de navegación selecciona el icono de almacenamiento en la nube {{<inline-icon image="cloud upload.png" alt="upload icon">}} para acceder a la pantalla "Importación de cátedras".
+1. Haz clic en el botón **Subir archivos** ubicado en el centro de la pantalla para cargar la plantilla con los datos de las cátedras que deseas migrar.
 1. La ventana para seleccionar la plantilla desde el disco local se abrirá. Elige el archivo y haz clic en abrir. 
 
 {{< note text=`Si la planilla ya existe se mostrará el siguiente mensajes: “El archivo que deseas subir ya existe. Intenta nuevamente modificándolo o subiendo otro archivo”.

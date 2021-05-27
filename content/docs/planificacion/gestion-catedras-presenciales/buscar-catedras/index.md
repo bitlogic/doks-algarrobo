@@ -9,7 +9,7 @@ weight: 150
 toc: true
 ---
 
-1. Accede a la pantalla "Gestión de cátedras presenciales". 
+1. Accede a la pantalla "Gestión de cátedras presenciales" haciendo clic en el icono {{<inline-icon image="menu.png" alt="hamburger menu icon">}} del panel de navegación izquierdo. 
 1. En la parte superior de la pantalla, se encuentra el formulario de búsqueda. Cuatro de estos campos marcados con asterisco son obligatorios: “Período”, “Subperíodo”, “Tipo de cátedra” y "Estado de cátedra". Una vez que hayas ingresado estos datos se habilita el botón **Buscar**.
 
 {{< note text=`Puedes completar algunos de los siguientes campos adicionales para realizar una búsqueda avanzada:
