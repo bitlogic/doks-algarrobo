@@ -11,7 +11,8 @@ toc: true
 ---
 
 1. Ingresa a la herramienta de "Gestión de ingresos".
-1. En el panel de navegación, selecciona el icono relacionado para que puedas acceder a la pantalla "Medios de pago".
+1. En el panel de navegación, selecciona el icono 
+{{<inline-icon image="payment.png" alt="payment icon">}} para que puedas acceder a la pantalla "Medios de pago".
 1. En la parte superior puedes comenzar a completar el campo de búsqueda con el nombre del medio de pago cuyos detalles deseas ver.
 
 {{<note text="La grilla de búsqueda se irá filtrando automáticamente dependiendo del nombre que ingreses en el campo de búsqueda. Puedes utilizar el icono a la izquierda de los registros para arrastrar los medios de pagos y ubicarlos en el orden que desees.">}}

@@ -11,7 +11,7 @@ toc: true
 ---
 
 1. Ingresa a la herramienta de "Gestión de ingresos".
-1. En el panel de navegación, selecciona el icono relacionado para que puedas acceder a la pantalla "Medios de pago".
+1. En el panel de navegación, selecciona el icono {{<inline-icon image="payment.png" alt="payment icon">}} para que puedas acceder a la pantalla "Medios de pago".
 1. En la parte superior ingresa el nombre del medio de pago que deseas editar para que lo puedas ver en la grilla.
 1. Haz clic en el nombre del medio de pago cuya información deseas modificar.
 1. La pantalla "Detalle de los medios de pago" se abrirá. Aquí, haz clic en **Editar**.
