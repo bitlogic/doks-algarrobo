@@ -11,7 +11,7 @@ toc: true
 ---
 
 1. Ingresa a la herramienta "Gestión de ingresos".
-1. En el panel de navegación, selecciona el primer icono para que puedas acceder a la pantalla "Promociones financieras".
+1. En el panel de navegación, selecciona el icono {{<inline-icon image="currency.png" alt="currency icon">}}para que puedas acceder a la pantalla "Promociones financieras".
 1. En la parte superior, ingresa en nombre de la promoción cuya configuración deseas editar.
 1. En la ventana "Detalles de la promoción", ve a la sección "Reglas/Criterios".
 1. Haz clic en el icono de "Entradas" para elegir la población para quiénes aplican estas reglas. Puedes optar entre: Tipo de producto, Región, Modalidad, SubModalidad, Clase estudio, Carrera, Sede/CAU, Rol, Tipo de alumno, Período y Paquete. Todas estas opciones tienen listas desplegables. 
@@ -31,6 +31,7 @@ toc: true
 <br>
 
 Por último, si has incluido varios criterios, será necesario que en la última fila definas cómo se aplicará la promoción a la parte de la población excluida. Si colocas un cero en el campo valor, esto significa que no se desea incluir ningún otro tipo de población a la promoción y si ingresas otro valor (por ejemplo, cinco) este descuento será aplicado al resto de la población que se excluyó en los criterios anteriores.`>}}
+</b>
 
 8. Una vez definidos las reglas o criterios de aplicación haz clic en el botón **Guardar.**
 
