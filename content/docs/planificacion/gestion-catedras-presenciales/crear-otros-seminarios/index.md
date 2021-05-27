@@ -30,17 +30,20 @@ toc: true
 <br>
 
 - En “Docente” escribe el nombre del titular de la cátedra.`>}}
+</b>
 
 5. En la sección “Carreras/Plan” a la derecha de la pantalla, indica el orden de apertura para cada carrera afectada por el seminario.
 6. Luego, ve a la grilla del Calendario y haz clic en alguna celda. 
 7. La ventana “Crear” se abrirá automáticamente. Completa los campos “Edificio”, “Aula”, “Hora de inicio” y “Hora de fin”.
 
 {{<note text="Si deseas agregar una nueva clase el mismo día, seleccione el botón <b>+ Agregar horario</b>. Si deseas eliminar alguno de los registros creados, presiona el ícono eliminar.">}}
+</b>
 
 8. Una vez que hayas ingresado todos los datos, presiona **Guardar** en la ventana de creación.
 9. Por último, el botón **GUARDAR** ubicado en la parte superior derecha de la pantalla se habilita cuando todos los campos están completos. Luego de presionar el botón, se desplegará un mensaje comunicando el éxito de la transacción en la parte inferior de la pantalla.
 
 {{<tip text="El seminario común que acabas de crear se podrá ver en la grilla de la pantalla de búsqueda. Por defecto, se creará cerrado. Para poder abrir cualquier cátedra/seminario desde esta pantalla, usa el botón de encendido y apagado a al derecha del registro.">}}
+</b>
 
 ## Véase también
 

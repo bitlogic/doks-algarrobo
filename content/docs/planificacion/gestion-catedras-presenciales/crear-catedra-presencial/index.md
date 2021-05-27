@@ -1,6 +1,6 @@
 ---
 title: "Crear una cátedra presencial"
-lead: "Con esta herramienta, los codocentes de planificación, codocentes SGEA, y mesa de ayuda podrán comenzar a generar las cátedras presenciales de manera fácil y ágil."
+lead: "Con esta herramienta, los codocentes de planificación podrán comenzar a generar las cátedras presenciales de manera fácil y ágil."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -30,17 +30,20 @@ toc: true
 <br>
 
 - En “Docente” escribe el nombre del titular de la cátedra.`>}}
+</b>
 
 5. En la sección “Carreras/Plan” a la derecha de la pantalla, indica el orden de apertura para cada carrera afectada por la cátedra.
 6. Luego, ve a la grilla del Calendario y haz clic en alguna celda. 
 7. La ventana “Crear” se abrirá automáticamente. Completa los campos “Edificio”, “Aula”, “Hora de inicio” y “Hora de fin”. 
 
 {{<note text="Si deseas agregar una nueva clase el mismo día, seleccione el botón <b>+ Agregar horario</b>. Si deseas eliminar alguno de los registros creados, presiona el ícono eliminar.">}}
+</b>
 
 8. Una vez que hayas ingresado todos los datos, presiona **Guardar** en la ventana de creación.
 9. Por último, el botón **GUARDAR** ubicado en la parte superior derecha de la pantalla se habilita cuando todos los campos están completos. Luego de presionar el botón, se desplegará un mensaje comunicando el éxito de la transacción en la parte inferior de la pantalla.Una vez que haya ingresado todos los datos, presione “Guardar” en la ventana de creación.
 
 {{<tip text="La cátedra que acabas de crear se podrá ver en la grilla de la pantalla de búsqueda. Por defecto, la cátedra se creará cerrada. Para poder abrir cualquier cátedra desde esta pantalla, usa el botón de encendido y apagado a la derecha de la cátedra seleccionada.">}}
+</b>
 
 ## Véase también
 

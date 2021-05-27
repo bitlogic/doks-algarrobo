@@ -1,6 +1,6 @@
 ---
 title: "Crear una cátedra virtual"
-lead: "Con esta herramienta, los codocentes de planificación, codocentes SGEA, y mesa de ayuda podrán comenzar a generar las cátedras virtuales de manera fácil y ágil."
+lead: "Con esta herramienta, los codocentes de planificación podrán comenzar a generar las cátedras virtuales de manera fácil y ágil."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -30,10 +30,12 @@ En el formulario “Crear cátedra virtual”, completa los campos “Modalidad�
 <br>
 
 - En “Docente” escribe el nombre del titular de la cátedra.`>}}
+</b>
 
 5. En la sección “Carreras/Plan” a la derecha de la pantalla, indica el orden de apertura para cada carrera afectada por la cátedra.
 
 {{<note text="La grilla del Calendario no se podrá modificar ya que este tipo de cátedra no requiere la carga de días y horarios.">}}
+</b>
 
 6. Por último, el botón **GUARDAR** en la parte superior derecha de la pantalla se habilita cuando todos los campos están completos. Luego de presionar el botón, se desplegará un mensaje comunicando el éxito de la transacción en la parte inferior de la pantalla.
 

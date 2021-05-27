@@ -1,6 +1,6 @@
 ---
 title: "Ver estudiantes inscriptos en cada cátedra"
-description: "Si tienes el rol de Mesa de Ayuda podrás consultar los alumnos que se han inscripto para cada cátedra."
+description: "Si tienes el rol de Mesa de ayuda podrás consultar los alumnos que se han inscripto para cada cátedra."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false

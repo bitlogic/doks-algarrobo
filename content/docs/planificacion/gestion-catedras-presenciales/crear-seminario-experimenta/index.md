@@ -27,6 +27,7 @@ toc: true
 <br>
 
 - En “Docente” escribe el nombre del titular de la cátedra.`>}}
+</b>
 
 5. En la sección “Carreras/Plan” a la derecha de la pantalla, indica el orden de apertura para cada carrera afectada por el seminario.
 6. Luego, ve a la grilla del Calendario y haz clic en alguna celda. 
@@ -34,10 +35,12 @@ toc: true
 8. Una vez que hayas ingresado todos los datos, presiona **Guardar** en la ventana de creación.
 
 {{<note text="Para este tipo de seminario se deben seleccionar 5 fechas en las que se van a llevar a cabo los encuentros/clases. Si superas el número máximo de encuentros, se desplegará un mensaje notificándote esta situación.">}}
+</b>
 
 9. Por último, el botón **GUARDAR** ubicado en la parte superior derecha de la pantalla se habilita cuando todos los campos están completos. Luego de presionar el botón, se desplegará un mensaje comunicando el éxito de la transacción en la parte inferior de la pantalla.
 
 {{<tip text="El seminario Experimenta que acabas de crear se podrá ver en la grilla de la pantalla de búsqueda. Por defecto, se creará cerrado. Para poder abrir cualquier cátedra/seminario desde esta pantalla, usa el botón de encendido y apagado a al derecha del registro.">}}
+</b>
 
 ## Véase también
 
