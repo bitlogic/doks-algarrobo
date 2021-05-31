@@ -1,6 +1,6 @@
 ---
-title: "Inscripción de Ingresantes - Resto de las carreras y resto de las modalidades"
-description: "Acá va una descripción..."
+title: "Inscribir ingresantes en otras carreras de otras modalidades"
+lead: "Acá va una descripción..."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
