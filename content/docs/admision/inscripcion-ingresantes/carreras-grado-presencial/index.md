@@ -9,6 +9,11 @@ weight: 150
 toc: true
 ---
 
+{{<warning text=` El ejemplo de admisión que se menciona en este documento es para la inscripción de un estudiante interesado en cursar el tipo de carrera <b>Grado</b> para la modalidad <b>Presencial</b>. Las pantallas de admisión cambian si otras son las elecciones.
+
+` >}}
+</b>
+
 1. En el portal de admisiones, comienza a completar el formulario con los datos de preinscripción a la carrera: 
 </b>
 
@@ -57,6 +62,12 @@ Cuando hayas completado los datos, presiona **Buscar**.
 9. En la pantalla "Resumen" podrás ver todos los datos que se cargaron desde la primer pantalla para que verifiques la información que has ingresado. Si tuvieses que realizar algunos cambios, agregar o borrar información puedes hacerlo dirigiéndote a cada una de las pantallas haciendo clic en el panel navegación izquierdo.
 10. Una vez que hayas corroborado todos los datos, haz click en **Confirmar**. Un mensaje te confirmará que la acción fue exitosa y se mostrará todos los detalles de la inscripción en la pantalla.
 11. Por último, selecciona **Finalizar**. El sistema volverá a mostrar la primer pantalla para comenzar nuevamente con la inscripción de un nuevo ingresante.
+<br>
+
+{{< note text=`Una vez que el asesor generó el usuario podrá brindarle al estudiante la posibilidad de registrarse en el portal de autogestión o de descargarse la aplicación móvil. Allí podrá ver los tickets que tiene pendiente de pago para completar su inscripción a una carrera y realizar muchas acciones más.
+
+` >}}
+<br>
 
 ## Véase también 
 

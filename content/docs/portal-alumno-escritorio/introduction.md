@@ -1,7 +1,7 @@
 ---
-title: "Conocé más sobre el portal"
-description: "Introducción funcional al nuevo sistema de promociones comerciales."
-lead: "Portal Alumno...."
+title: "Conoce más sobre el portal"
+description: "Introducción funcional al nuevo portal alumno."
+lead: "Con tu portal de estudiante que puedes utilizar desde tu ordenador puedes realizar muchas acciones por autogestión como inscribirte en materias, consultar tu historial de cursado, gestionar tus pagos, entre otras."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
