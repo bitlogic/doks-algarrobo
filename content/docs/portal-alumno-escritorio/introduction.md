@@ -22,22 +22,26 @@ Con esta funcionalidad podrás consultar el calendario académico. [Consultar �
 
 #### Consultar el historial de inscripciones a exámenes
 
-Con esta funcionalidad podrás consultar el calendario académico. [Consultar →]({{< relref "/consultar-historial-inscripciones" >}} "Consultar historial")
+Con esta funcionalidad podrás consultar los exámenes a los que te has inscirpto. [Consultar →]({{< relref "/consultar-historial-inscripciones" >}} "Consultar historial")
 
 ## Exámenes
 
-#### Inscribirse a un examen
+#### Inscribirte en un examen
 
-Con esta funcionalidad podrás inscribirte a un examen. [Inscribite →]({{< relref "/inscripcion-examen" >}} "Inscribite a un examen")
+Con esta funcionalidad podrás inscribirte en un examen. [Inscribite →]({{< relref "/inscripcion-examen" >}} "Inscribite a un examen")
 
 ## Pagos
 
 #### Acceder a la aplicación de Pagos Electrónicos
 
-Con esta funcionalidad podrás acceder a la aplicación. [Acceder →]({{< relref "/acceder-aplicacion" >}} "Acceder a la aplicación")
+Con esta funcionalidad podrás acceder a la aplicación que se utiliza para realizar y consultar los pagos relacionados con tu vida académica. [Acceder →]({{< relref "/acceder-aplicacion" >}} "Acceder a la aplicación")
 
-## Más opciones
+## Información general
 
-#### Editar perfil 
+#### Navegar el portal
 
-Con esta funcionalidad podrás acceder a las opciones del menú. [Acceder →]({{< relref "/menu" >}} "Acceder al menú")
+Conoce más sobre las secciones del portal y las acciones que puedes realizar desde cada una. [Navegar →]({{< relref "/navegar-portal" >}} "Navegar el portal")
+
+#### Menú de más opciones 
+
+Consulta los atajos disponibles y las diferentes opciones del menú. [Acceder →]({{< relref "/menu" >}} "Acceder al menú")
