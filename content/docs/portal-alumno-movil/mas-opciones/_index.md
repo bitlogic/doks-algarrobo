@@ -19,3 +19,7 @@ Desde aquí podrás iniciar sesión. [Iniciar →]({{< relref "/iniciar-sesion-m
 #### Cerrar sesión
 
 Desde aquí podrás cerrar sesión. [Cerrar →]({{< relref "/cerrar-sesion-movil" >}} "Cerrar sesión")
+
+#### Navegar la aplicación
+
+Desde aquí podrás aprender cómo navegar la app de manera fácil y ágil. [Navegar →]({{< relref "/navegar-app" >}} "Navegar la aplicación")

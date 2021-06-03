@@ -9,7 +9,8 @@ weight: 150
 toc: true
 ---
 
-1. En el panel de navegación izquierdo, en la parte inferior haz clic en el ícono de más opciones {{<inline-icon image="more actions V.png" alt="more actions vertical icon">}} y selecciona la opción **Agenda**.
+1. Ingresa al portal de estudiantes con tus credenciales.
+1. En el panel de navegación izquierdo, en la parte inferior, haz clic en el ícono de más opciones {{<inline-icon image="more actions V.png" alt="more actions vertical icon">}} y selecciona la opción **Agenda**.
 
 {{< tip text=`En la pantalla del portal, en la sección "Próximos eventos" puedes hacer clic en el botón <b>VER TODO</b> para acceder al calendario.
 <br>
@@ -17,9 +18,9 @@ toc: true
 ` >}}
 </b>
 
-2. Desde el calendario se pueden filtrar por eventos. Éstos pueden hacer referencia a clases, exámenes, u otros eventos (marcados en color azul).
+2. Desde el calendario se pueden filtrar los eventos por su tipo desplegando las opciones del botón **Todos**. Éstos pueden hacer referencia a clases, exámenes, u otros eventos (marcados en color azul).
 3. También puedes seleccionar para ver el calendario por “Semana” o “Mes” haciendo clic en la opción deseada. Usa las flechas  {{<inline-icon image="navigate before.png" alt="arrow icon">}} y {{<inline-icon image="navigate next.png" alt="arrow icon">}} ubicadas sobre el calendario para seleccionar mes y año.
-4. Haz clic sobre una fecha en el calendario, en la pantalla se abrirá una ventana con la información correspondiente a la agenda académica de ese día.
+4. Haz clic sobre una fecha en el calendario, en la pantalla se abrirá una ventana con los eventos correspondientes a la agenda académica de ese día.
 5. Si lo deseas, puedes presionar el botón **HOY** para que se muestre el día actual en el calendario.
 6. Para volver a la sección "Cursado", presionar la flecha {{<inline-icon image="navigate before.png" alt="arrow icon">}}ubicada en el extremo superior izquierdo junto a “Agenda".
 
