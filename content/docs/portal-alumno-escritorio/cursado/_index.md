@@ -1,5 +1,5 @@
 ---
-title: "Cursado - Escritorio"
+title: "Cursado"
 lead: "Aquí puedes ver todas las opciones disponibles que corresponden al cursado."
 menu:
   docs:

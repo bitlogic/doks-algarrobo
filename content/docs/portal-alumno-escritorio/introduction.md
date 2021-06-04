@@ -10,6 +10,16 @@ weight: 010
 toc: true
 ---
 
+## Información general
+
+#### Navegar el portal
+
+Conoce más sobre las secciones del portal y las acciones que puedes realizar desde cada una. [Navegar →]({{< relref "/navegar-portal" >}} "Navegar el portal")
+
+#### Menú de más opciones 
+
+Consulta los atajos disponibles y las diferentes opciones del menú. [Acceder →]({{< relref "/menu" >}} "Acceder al menú")
+
 ## Cursado
 
 #### Consultar carreras y/o historial de cursado
@@ -35,13 +45,3 @@ Con esta funcionalidad podrás inscribirte en un examen. [Inscribite →]({{< re
 #### Acceder a la aplicación de Pagos Electrónicos
 
 Con esta funcionalidad podrás acceder a la aplicación que se utiliza para realizar y consultar los pagos relacionados con tu vida académica. [Acceder →]({{< relref "/acceder-aplicacion" >}} "Acceder a la aplicación")
-
-## Información general
-
-#### Navegar el portal
-
-Conoce más sobre las secciones del portal y las acciones que puedes realizar desde cada una. [Navegar →]({{< relref "/navegar-portal" >}} "Navegar el portal")
-
-#### Menú de más opciones 
-
-Consulta los atajos disponibles y las diferentes opciones del menú. [Acceder →]({{< relref "/menu" >}} "Acceder al menú")
