@@ -1,5 +1,5 @@
 ---
-title: "Más opciones - Móvil"
+title: "Más opciones"
 lead: "Aquí puedes ver todas las opciones disponibles que corresponden a más opciones."
 menu:
   docs:
@@ -8,9 +8,9 @@ weight: 010
 toc: true
 ---
 
-#### Editar perfil 
+#### Ver perfil 
 
-Con esta funcionalidad podrás editar tu perfil. [Editar →]({{< relref "/editar-perfil-movil" >}} "Editar perfil")
+Con esta funcionalidad podrás ver tu información de perfil. [Ver →]({{< relref "/editar-perfil-movil" >}} "Ver tu perfil")
 
 #### Iniciar sesión
 

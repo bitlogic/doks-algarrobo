@@ -18,7 +18,7 @@ toc: true
 3. Para regresar a la pantalla anterior y cerrar el menú, presiona la flecha {{<inline-icon image="navigate before.png" alt="back icon">}}.
 <br>
 
-{{< tip text=`Usa el ícono “Perfil” en la parte superior del menú si deseas realizar cambios en tu informacón personal.
+{{< tip text=`Usa el ícono “Perfil” en la parte superior del menú si deseas realizar cambios en tu información personal.
 <br>
 
 ` >}}
@@ -26,4 +26,4 @@ toc: true
 
 ## Véase también
 
-[Navegar el portal de estudiantes →]({{< ref "navegar-portal.md" >}} "Navegar el portal de estudiantes")
+[Navegar el portal de estudiantes →]({{< ref "navegar-portal.md" >}} "Inscribirse a un examen")

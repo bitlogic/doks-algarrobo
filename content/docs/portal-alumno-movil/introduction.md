@@ -50,9 +50,13 @@ Con esta funcionalidad podrás realizar el pago de aranceles, matrículas y otro
 
 ## Más opciones
 
-#### Editar perfil 
+#### Navegar la aplicación 
 
-Con esta funcionalidad podrás editar tu perfil. [Editar →]({{< relref "/editar-perfil-movil" >}} "Editar perfil")
+Con esta funcionalidad podrás conocer más sobre las funcionalidades que tiene la aplicación. [Navegar →]({{< relref "/editar-perfil-movil" >}} "Navegar la aplicación")
+
+#### Ver tu perfil 
+
+Con esta funcionalidad podrás ver tu perfil. [Ver →]({{< relref "/editar-perfil-movil" >}} "Ver tu perfil")
 
 #### Iniciar sesión
 
