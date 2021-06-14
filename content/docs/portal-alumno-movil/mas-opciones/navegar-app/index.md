@@ -25,23 +25,17 @@ toc: true
 <img src="navigate app.png" alt="My mobile"/>
 <br>
 
-3. Para continuar conociendo más sobre la aplicación móvil para estudiantes consulta los documentos listados en la siguiente sección.
+5. Para continuar conociendo más sobre la aplicación móvil para estudiantes, consulta los documentos listados en la siguiente sección.
 
 ## Véase también
 
-[Consultar carreras e historial de cursado →]({{< ref "consultar-carreras-e-historial-cursado.md" >}} "Consultar carreras e historial de cursado")
+[Consultar historial de materias de la carrera →]({{< ref "consultar-historial-materias.md" >}} "Consultar historial de de materias de la carrera")
 <br>
 
-[Consultar historial de inscripción a exámenes →]({{< ref "consultar-historial-inscripciones.md" >}} "Consultar historial de inscripción a exámenes")
+[Consultar historial de inscripciones a exámenes →]({{< ref "consultar-historial-inscripciones-examenes.md" >}} "Consultar historial de inscripciones a exámenes")
 <br>
 
-[Consultar historial de inscripciones a exámenes →]({{< ref "consultar-historial-inscripciones.md" >}} "Consultar historial de inscripciones a exámenes")
+[Inscribirse a un examen →]({{< ref "inscribirse-examen.md" >}} "Inscribirse a un examen")
 <br>
 
-[Inscribirse a un examen →]({{< ref "inscripcion-examen.md" >}} "Inscribirse a un examen")
-<br>
-
-[Acceder a la aplicación de pagos electrónicos →]({{< ref "consultar-historial-inscripciones.md" >}} "Acceder a la aplicación de pagos electrónicos")
-<br>
-
-[Realizar más acciones →]({{< ref "menu.md" >}} "Realizar más acciones")
+[Acceder a la aplicación de pagos electrónicos →]({{< ref "realizar-pago.md" >}} "Acceder a la aplicación de pagos electrónicos")

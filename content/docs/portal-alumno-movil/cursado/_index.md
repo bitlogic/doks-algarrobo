@@ -1,16 +1,12 @@
 ---
 title: "Cursado - Móvil"
-lead: "Aquí puedes ver todas las opciones disponibles que corresponden al cursado."
+lead: "Aquí puedes ver todas las opciones disponibles relacionadas con información sobre cursado el cursado de tu/s carrera/s y los próximos eventos que tienes programados."
 menu:
   docs:
     parent: "Portal Alumno Móvil"
 weight: 010
 toc: true
 ---
-
-#### Consultar carreras y/o historial de cursado
-
-Con esta funcionalidad podrás consultar las carreras y/o el historial de cursado. [Consultar →]({{< relref "/consultar-carreras-historial-cursado" >}} "Consultar carreras")
 
 #### Consultar historial de materias de la carrera
 

@@ -26,9 +26,6 @@ toc: true
 
 ## Véase también
 
-[Consultar carreras e historial de cursado →]({{< ref "consultar-carreras-historial-cursado.md" >}} "Consultar carreras e historial de cursado")
-<br>
-
 [Consultar agenda de eventos →]({{< ref "consultar-calendario-academico.md" >}} "Consultar agenda de eventos")
 <br>
 

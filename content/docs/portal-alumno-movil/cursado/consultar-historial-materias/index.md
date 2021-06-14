@@ -1,6 +1,6 @@
 ---
-title: "Visualizar historial materias de la carrera"
-lead: "Acá puede ir una descripción..."
+title: "Consultar historial de materias de la carrera"
+lead: "Accediendo a la opción cursado podrás ver el historial de notas de las materias que has cursado."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -9,9 +9,33 @@ weight: 150
 toc: true
 ---
 
-1. Al ingresar a “Historial” (2) se obtiene un detalle de las materias del alumno para la carrera en la que se encuentra inscripto diferenciadas por materias pendientes, cursando, regulares, aprobadas y libres por nota.
-1. En caso que la sección libre por nota no aparezca significa que al alumno no tiene materias libres por nota.
-1. Al hacer click en una materia (7, 8, 9) se pueden ver los parciales, los finales, los trabajos prácticos y la actividad práctica integradora, correspondientes a la materia.
-1. Existen casos donde las materias solo disponen de parciales y finales y otros donde la materia disponen de parciales, finales, trabajos prácticos y actividad integradora.
-1. El color verde significa que la nota para esa evaluación es **APROBADA**. El color rosa significa que la nota para esa evaluación es **DESAPROBADA**.
-1. Al hacer click en el parcial, final, trabajo práctico o actividad integradora se visualiza el detalle del mismo como se muestra a continuación. Para volver a la pantalla anterior se debe presionar en “Cerrar” (11).
+1. Inicia sesión con tu usuario y credenciales.
+1. En la sección con los datos de legajo y datos de tu carrera, pulsa **Historial**.
+1. En la pantalla verás la sección **Materias** con un detalle de todas las materias vinculadas con la carrera en la que te encuentras separadas en tres solapas: "Pendientes", "Cursando", "Regulares", "Aprobadas" y "Libres por nota". Puedes recorrer las solapas deslizando tu dedo horizontalmente hacia la izquierda y la derecha.
+<br>
+
+{{< note text=`Si no puedes ver algunas de estas pestañas es porque no tienes materias en ese estado.
+
+` >}}
+<br>
+
+4. Selecciona una materia de las diferentes solapas para ver un detalle de los exámenes "Finales" y "Parciales" y los "Trabajos prácticos" y las "Actividades prácticas integradoras" correspondientes a la materia.
+<br>
+
+{{< note text=`Recuerda que existen casos donde las materias solo disponen de parciales y finales y otros en los que las materias contienen exámenes parciales y finales, trabajos prácticos y actividades integradoras.
+<br>
+
+El color verde significa que la evaluación está <b>APROBADA</b>. El magenta significa que la evaluación se encuentra <b>DESAPROBADA</b>.
+
+` >}}
+<br>
+
+## Véase también
+
+[Navegar la aplicación →]({{< ref "navegar-app.md" >}} "Navegar la aplicación")
+<br>
+
+[Consultar historial de inscripciones a exámenes →]({{< ref "consultar-historial-inscripciones-examenes.md" >}} "Consultar historial de inscripciones a exámenes")
+<br>
+
+[Consultar las últimas notas obtenidas →]({{< ref "consultar-notas.md" >}} "Consultar las últimas notas obtenidas")

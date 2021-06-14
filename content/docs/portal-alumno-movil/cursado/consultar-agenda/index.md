@@ -1,6 +1,6 @@
 ---
-title: "Visualizar agenda"
-lead: "Acá puede ir una descripción..."
+title: "Consultar calendario académico/agenda"
+lead: "Desde esta opción puedes ver y consultar tu calendario de eventos (clases y exámenes)."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -9,31 +9,36 @@ weight: 150
 toc: true
 ---
 
-1. Al hacer click en “Ver todo” referencia (3) se abre un calendario. Al hacer click en el mes (12) se puede cambiar la fecha de calendario.
-1. Todos los días del calendario que tengan puntos verdes o de otro color (15) significa que tienen algún evento asignado.
+1. Inicia sesión en la app con tu usuario y credenciales.
+1. Desde la pantalla principal de la app, en la sección "Próximos eventos" puedes ver a simple vista los últimos 5 eventos en los que te has inscripto. Estos eventos pueden ser clases o exámenes. Deslizándote horizontalmente hacia la derecha y la izquierda puedes navegar por estos eventos. 
+1. Presiona en el botón <b>VER TODO</b> para acceder a la agenda académica completa.
 
-### Visualización por semana
+{{< tip text=`Otra forma de acceder a la agenda es desde el panel de navegación en la barra inferior, pulsando el icono de más opciones y seleccionando la opción <b>Agenda</b>.
+<br>
 
-1. Al hacer click en “Semana” (13 y 16) se puede elegir visualización del calendario en formato semana. Al seleccionar un evento y hacer click sobre el mismo se abre una nueva ventana con su detalle.
-1. En caso que el evento ya haya finalizado el mismo se visualizará en formato transparente.
+` >}}
+</b>
 
-### Visualización por mes
+4. Desde la vista del calendario se puede visualizar la información por mes y por semana. Si te encuentras en la vista por semana y deseas ver los eventos de un día puedes deslizarte verticalmente hacia arriba y hacia abajo. Si te deslizas hacia la derecha y la izquierda puedes ver tus eventos por semana. Para cambiar a la vista mensual, pulsa en la parte superior derecha de la pantalla y selecciona la opción "Mes". Los eventos aparecerán como puntos y si los pulsas podrás ver más detalles de cada uno en el día seleccionado. 
+<br>
 
-1. Al hacer click en “Mes” (13 y 18) se puede elegir visualización del calendario en formato mes. Al seleccionar un día y hacer click sobre el mismo (19) se abre una nueva ventana con los detalles de los eventos de ese día.
-1. A esta sección el Alumno puede ingresar desde los tres puntitos ubicados en la pantalla inferior derecha.
+{{< note text=`Cada vez que presiones en un evento o día que contenga eventos, se abrirá una ventana emergente para que puedas ver los detalles. Los exámenes se ven en color amarillo y los demás eventos en color verde.
+<br>
 
-### Visualización últimas notas
+En caso de que un evento haya finalizado se lo visualizará en formato transparente.
+<br>
 
-Al hacer click en una nota particular (4) se obtienen los datos de los parciales, APis, TPPs
+` >}}
+<br>
 
-**Visualizar notas de APIs**
-1. Ingresar a la sección “APIs” y hacer click en la actividad práctica integradora (20) para obtener su detalle. 
-1. Para volver a la pantalla anterior hacer click en “Cerrar” (21).
+5. Si deseas volver a la pantalla principal, pulsa la flecha {{<inline-icon image="navigate before.png" alt="navigate before icon">}} junto **Agenda**.
 
-**Visualizar notas de Parciales**
-1. Ingresar a la sección “Parciales” y hacer click en un parcial determinado (22) para obtener su detalle. 
-1. Para volver a la pantalla anterior hacer click en “Cerrar” (23).
+## Véase también
 
-**Visualizar notas de TPPs**
-1. Ingresar a la sección “TPPs” y hacer click en un trabajo determinado (24) para obtener su detalle.
-1. Para volver a la pantalla anterior hacer click en “Cerrar” (25).
+[Navegar la aplicación →]({{< ref "navegar-app.md" >}} "Navegar la aplicación")
+<br>
+
+[Consultar historial de inscripciones a exámenes →]({{< ref "navegar-app.md" >}} "Consultar historial de inscripciones a exámenes")
+<br>
+
+[Consultar las últimas notas obtenidas →]({{< ref "consultar-notas.md" >}} "Consultar las últimas notas obtenidas")
