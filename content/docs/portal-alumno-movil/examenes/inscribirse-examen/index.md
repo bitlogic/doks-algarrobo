@@ -1,5 +1,5 @@
 ---
-title: "Inscripción a Exámen"
+title: "Inscribirse a un examen"
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -8,7 +8,8 @@ weight: 010
 toc: true
 ---
 
-1. Al hacer click en + (3) se muestra una pantalla con los finales a los que el alumno se puede inscribir.
+1. Inicia sesión en la app usando tus credenciales.
+1. Haz clic en en **+** se muestra una pantalla con los finales a los que el alumno se puede inscribir.
 1. Si el final aparece transparente (4) al hacer click en el mismo el alumno obtendrá el mensaje que no puede inscribirse a la materia.
 1. Si el final aparece nítido (5) al hacer click en el mismo se muestra la siguiente pantalla donde el alumno debe seleccionar lugar y campus para rendir.
 1. Al hacer click en el lugar o campus (6) o (7) se abre el calendario.
