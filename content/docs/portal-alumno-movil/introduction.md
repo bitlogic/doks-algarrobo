@@ -14,7 +14,7 @@ toc: true
 
 #### Consultar historial de materias de la carrera
 
-Con esta funcionalidad podrás consultar el historial de materias de la carrera. [Consultar →]({{< relref "/consultar-historial-materias" >}} "Consultar historial")
+Con esta funcionalidad podrás consultar e de materias de la carrera. [Consultar →]({{< relref "/consultar-historial-materias" >}} "Consultar historial")
 
 #### Consultar calendario académico/agenda
 
@@ -53,11 +53,3 @@ Con esta funcionalidad podrás conocer más sobre las funcionalidades que tiene 
 #### Ver tu perfil 
 
 Con esta funcionalidad podrás ver tu perfil. [Ver →]({{< relref "/editar-perfil-movil" >}} "Ver tu perfil")
-
-#### Iniciar sesión
-
-Desde aquí podrás iniciar sesión. [Iniciar →]({{< relref "/iniciar-sesion-movil" >}} "Iniciar sesión")
-
-#### Cerrar sesión
-
-Desde aquí podrás cerrar sesión. [Cerrar →]({{< relref "/cerrar-sesion-movil" >}} "Cerrar sesión")
