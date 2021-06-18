@@ -1,5 +1,5 @@
 ---
-title: "Matrícula y aranceles (Asesores)"
+title: "Matrícula y aranceles (Estudiante)"
 lead: "Esta sección ofrece la posibilidad de pagar tickets pendientes de matrículas y aranceles"
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00

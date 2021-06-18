@@ -18,13 +18,13 @@ Con esta funcionalidad podrás consultar e de materias de la carrera. [Consultar
 
 #### Consultar calendario académico/agenda
 
-Con esta funcionalidad podrás consultar el calendario académico. [Consultar →]({{< relref "/consultar-agenda" >}} "Consultar calendario")
+Usando esta funcionalidad puedes acceder de manera sencilla a tu agenda de próximos exámenes y eventos en general. [Consultar →]({{< relref "/consultar-agenda" >}} "Consultar calendario")
 
 ## Exámenes
 
 #### Consultar últimas notas obtenidas
 
-Con esta funcionalidad podrás consultar las últimas notas obtenidas de los exámenes. [Consultar →]({{< relref "/consultar-notas" >}} "Consultar notas")
+Desde la aplicación podrás consultar las últimas notas obtenidas en tus últimos exámenes. [Consultar →]({{< relref "/consultar-notas" >}} "Consultar notas")
 
 #### Inscribirse a un examen
 
@@ -32,17 +32,17 @@ Con esta funcionalidad podrás inscribirte a un examen. [Inscribite →]({{< rel
 
 #### Anular la inscripción a un examen
 
-Con esta funcionalidad podrás anular la inscripción de un examen. [Anular →]({{< relref "/anular-inscripcion" >}} "Anular inscripción")
+Si por algún motivo te das cuenta que no puedes rendir un examen en el que te inscribiste puedes anular dicha inscripción. [Anular →]({{< relref "/anular-inscripcion" >}} "Anular inscripción")
 
 #### Consultar el historial de inscripciones a exámenes
 
-Con esta funcionalidad podrás consultar el historial de inscripciones a exámenes. [Consultar →]({{< relref "/consultar-historial-inscripciones" >}} "Consultar historial de inscripciones")
+Con esta funcionalidad podrás consultar todos los exámenes a los que te has inscripto. [Consultar →]({{< relref "/consultar-historial-inscripciones" >}} "Consultar historial de inscripciones")
 
 ## Pagos
 
 #### Realizar pagos
 
-Con esta funcionalidad podrás realizar el pago de aranceles, matrículas y otros conceptos. [Pagar →]({{< relref "/realizar-pago" >}} "Pagar aranceles")
+Desde esta app podrás acceder al portal de pagos electrónicos de aranceles, matrículas y otros conceptos. [Pagar →]({{< relref "/realizar-pago" >}} "Pagar aranceles")
 
 ## Más opciones
 
