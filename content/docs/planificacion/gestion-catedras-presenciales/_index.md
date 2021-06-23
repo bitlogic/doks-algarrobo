@@ -57,3 +57,7 @@ Con esta funcionalidad podrás buscar y asignar docentes. [Buscar →]({{< relre
 #### Ver estudiantes inscriptos en cada cátedra (mesa de ayuda)
 
 Con esta funcionalidad podrás ver estudiantes inscriptos en cada cátedra. [Ver →]({{< relref "/ver-estudiantes-inscriptos" >}} "Ver estudiantes")
+
+#### Mover estudiantes de una cátedra a otra masivamente
+
+Con esta funcionalidad podrás ver mover estudiantes de manera masiva de una cátedra a otra. [Ver →]({{< relref "/mover-estudiantes" >}} "Mover estudiantes de una cátedra a otra masivamente")
