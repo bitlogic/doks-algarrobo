@@ -1,5 +1,6 @@
 ---
 title: "Mover estudiantes de una cátedra a otra masivamente"
+description: "Esta funcionalidad te permite un movimiento masivo de estudiantes de una cátedra a otra."
 lead: "Si un usuario del área de planificación o persona con un perfil que se lo permite desea, por algún motivo, mover a los estudiantes que están registrados en una cátedra a otra de manera masiva puede usar esta funcionalidad para realizar esta acción."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
@@ -54,4 +55,4 @@ Por el contrario, si desde la grilla de búsqueda del planificador ingresas a la
 [Abrir cátedras →]({{< ref "abrir-catedras" >}} "Abrir cátedras")
 <br>
 
-Mover estudiantes de una cátedra a otra
+[Mover estudiantes de una cátedra a otra →]({{< ref "mover-estudiantes-individual" >}} "Mover estudiantes de una cátedra a otra")

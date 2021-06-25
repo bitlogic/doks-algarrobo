@@ -1,5 +1,6 @@
 ---
 title: "Abrir cátedras"
+description: "Usa esta funcionalidad para habilitar las cátedras para que los estudiantes se puedan inscribir."
 lead: "Si has creado una cátedra y deseas abrirla puedes hacerlo siguiendo estas instrucciones. Esta forma de apertura es individual registro por registro pero si quieres puedes utilizar una funcionalidad de apertura masiva de cátedras desde la pantalla de 'Gestión de Períodos'."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00

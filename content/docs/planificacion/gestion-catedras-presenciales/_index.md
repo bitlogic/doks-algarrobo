@@ -38,14 +38,6 @@ Con esta funcionalidad podrás abrir cátedras. [Abrir →]({{< relref "/abrir-c
 
 Con esta funcionalidad podrás editar cátedras. [Editar →]({{< relref "/editar-catedras" >}} "Editar cátedras")
 
-#### Importar cátedras
-
-Con esta funcionalidad podrás importar cátedras. [Importar →]({{< relref "/importar-catedras" >}} "Importar cátedras")
-
-#### Gestionar períodos
-
-Con esta funcionalidad podrás gestionar períodos. [Gestionar →]({{< relref "/gestionar-periodos" >}} "Gestionar períodos")
-
 #### Descargar archivo en CSV (co-docente)
 
 Con esta funcionalidad podrás descargar el archivo en CSV. [Descargar →]({{< relref "/descargar-archivo-csv" >}} "Descargar archivo")
@@ -60,4 +52,8 @@ Con esta funcionalidad podrás ver estudiantes inscriptos en cada cátedra. [Ver
 
 #### Mover estudiantes de una cátedra a otra masivamente
 
-Con esta funcionalidad podrás ver mover estudiantes de manera masiva de una cátedra a otra. [Ver →]({{< relref "/mover-estudiantes" >}} "Mover estudiantes de una cátedra a otra masivamente")
+Si por algún motivo lo necesitas, con esta funcionalidad podrás ver mover estudiantes de manera masiva de una cátedra a otra. [Leer →]({{< relref "/mover-estudiantes" >}} "Mover estudiantes de una cátedra a otra masivamente")
+
+#### Mover estudiantes de una cátedra a otra
+
+Si un estudiante se contacta porque desea cambiarse de cátedra, puedes usar esta funcionalidad para realizar el cambio. [Mover →]({{< relref "/mover-estudiantes-individual" >}} "Mover estudiantes de una cátedra a otra")

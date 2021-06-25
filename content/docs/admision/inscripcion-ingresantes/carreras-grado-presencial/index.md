@@ -1,5 +1,6 @@
 ---
 title: "Inscribir ingresantes en carreras de grado con modalidad presencial"
+description: "Suma a nuevos estudiantes a carreras de modalidad presencial."
 lead: "Si eres asesor comercial, puedes usar esta funcionalidad para inscribir a nuevos estudiantes que se encuentren interesados en cursar carreras en la universidad."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00

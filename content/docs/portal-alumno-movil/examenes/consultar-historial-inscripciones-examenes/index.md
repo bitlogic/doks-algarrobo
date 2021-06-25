@@ -1,6 +1,7 @@
 ---
 title: "Consultar historial de inscripciones a exámenes"
-description: "Con esta funcionalidad puedes realizar el control de todas las instancias de evaluación a las que te has inscripto y las que has anulado."
+description: "Revisa los exámenes a los que te has inscripto."
+lead: "Con esta funcionalidad puedes realizar el control de todas las instancias de evaluación a las que te has inscripto y las que has anulado."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false

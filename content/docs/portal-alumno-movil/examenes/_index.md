@@ -14,7 +14,7 @@ Con esta funcionalidad podrás consultar las últimas notas obtenidas de los ex�
 
 #### Inscribirse a un examen
 
-Con esta funcionalidad podrás inscribirte a un examen. [Inscribite →]({{< relref "/inscripcion-examen" >}} "Inscribite a un examen")
+Con esta funcionalidad podrás inscribirte a un examen. [Inscríbete →]({{< relref "/inscribirse-examen" >}} "Inscríbete a un examen")
 
 #### Anular la inscripción a un examen
 

@@ -4,6 +4,8 @@ lead: "Aquí puedes ver todas las opciones disponibles que corresponden a las me
 menu:
   docs:
     parent: "Planificación"
-weight: 010
+weight: 012
 toc: true
 ---
+
+Este manual está en construcción.

@@ -1,6 +1,7 @@
 ---
 title: "Inscribirse a un examen"
-description: "Desde la app puedes inscribirte para rendir tus próximas instancias de evaluación."
+description: "Inscríbete para rendir un examen."
+lead: "Desde la app puedes inscribirte para rendir tus próximas instancias de evaluación."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -36,5 +37,5 @@ toc: true
 [Consultar historial de inscripciones a exámenes →]({{< ref "navegar-app.md" >}} "Consultar historial de inscripciones a exámenes")
 <br>
 
-[Inscribirse a un examen →]({{< ref "inscribirse-examen.md" >}} "Inscribirse a un examen")
+[Anular inscripciones a exámenes →]({{< ref "anular-inscripcion.md" >}} "Anular inscripción a exámenes")
 <br>

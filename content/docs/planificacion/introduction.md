@@ -39,14 +39,6 @@ Con esta funcionalidad podrás abrir cátedras. [Abrir →]({{< relref "/abrir-c
 
 Con esta funcionalidad podrás editar cátedras. [Editar →]({{< relref "/editar-catedras" >}} "Editar cátedras")
 
-#### Importar cátedras
-
-Con esta funcionalidad podrás importar cátedras. [Importar →]({{< relref "/importar-catedras" >}} "Importar cátedras")
-
-#### Gestionar períodos
-
-Con esta funcionalidad podrás gestionar períodos. [Gestionar →]({{< relref "/gestionar-periodos" >}} "Gestionar períodos")
-
 #### Descargar archivo en CSV (co-docente)
 
 Con esta funcionalidad podrás descargar el archivo en CSV. [Descargar →]({{< relref "/descargar-archivo-csv" >}} "Descargar archivo")
@@ -58,3 +50,17 @@ Con esta funcionalidad podrás buscar y asignar docentes. [Buscar →]({{< relre
 #### Ver estudiantes inscriptos en cada cátedra (mesa de ayuda)
 
 Con esta funcionalidad podrás ver estudiantes inscriptos en cada cátedra. [Ver →]({{< relref "/ver-estudiantes-inscriptos" >}} "Ver estudiantes")
+
+#### Mover estudiantes de una cátedra a otra de manera masiva (área de planificación)
+
+Con esta funcionalidad podrás ver cambiar de cátedra a todos las personas que se encuentren inscripta en otra. [Ver →]({{< relref "/mover-estudiantes" >}} "Mover estudiantes")
+
+## Importación de cátedras
+#### Importar cátedras
+
+Con esta funcionalidad podrás importar cátedras. [Importar →]({{< relref "/importar-catedras" >}} "Importar cátedras")
+
+## Habilitación de inscripciones
+#### Gestionar apertura masiva de cátedras por períodos
+
+Con esta funcionalidad podrás habilitar de manera masiva las cátedras en las que los alumnos se podrán inscribir para un período particular. [Gestionar →]({{< relref "/gestionar-periodos" >}} "Gestionar períodos")
