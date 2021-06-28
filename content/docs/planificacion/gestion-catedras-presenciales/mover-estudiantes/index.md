@@ -1,5 +1,5 @@
 ---
-title: "Mover estudiantes de una cátedra a otra masivamente"
+title: "Mover estudiantes masivamente de una cátedra a otra masivamente"
 description: "Esta funcionalidad te permite un movimiento masivo de estudiantes de una cátedra a otra."
 lead: "Si un usuario del área de planificación o persona con un perfil que se lo permite desea, por algún motivo, mover a los estudiantes que están registrados en una cátedra a otra de manera masiva puede usar esta funcionalidad para realizar esta acción."
 date: 2020-11-16T13:59:39+01:00

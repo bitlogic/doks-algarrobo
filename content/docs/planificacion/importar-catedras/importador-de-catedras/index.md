@@ -69,12 +69,19 @@ El importador analiza el contenido de la planilla cargada. Por este motivo es im
 | Currículo | Plan de estudio de la carrera | 7, 20, 6, 18
 | Semanas Experimenta | Semanas del subperíodo en las que se producen los encuentros | 2,4,6,8,9
 | Apertura | Orden de apertura de la cátedra/seminario a crear | 1, 2, 3, 4
-| Num eventos | Cantidad de eventos que conforman una cátedra |
+| Num eventos | Para completar este campo se deben tener en cuenta las consideraciones* que se incluyen más abajo |
 | Horario inicio | Hora de inicio de la clase/encuentro |
 | Hora fin | Hora de finalización de la clase/encuentro |
 ---
 
 _Información exclusiva de la Universidad Siglo 21_
+
+*Consideraciones: recuerda que la duración de un módulo se define por la cantidad de eventos (horas cátedras) que lo componen. Cada evento tiene una duración de 40 minutos. Por ejemplo, un módulo compuesto por 2 eventos tendrá una duración de 80 minutos. Los módulos deben ser de 120 minutos como máximo. Por tal motivo, si fuese necesario que una cátedra tenga 4 eventos, se deberán crear 2 módulos con dos eventos cada uno. 
+En la grilla se puede definir esta información de manera numérica usando los siguientes valores:
+- 1, 2 y 3 eventos (<=3 eventos) corresponden a 1 Módulo (sin recreo).
+- 4 y 5 eventos (>3 eventos <6) se deben dividir en 2 Módulos (con posibilidad de un recreo intermedio dependiendo de los horarios).
+- 6 o más eventos (>=6 eventos) se deben dividir en 3 Módulos (con posibilidad de recreo intermedio dependiendo de los horarios en la base).
+<br>
 
 ## Véase también
 
