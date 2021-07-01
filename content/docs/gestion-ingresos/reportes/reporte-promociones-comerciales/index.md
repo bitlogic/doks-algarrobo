@@ -31,18 +31,11 @@ toc: true
 También puedes definir la información que deseas ver marcando las casillas de verificación de la sección "Todos los filtros".
 <br>
 
-Una vez que realices la configuración necesaria para incluir los datos que quieres ver en el reporte, presiona la cruz para cerrar la ventana.
-<br>
-
 ` >}}
 <br>
 
-{{< tip text=`Los filtros ubicados en la parte superior izquierda del reporte: “Sede”, ”Código de sede” y “Provincia” te permiten realizar cambios en su orden y opciones de filtrado directamente desde esta pantalla. Una vez que los configures, puedes arrastrarlos al recuadro ubicado debajo para que se incluyan en la tabla de resultados.
-<br>
-
-` >}}
-
-8. Finalmente, para descargar el informe personalizado que ves en la pantalla en formato Excel haz clic en el icono correspondiente. 
+8. Una vez que realices la configuración necesaria para incluir los datos que quieres ver en el reporte, presiona la cruz para cerrar la ventana.
+9. Finalmente, para descargar el informe personalizado que ves en la pantalla en formato Excel haz clic en el icono correspondiente. 
 
 ## Véase también
 
