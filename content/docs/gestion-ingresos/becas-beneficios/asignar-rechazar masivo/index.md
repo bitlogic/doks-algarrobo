@@ -22,13 +22,16 @@ para acceder a la pantalla “Gestión de becas/beneficios”.
 <br>
 
 ` >}}
+<br>
 
-6. Por último, presiona el botón **BUSCAR**. Los resultados se podrán ver en la grilla de búsqueda. 
+6. Por último, presiona el botón **BUSCAR**. Los resultados se podrán ver en la grilla de búsqueda.
+<br> 
 
-{{< tip text=`Usa el botón **Limpiar filtros** para realizar una nueva búsqueda y en la pantalla de resultados en la parte inferior izquierda puedes definir la cantidad de registros que verás por página en la pantalla.
+{{< tip text=`Usa el botón <b>Limpiar filtros</b> para realizar una nueva búsqueda y en la pantalla de resultados en la parte inferior izquierda puedes definir la cantidad de registros que verás por página en la pantalla.
 <br>
 
 ` >}}
+<br>
 
 7. En la grilla de resultados verás tarjetas con los siguientes datos:
 <br>
@@ -48,17 +51,32 @@ para acceder a la pantalla “Gestión de becas/beneficios”.
 <br>
 
 {{< note text=`Haz clic en el icono de flecha de los registros en cualquiera de las tres solapas para desplegar más información sobre su legajo como carrera, promedio, etc.
+<br>
 
-Una vez que hayas verificado los datos de la ventana, selecciona aquellos registros de estudiantes de las solapas descriptas anteriormente presionando las casillas de verificación.
+` >}}
+<br>
 
-CONSEJO: 
-Puedes seleccionar la casilla en la parte superior de la grilla para incluir todos los ítems de la página en cada una de las solapas. 
+9. Una vez que hayas verificado los datos de la ventana, selecciona aquellos registros de estudiantes de las solapas descriptas anteriormente presionando las casillas de verificación.
+<br>
 
-Luego, haz clic en **ASIGNAR** o **RECHAZAR** según corresponda. Una ventana se abrirá para que ingreses un comentario. Este dato no es obligatorio.
-Para finalizar, presiona **ACEPTAR** en el mensaje. El sistema mostrará el registro con la resolución que acabas de tomar en la lista de ítems de la solapa **TODOS**.
+{{< tip text=`Puedes seleccionar la casilla en la parte superior de la grilla para incluir todos los ítems de la página en cada una de las solapas.
+<br>
 
-Véase también
+` >}}
+<br> 
 
-Crear becas/beneficios
-Editar becas/beneficios
-Asignar o rechazar el otorgamiento de becas y beneficios a un estudiante
+10. Luego, haz clic en **ASIGNAR** o **RECHAZAR** según corresponda. Una ventana se abrirá para que ingreses un comentario. Este dato no es obligatorio.
+11. Para finalizar, presiona **ACEPTAR** en el mensaje. El sistema mostrará el registro con la resolución que acabas de tomar en la lista de ítems de la solapa **TODOS**.
+
+## Véase también
+
+[Crear becas y beneficios →]({{< ref "crear-becas" >}} "Crear becas y beneficios")
+<br>
+
+[Buscar becas y beneficios →]({{< ref "buscar-becas" >}} "Buscar becas y beneficios")
+<br>
+
+[Editar becas y beneficios →]({{< ref "editar-becas" >}} "Editar becas y beneficios")
+<br>
+
+[Asignar o rechazar el otorgamiento de becas y beneficios a estudiantes →]({{< ref "asignar-rechazar-individual" >}} "Asignar o rechazar el otorgamiento de becas y beneficios a estudiantes")

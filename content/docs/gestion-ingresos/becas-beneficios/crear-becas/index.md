@@ -30,7 +30,7 @@ toc: true
 - Permiso para sanciones: marca “Sí” o “No” según corresponda. Si un estudiante tiene sanciones y en la configuración el casillero “Sí” está marcado, significa que aún así puede acceder a la beca o al beneficio.
 <br>
 
-1. Una vez que finalices con la configuración de una beca o un beneficio, presiona **Guardar**. El sistema volverá automáticamente a la pantalla de “Gestión de becas/beneficios” y verás en la grilla de búsqueda el nuevo registro que acabas de crear. 
+5. Una vez que finalices con la configuración de una beca o un beneficio, presiona **Guardar**. El sistema volverá automáticamente a la pantalla de “Gestión de becas/beneficios” y verás en la grilla de búsqueda el nuevo registro que acabas de crear. 
 
 ## Véase también
 

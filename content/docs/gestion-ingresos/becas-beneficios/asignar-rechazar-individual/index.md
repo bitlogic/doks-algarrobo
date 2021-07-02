@@ -6,7 +6,7 @@ date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
 images: []
-weight: 061
+weight: 075
 toc: true
 ---
 
@@ -21,7 +21,7 @@ toc: true
 {{< note text=`En esta pantalla puedes ver una etiqueta que te informa si la solicitud se encuentra en estado “Preaprobado” o “Prerrechazado”. El sistema realiza esta validación comparando los datos del legajo del estudiante y los requerimientos definidos en la configuración de la beca o del beneficio. 
 <br>
 
-Si un trámite de asignación se encuentra “Prerrechazado”, en la sección de “Detalle” verás marcado con un icono de alerta () aquellos requerimientos que el sistema detectó que no se se cumplen. Al posar el mouse sobre el icono verás una leyenda que dice: “No se cumple este requisito”.
+Si un trámite de asignación se encuentra “Prerrechazado”, en la sección de “Detalle” verás marcado con un icono de alerta aquellos requerimientos que el sistema detectó que no se se cumplen. Al posar el mouse sobre el icono verás una leyenda que dice: “No se cumple este requisito”.
 <br>
 
 La persona a cargo de tomar la decisión sobre la asignación o el rechazo de estas becas y estos beneficios puede decidir asignar una beca a pesar de saber que se encuentra en estado “Prerrechazado”; o bien, rechazar una solicitud que se encuentre en estado “Preaprobado”. En ambos casos, se deberá ingresar un comentario u observación con el motivo de esta decisión.
