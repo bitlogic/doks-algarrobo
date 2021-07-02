@@ -53,7 +53,11 @@ Con esta funcionalidad podrás ver estudiantes inscriptos en cada cátedra. [Ver
 
 #### Mover estudiantes de una cátedra a otra de manera masiva (área de planificación)
 
-Con esta funcionalidad podrás ver cambiar de cátedra a todos las personas que se encuentren inscripta en otra. [Ver →]({{< relref "/mover-estudiantes" >}} "Mover estudiantes")
+Con esta funcionalidad podrás ver cambiar de cátedra a todos las personas que se encuentren inscripta en otra. [Cambiar de cátedra →]({{< relref "/mover-estudiantes" >}} "Mover estudiantes")
+
+#### Mover estudiantes de una cátedra a otra
+
+Si un estudiante se contacta porque desea cambiarse de cátedra, puedes usar esta funcionalidad para realizar el cambio. [Cambiar de cátedra →]({{< relref "/mover-estudiantes-individual" >}} "Mover estudiantes de una cátedra a otra")
 
 ## Importación de cátedras
 #### Importar cátedras

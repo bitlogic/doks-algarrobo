@@ -1,6 +1,6 @@
 ---
 title: "Consultar tickets"
-description: "Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets."
+description: "Con esta herramienta puedes consultar las promociones comerciales que se aplicarán a los tickets."
 lead: "Si necesitas obtener un reporte de aquellos tickets cuyo pago se encuentra pendiente, puedes usar esta funcionalidad. Esta búsqueda te permite ver la relación entre los tickets y las promociones (financieras y comerciales) que se pueden aplicar al mismo."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00

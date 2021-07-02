@@ -30,11 +30,16 @@ Con esta funcionalidad podrás consultar los medios de pago disponibles. [Consul
 
 Con esta funcionalidad podrás editar los medios de pago disponibles. [Editar →
 ]({{< relref "/editar-mediosdepago" >}} "Editar")
+
 ## Reportes
 #### Consultar tickets
 
-Con esta herramienta puedes configurar promociones comerciales que se aplicarán a los tickets. [Buscar →
+Con esta herramienta puedes consultar las promociones comerciales que se aplicarán a los tickets. [Buscar →
 ]({{< relref "/consultar-tickets" >}} "Buscar tickets")
+
+#### Obtener reporte de promociones comerciales
+
+Con esta herramienta puedes obtener un reporte personalizado de las promociones comerciales que se aplicarán a los tickets. [Buscar promociones →]({{< relref "/reporte-promociones-comerciales" >}} "Obtener reporte de promociones")
 
 ## Promociones comerciales
 #### Crear promociones comerciales
