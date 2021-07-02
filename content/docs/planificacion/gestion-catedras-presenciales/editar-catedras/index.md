@@ -1,5 +1,6 @@
 ---
 title: "Editar cátedras"
+description: "Modifica la información de las cátedras usando esta herramienta."
 lead: "Con esta funcionalidad puedes realizar cambios en las cátedras de las diferentes materias. Para poder realizar diferentes modificaciones debes contar con el rol de Codocente."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00

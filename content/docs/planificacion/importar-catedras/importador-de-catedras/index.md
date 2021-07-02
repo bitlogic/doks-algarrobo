@@ -1,5 +1,6 @@
 ---
 title: "Importar cátedras"
+description: "Carga datos de cátedras de manera masiva."
 lead: "Esta funcionalidad te permite cargar en el planificador múltiples cátedras y/o seminarios con todos sus detalles (modalidad, período, materia, cupo, docente, etc.) por medio de una plantilla con extensión .xls o .xlsx."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00

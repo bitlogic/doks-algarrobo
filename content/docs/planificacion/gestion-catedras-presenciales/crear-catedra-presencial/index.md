@@ -1,5 +1,6 @@
 ---
 title: "Crear una cátedra presencial"
+description: "Usa esta funcionalidad para generar nuevas cátedras presenciales."
 lead: "Con esta herramienta, los codocentes de planificación podrán comenzar a generar las cátedras presenciales de manera fácil y ágil."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00

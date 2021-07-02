@@ -62,9 +62,9 @@ Si un estudiante se contacta porque desea cambiarse de cátedra, puedes usar est
 ## Importación de cátedras
 #### Importar cátedras
 
-Con esta funcionalidad podrás importar cátedras. [Importar →]({{< relref "/importar-catedras" >}} "Importar cátedras")
+Con esta funcionalidad podrás importar cátedras presenciales y a distancia. [Importar →]({{< relref "/importar-catedras" >}} "Importar cátedras")
 
 ## Habilitación de inscripciones
 #### Gestionar apertura masiva de cátedras por períodos
 
-Con esta funcionalidad podrás habilitar de manera masiva las cátedras en las que los alumnos se podrán inscribir para un período particular. [Gestionar →]({{< relref "/gestionar-periodos" >}} "Gestionar períodos")
+Con esta funcionalidad podrás habilitar de manera masiva la inscripción a las cátedras para que los estudiantes se puedan inscribir para un período particular. [Gestionar →]({{< relref "/gestionar-periodos" >}} "Gestionar períodos")

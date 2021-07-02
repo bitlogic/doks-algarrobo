@@ -1,6 +1,6 @@
 ---
 title: "Gestión de cátedras presenciales"
-lead: "Aquí puedes ver todas las opciones disponibles que corresponden a la gestión de cátedras y docentes."
+lead: "Aquí puedes ver todas las opciones disponibles que corresponden a la gestión de cátedras, de docentes y de estudiantes."
 menu:
   docs:
     parent: "Planificación"

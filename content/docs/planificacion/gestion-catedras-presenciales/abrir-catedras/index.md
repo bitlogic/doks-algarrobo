@@ -21,5 +21,6 @@ toc: true
 <br/>
 
 [Buscar cátedras →]({{< ref "buscar-catedras.md" >}} "Buscar cátedras")
+<br>
 
 [Gestionar períodos →]({{< ref "gestionar-periodos.md" >}} "Gestionar períodos")

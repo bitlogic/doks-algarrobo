@@ -1,5 +1,6 @@
 ---
 title: "Crear un seminario Experimenta"
+description: "Usa esta funcionalidad para cargar nuevos seminarios Experimenta."
 lead: "Con esta herramienta, los codocentes de planificación, codocentes SGEA, y mesa de ayuda podrán comenzar a generar las cátedras/seminarios de manera fácil y ágil."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00

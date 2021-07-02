@@ -1,5 +1,6 @@
 ---
 title: "Descargar archivo en formato CSV"
+description: "Obtén un reporte con el resumen de las cátedras."
 lead: "Al ingresar con el rol de codocente SGEA o el de Mesa de ayuda puedes buscar cátedras y descargar el listado de la búsqueda con formato .csv."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
@@ -17,6 +18,7 @@ toc: true
 {{< note text=`Si necesitas agregar más registros puedes modificar el valor de resultados por página y cuando obtengas los nuevos resultados descargar nuevamente el archivo.
 
 ` >}}
+<br>
 
 ## Véase también
 

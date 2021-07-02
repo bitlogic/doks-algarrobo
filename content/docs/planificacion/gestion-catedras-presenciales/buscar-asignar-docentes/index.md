@@ -1,5 +1,6 @@
 ---
 title: "Buscar y asignar docentes"
+description: "Usa esta funcionalidad para buscar docentes y signarlos a las materias."
 lead: "Con el rol de Codocente de SGA puedes editar los docentes asignados a una cátedra."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
