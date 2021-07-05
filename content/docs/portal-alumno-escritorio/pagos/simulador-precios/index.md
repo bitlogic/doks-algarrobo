@@ -38,7 +38,7 @@ toc: true
 10. Desplázate por las opciones para seleccionar el medio de pago.  Una ventana auxiliar se abrirá para que veas las diferentes opciones de planes de pago o cuotas disponibles para cada uno dependiendo del banco y la tarjeta que elegiste. 
 11. Haz clic en **Confirmar plan** para ver la simulación con las opciones que acabas de definir. 
 12. Finalmente, presiona **Calcular pago**. El sistema abrirá automáticamente una pantalla con un resumen del cálculo de lo que deberías abonar considerando las opciones que seleccionaste. 
-13. Si lo deseas, puedes hacer clic en el icono () para descargar un archivo formato PDF con los datos de la simulación.
+13. Si lo deseas, puedes hacer clic en el icono para descargar un archivo formato PDF con los datos de la simulación.
 
 {{< note text=`Recuerda que los precios son meramente estimativos y pueden variar. Los descuentos, becas y beneficios aplicados impactan en cada caso de manera puntual y podrían verse modificados o alterados. La estimación de pago que se realiza desde la herramienta del simulador tiene una vigencia de 24 horas.
 
