@@ -16,13 +16,28 @@ toc: true
 <br>
 
 1. Inicia sesión en el portal de estudiantes web usando tus credenciales.
-1. En el panel de navegación izquierdo, selecciona el icono de la opción “Simulador”.
-1. En la pantalla, comienza seleccionando un período y un subperíodo. La herramienta muestra un valor por defecto que puedes cambiar de acuerdo con tus necesidades.
-1. Luego, en la sección “Paquete de pago” selecciona la opción que corresponda para el pago que quieres simular. 
-1. Marca el casillero de verificación si ya te inscribiste. Esta opción no es obligatoria y sirve para que el simulador no incluya ciertos datos al paquete. 
-1. A la derecha de la pantalla comenzarás a ver el “Detalle de la simulación”. 
+1. En el panel de navegación izquierdo, selecciona el icono {{<inline-icon image="outline_receipt_long_black_24dp.png" alt="simulator icon">}} de la opción “Simulador”. En la pantalla de la funcionalidad podrás ver las siguientes condiciones de la simulación.
+<br>
 
-{{< tip text=`Si la simulación contiene promociones, descuentos y/o becas y beneficios vigentes y aplicables para tu legajo, puedes ver estos datos desplegando la sección desde la flecha hacia abajo.
+{{< note text=`Recuerda que los precios son meramente estimativos y pueden variar. Los descuentos, becas y beneficios aplicados impactan en cada caso de manera puntual y podrían verse modificados o alterados. La estimación de pago que se realiza desde esta herramienta de simulación tiene una vigencia de 24 horas.
+
+` >}}
+<br>
+
+3. Una vez que estés en la primera pantalla, presiona **Comenzar**.
+<br>
+
+{{< tip text=`En la tarjeta con los datos de tu legajo puedes usar las flechas hacia la derecha o izquierda para seleccionar otras carreras en las que te inscribiste y estimar el cálculo para cada una de ellas.
+
+` >}}
+<br>
+
+4. Comienza seleccionando un período y un subperíodo. La herramienta muestra un valor por defecto que puedes cambiar de acuerdo con tus necesidades.
+5. Luego, en la sección “Paquete de pago” selecciona la opción que corresponda para el pago que quieres simular. 
+6. Marca el casillero de verificación si ya te inscribiste. Esta opción no es obligatoria y sirve para que el simulador no incluya ciertos costos al paquete. 
+7. A la derecha de la pantalla comenzarás a ver el “Detalle de la simulación”. 
+
+{{< tip text=`Si la simulación contiene promociones, descuentos y/o becas y beneficios vigentes y aplicables para tu legajo, puedes ver estos datos en la sección de detalles.
 
 ` >}}
 <br>
@@ -32,18 +47,13 @@ toc: true
 ` >}}
 <br>
 
-7. Presiona el botón **Siguiente**.
-8. En esta segunda pantalla del simulador, podrás optar por los “Medios de pago”.
-9. Marca el casillero “Pago online” si deseas realizar el pago desde la aplicación de pago electrónico.
-10. Desplázate por las opciones para seleccionar el medio de pago.  Una ventana auxiliar se abrirá para que veas las diferentes opciones de planes de pago o cuotas disponibles para cada uno dependiendo del banco y la tarjeta que elegiste. 
-11. Haz clic en **Confirmar plan** para ver la simulación con las opciones que acabas de definir. 
-12. Finalmente, presiona **Calcular pago**. El sistema abrirá automáticamente una pantalla con un resumen del cálculo de lo que deberías abonar considerando las opciones que seleccionaste. 
-13. Si lo deseas, puedes hacer clic en el icono para descargar un archivo formato PDF con los datos de la simulación.
-
-{{< note text=`Recuerda que los precios son meramente estimativos y pueden variar. Los descuentos, becas y beneficios aplicados impactan en cada caso de manera puntual y podrían verse modificados o alterados. La estimación de pago que se realiza desde la herramienta del simulador tiene una vigencia de 24 horas.
-
-` >}}
-<br>
+8. Presiona el botón **Siguiente**.
+9. En esta segunda pantalla del simulador, podrás optar por los “Medios de pago”.
+10. Marca el casillero “Pago online” si deseas realizar el pago desde la aplicación de pago electrónico.
+11. Desplázate por las opciones de tarjetas disponibles y selecciona una. Una ventana auxiliar se abrirá para que veas las diferentes opciones de planes de pago o cuotas disponibles para cada tarjeta dependiendo del tipo de tarjeta y la entidad bancaria que elegiste. 
+12. Selecciona una opción y haz clic en **Confirmar plan** para ver la simulación con las opciones que acabas de definir. 
+13. Finalmente, presiona **Calcular pago**. El sistema abrirá automáticamente una pantalla con un resumen del cálculo de lo que deberías abonar considerando las opciones que seleccionaste. 
+14. Si lo deseas, puedes hacer clic en el botón para descargar un archivo con formato PDF con los datos de la simulación que ves en la pantalla.
 
 ## Véase también
 
