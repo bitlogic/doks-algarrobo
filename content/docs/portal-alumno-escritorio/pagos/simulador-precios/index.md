@@ -33,9 +33,9 @@ toc: true
 <br>
 
 4. Comienza seleccionando un período y un subperíodo. La herramienta muestra un valor por defecto que puedes cambiar de acuerdo con tus necesidades.
-5. Luego, en la sección “Paquete de pago” selecciona la opción que corresponda para el pago que quieres simular. 
-6. Marca el casillero de verificación si ya te inscribiste. Esta opción no es obligatoria y sirve para que el simulador no incluya ciertos costos al paquete. 
-7. A la derecha de la pantalla comenzarás a ver el “Detalle de la simulación”. 
+5. Luego, en la sección “Paquete de pago” selecciona el paquete cuyo pago quieres simular. 
+6. Marca el casillero de verificación si ya te inscribiste. Esta opción no es obligatoria y sirve para que el simulador no incluya los costos de la matrícula. 
+7. A la derecha de la pantalla comenzarás a ver el “Detalle de simulación”. 
 
 {{< tip text=`Si la simulación contiene promociones, descuentos y/o becas y beneficios vigentes y aplicables para tu legajo, puedes ver estos datos en la sección de detalles.
 
