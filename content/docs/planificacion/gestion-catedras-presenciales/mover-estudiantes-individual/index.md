@@ -12,7 +12,7 @@ toc: true
 
 1. Ingresa a la pantalla **CAMBIO DE CÁTEDRA**. 
 1. En la parte superior, puedes ver los detalles académicos del estudiante.
-1. Selecciona el subperíodo para el que se desea realizar el cambio de la cátedra. En la ventana se desplegará la agenda académica para ese período con los detalles de “Cátedras”, “Seminarios” y “Seminarios Experimenta” cada uno con un color diferente.
+1. Por defecto, se muestra el período académico actual de estudiante. Si fuese necesario, desde el combo de la tarjeta, puedes seleccionar otro subperíodo para realizar el cambio de la cátedra. En la ventana se desplegará la agenda académica para el período seleccionado con los detalles de “Cátedras”, “Seminarios” y “Seminarios Experimenta” cada uno con un color diferente.
 <br>
 
 {{< note text=`En el calendario también se pueden observar conflictos entre dos cátedras superpuestas simbolizados mediante un icono de alerta en amarillo. 

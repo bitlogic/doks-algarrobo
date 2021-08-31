@@ -22,7 +22,7 @@ toc: true
 3. En la grilla de resultados de la búsqueda, presiona el icono de ojo {{<inline-icon image="eye.png" alt="eye icon">}}para acceder a la lista de estudiantes que se inscribieron. 
 4. A la izquierda de los nombres de los estudiantes hay un casilla de verificación que puedes marcar con aquellas personas que se moverán de cátedra. Si seleccionas la casilla ubicada en la parte superior al nivel de los títulos, se incluirán todos los estudiantes que pertenezcan a esa cátedra.
 5. Presiona el botón **Cambiar cátedra** para realizar el traspaso. Debajo del botón puedes ver la cantidad de estudiantes que estás a punto de mover.
-6. La pantalla mostrará aquellas cátedras que tienen cupo disponible. Las que están en color gris pueden encontrarse inhabilitadas porque no tienen cupo disponible o porque están cerradas.
+6. La pantalla mostrará aquellas cátedras que tienen cupo disponible. Las que están en color gris pueden encontrarse inhabilitadas porque no tienen cupo disponible, porque están cerradas o porque la cátedra no está habilitada para la carrera y plan de estudio en la que el estudiante está inscripto.
 <br>
 
 {{< tip text=`Para obtener más información acerca del procedimiento para abrir una cátedra, ve a la sección de artículos relacionados al final de este documento.
