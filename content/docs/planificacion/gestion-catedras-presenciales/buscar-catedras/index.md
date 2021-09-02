@@ -1,6 +1,6 @@
 ---
 title: "Buscar cátedras"
-description: "Consulta las cátedras que están guardadas."
+description: "Consulta las cátedras que están guardadas"
 lead: "Esta función te será útil si deseas conocer más detalles sobre los seminarios y cátedras creados en el sistema y si quieres buscar aquellas cátedras/seminarios cuya información o encuentros deseas editar. La información que veas en la pantalla dependerá del perfil que tiene asignado tu usuario."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00

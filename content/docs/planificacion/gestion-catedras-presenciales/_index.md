@@ -1,5 +1,5 @@
 ---
-title: "Gestión de cátedras presenciales"
+title: "Gestión de cátedras"
 lead: "Aquí puedes ver todas las opciones disponibles que corresponden a la gestión de cátedras, de docentes y de estudiantes."
 menu:
   docs:
@@ -41,6 +41,10 @@ Con esta funcionalidad podrás editar cátedras. [Editar →]({{< relref "/edita
 #### Descargar archivo en CSV (co-docente)
 
 Con esta funcionalidad podrás descargar el archivo en CSV. [Descargar →]({{< relref "/descargar-archivo-csv" >}} "Descargar archivo")
+
+#### Obtener reportes de cátedras
+
+Con esta funcionalidad podrás generar y descargar dos tipos de informes que te ayudarán en la gestión de las cátedras y módulos. [Generar reportes →]({{< relref "/obtener-reportes" >}} "Obtener reportes de cátedras")
 
 #### Buscar y asignar docentes (co-docente)
 
