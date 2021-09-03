@@ -10,7 +10,7 @@ weight: 150
 toc: true
 ---
 
-1. Accede a la pantalla "Gestión de cátedras presenciales" haciendo clic en el icono {{<inline-icon image="menu.png" alt="hamburger menu icon">}} del panel de navegación izquierdo.
+1. Accede a la pantalla "Gestión de cátedras" haciendo clic en el icono {{<inline-icon image="menu.png" alt="hamburger menu icon">}} del panel de navegación izquierdo.
 1. Haz clic en el icono de signo más **+** ubicado en la parte inferior derecha de la pantalla. Se desplegarán cuatro opciones. 
 1. Selecciona la opción “Cátedra presencial”. 
 1. En el formulario “Crear cátedra presencial”, completa los campos “Modalidad”, “Período”, “Subperíodo”, “Materia”, “Cátedra”, “Turno” y “Cupo”. Los campos marcados con asterisco son obligatorios. La mayoría de los campos son requeridos a excepción de “Docente”.

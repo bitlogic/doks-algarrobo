@@ -1,7 +1,7 @@
 ---
 title: "Buscar cátedras"
 description: "Consulta las cátedras que están guardadas"
-lead: "Esta función te será útil si deseas conocer más detalles sobre los seminarios y cátedras creados en el sistema y si quieres buscar aquellas cátedras/seminarios cuya información o encuentros deseas editar. La información que veas en la pantalla dependerá del perfil que tiene asignado tu usuario."
+lead: "Esta función te será útil para conocer más detalles sobre los seminarios y cátedras creados en el sistema y para buscar aquellas cátedras/seminarios cuya información o encuentros deseas editar. La información que veas en la pantalla dependerá del perfil que tiene asignado tu usuario."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -10,8 +10,8 @@ weight: 150
 toc: true
 ---
 
-1. Accede a la pantalla "Gestión de cátedras presenciales" haciendo clic en el icono {{<inline-icon image="menu.png" alt="hamburger menu icon">}} del panel de navegación izquierdo. 
-1. En la parte superior de la pantalla, se encuentra el formulario de búsqueda. Cuatro de estos campos marcados con asterisco son obligatorios: “Período”, “Subperíodo”, “Tipo de cátedra” y "Estado de cátedra". Una vez que hayas ingresado estos datos se habilita el botón **Buscar**.
+1. Accede a la pantalla "Gestión de cátedras" haciendo clic en el icono de menú {{<inline-icon image="menu.png" alt="hamburger menu icon">}} del panel de navegación izquierdo. 
+1. En la parte superior de la pantalla, se encuentra el formulario de búsqueda. Cuatro de estos campos marcados con asterisco son obligatorios: “Período”, “Subperíodo” y “Estado de cátedra”. En el campo "Tipo de cátedra" puedes optar por valores como Experimenta, Presencial, Seminario, Virtual, Todos los tipos o combinarlos. Una vez que hayas ingresado estos datos se habilita el botón **Buscar**.
 
 {{< note text=`Puedes completar algunos de los siguientes campos adicionales para realizar una búsqueda avanzada:
 <br>
@@ -42,11 +42,17 @@ toc: true
 <br>
 
 - Puedes hacer clic en los dos iconos de menú para expandir/colapsar los detalles de todas las cátedras que se incluyen en el resultado de la búsqueda.
+<br>
+
+- Además, puedes ver el "Alias" de la materia haciendo clic en el icono correspondiente. En la ventana emergente verás los otros nombres que esta materia tiene en otras carreras u otros planes de estudio.
+
 ` >}}
 <br>
 
 4. Selecciona una materia o cátedra sobre la que desees conocer más detalles haciendo clic sobre su registro. Dentro de cada materia podrás ver las cátedras que se crearon abiertas y cerradas.  Aquí podrás ver datos como: nombre y código de la materia/cátedra (los códigos de las cátedras contienen letras y los de los seminarios, números), cantidad total de cátedras de la materia, cantidad de cátedras llenas/abiertas/cerradas. Además se desplegará toda su información debajo del nombre. Algunos de los datos que encontrarás son:
 
+- Nombre y tipo de cátedra y modalidad.
+- Aquellas que sean de modelo "Coach" tendrán una etiqueta que lo indique a continuación de los datos mencionados anteriormente.
 - El término “Estándar” hace referencia a la capacidad/cupo de una cátedra para cada materia. También se puede ver el estado actual, con mensajes como: _“Esta cátedra está a punto de llenarse”_, _“Esta cátedra tiene entre un 80% y un 90% de ocupación”_ o _“Esta cátedra está llena”._
 - El término “Cupo” hace referencia al total de inscriptos/cupo total de la cátedra. 
 - El término “Apertura” se refiere al orden en el que se abren las cátedras (en orden ascendente). 

@@ -10,7 +10,7 @@ weight: 010
 toc: true
 ---
 
-## Gestión de cátedras presenciales
+## Gestión de cátedras
 #### Crear una cátedra presencial
 
 Con esta funcionalidad podrás crear una cátedra presencial. [Crear →]({{< relref "/crear-catedra-presencial" >}} "Crear cátedra")
