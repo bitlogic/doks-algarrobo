@@ -21,10 +21,16 @@ toc: true
 
 3. Haz clic en **Buscar**.
 4. Los resultados se verán en la grilla. Aquí puedes ver el detalle la cantidad de cátedras, seminarios, seminarios Experimenta y cátedras virtuales que se relacionan con esa modalidad, período y subperíodo que se encuentran disponibles para que se habiliten y los estudiantes comiencen a inscribirse.
-5. Si lo deseas, en esta instancia, puedes descargar dos informes con datos de las cátedras que estás a punto de habilitar haciendo clic en **Reportes** y luego seleccionando el icono de descarga {{<inline-icon image="download file.png" alt="download icon">}} de una o ambas opciones disponibles.
-6. Presiona el botón **Abrir** para realizar la habilitación masiva de cátedras para este período. Un mensaje de confirmación se abrirá indicando la cantidad de cátedras que abrirás. 
-7. Haz clic en **Confirmar** para finalizar con esta acción.
+5. Presiona el botón **Abrir** para realizar la habilitación masiva de cátedras para este período. Un mensaje de confirmación se abrirá indicando la cantidad de cátedras que abrirás. 
+6. Haz clic en **Confirmar** para finalizar con esta acción.
+<br>
+
+{{< note text=`Si lo deseas, puedes descargar dos informes con datos de las cátedras que estás a punto de habilitar haciendo clic en el icono de reportes del panel de navegación. Puedes ver más detalle sobre esta acción el artículo relacionado en la sección **Véase también**.
+` >}}
+<br>
 
 ## Véase también
 
 [Abrir cátedras →]({{< ref "abrir-catedras.md" >}} "Abrir cátedras")
+
+[Obtener reportes de cátedras →]({{< ref "obtener-reportes.md" >}} "Obtener reportes de cátedras")

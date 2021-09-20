@@ -44,7 +44,7 @@ toc: true
 - Puedes hacer clic en los dos iconos de menú para expandir/colapsar los detalles de todas las cátedras que se incluyen en el resultado de la búsqueda.
 <br>
 
-- Además, puedes ver el "Alias" de la materia haciendo clic en el icono correspondiente. En la ventana emergente verás los otros nombres que esta materia tiene en otras carreras u otros planes de estudio.
+- Además, puedes ver el "Alias" de la materia haciendo clic en el icono con forma de árbol. En la ventana emergente verás los otros nombres que esta materia tiene en otras carreras u otros planes de estudio.
 
 ` >}}
 <br>
