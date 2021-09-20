@@ -10,7 +10,7 @@ weight: 150
 toc: true
 ---
 
-1. Accede a la pantalla "Gestión de cátedras presenciales" haciendo clic en el icono {{<inline-icon image="menu.png" alt="hamburger menu icon">}} del panel de navegación izquierdo.
+1. Accede a la pantalla "Gestión de cátedras" haciendo clic en el icono {{<inline-icon image="menu.png" alt="hamburger menu icon">}} del panel de navegación izquierdo.
 1. En la parte superior de la pantalla, se encuentra el formulario de búsqueda. Ingresa los datos de la materia cuyas cátedras deseas consultar.
 1. En la grilla de resultados, haz clic en el icono para realizar más acciones {{<inline-icon image="more actions H.png" alt="more actions horizontal icon">}} que se encuentran a la derecha del registro de la materia. 
 1. La ventana "Alumnos inscriptos" se abrirá. Aquí, podrás ver una lista de todos los alumnos inscriptos en la cátedra
