@@ -10,7 +10,7 @@ weight: 150
 toc: true
 ---
 
-1. Accede a la pantalla "Gestión de cátedras presenciales" haciendo clic en el icono {{<inline-icon image="menu.png" alt="hamburger menu icon">}} del panel de navegación izquierdo.
+1. Accede a la pantalla "Gestión de cátedras" haciendo clic en el icono {{<inline-icon image="menu.png" alt="hamburger menu icon">}} del panel de navegación izquierdo.
 1. Ingresa los datos necesarios para realizar la búsqueda de la materia y respectivas cátedras cuya información deseas modificar.
 1. Una vez que el sistema muestre los resultados, haz clic en el registro que deseas editar. Se desplegará más información debajo del encabezado con el nombre y código de la materia/cátedra.
 1. Presiona el icono de lápiz {{<inline-icon image="edit.png" alt="edit icon">}} para comenzar a realizar los cambios. La ventana “Editar cátedra presencial“ se abrirá. A continuación, puedes ver todos los detalles que se pueden editar en una cátedra.
