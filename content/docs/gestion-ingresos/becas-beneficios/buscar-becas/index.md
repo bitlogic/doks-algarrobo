@@ -11,7 +11,7 @@ toc: true
 ---
 
 1. Ingresa a la aplicación “Gestión de ingresos”.
-1. En el panel de navegación, presiona el icono {{<inline-icon image="becas.png" alt="becas icon">}} para acceder a la pantalla “Gestión de becas/beneficios”.
+1. En el panel de navegación, presiona el icono {{<inline-icon image="school.png" alt="school icon">}} para acceder a la pantalla “Gestión de becas/beneficios”.
 1. En la parte superior de la pantalla, ingresa el nombre de la beca o el beneficio que deseas buscar si lo conoces.
 1. También puedes filtrar por tipo. Es decir, si lo que quieres consultar es una beca o un beneficio. 
 1. De lo contrario, puedes acotar la búsqueda por porcentaje de 0% a 100% deslizando los extremos de la línea. Si ambos extremos coinciden en un punto, el sistema buscará exactamente los registros con ese único valor.

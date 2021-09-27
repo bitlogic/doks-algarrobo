@@ -27,3 +27,7 @@ Con esta funcionalidad podrás realizar de manera individual la asignación o re
 #### Asignar o rechazar masivamente el otorgamiento de becas y beneficios a estudiantes
 
 Con esta funcionalidad podrás realizar de manera masiva la asignación o rechazo de becas o beneficios a los estudiantes. [Asignar o rechazar →]({{< relref "/asignar-rechazar masivo" >}})
+
+#### Renovar masivamente becas o beneficios
+
+Con esta funcionalidad podrás realizar de manera masiva la renovación de becas y/o beneficios. [Renovar masivamente →]({{< relref "/renovacion-masiva" >}})
