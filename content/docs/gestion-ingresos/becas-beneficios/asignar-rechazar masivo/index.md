@@ -11,9 +11,9 @@ toc: true
 ---
 
 1. Ingresa a la aplicación “Gestión de ingresos”.
-1. En el panel de navegación, presiona el icono {{<inline-icon image="becas.png" alt="becas icon">}}
+1. En el panel de navegación, presiona el icono {{<inline-icon image="school.png" alt="school icon">}}
 para acceder a la pantalla “Gestión de becas/beneficios”.
-1. Luego, posa el cursor sobre el ícono de más opciones {{<inline-icon image="more actions.png" alt="more actions icon">}} en la parte inferior derecha de la pantalla.
+1. Luego, posa el cursor sobre el ícono de más opciones {{<inline-icon image="add plus.png" alt="add icon">}} en la parte inferior derecha de la pantalla.
 1. Haz clic en el botón {{<inline-icon image="screen share.png" alt="screen share 1icon">}} para seleccionar la opción **CONTROL DE BECAS/BENEFICIOS**. La pantalla “Control de becas/beneficios” se abrirá.
 1. Puedes ingresar el nombre de la beca o el beneficio que deseas verificar si lo conoces o los datos de un período en particular. También puedes filtrar por tipo. Es decir, si lo que quieres consultar es una beca o un beneficio. 
 <br>
@@ -47,7 +47,7 @@ para acceder a la pantalla “Gestión de becas/beneficios”.
 - En la parte superior se incluyen todos los detalles de la configuración. Es decir, los requisitos que se cargaron al momento de crear o editar la beca o el beneficio. Para más información sobre estas acciones, accede a los links de los documentos listados en la sección **Véase también**.
 <br>
 
-- Luego verás una grilla con las solapas “Preaprobado”, “Prerrechazado” y “Todos”. En la solapa “Preaprobado” puedes ver aquellos estudiantes que el sistema ha comparado considerando los requisitos de la beca o el beneficio y su legajo académico y cumplen con lo requerido. En “Prerrechazado” puedes observar aquellos candidatos al beneficio o a la beca que el sistema detectó no cumplen con los requisitos. Por último en la tercer pestaña puedes ver, por ejemplo, para un período o una beca o un beneficio particular la cantidad de estudiantes a quiénes se otorgó o rechazó. Desde esta última solapa “Todos”, podrás renovar o volver a asignar becas o rechazarlas también de manera masiva. 
+- Luego verás una grilla con las solapas “Preaprobado”, “Prerrechazado” y “Todos”. En la solapa “Preaprobado” puedes ver aquellos estudiantes que el sistema ha comparado considerando los requisitos de la beca o el beneficio y su legajo académico y cumplen con lo requerido. En “Prerrechazado” puedes observar aquellos candidatos al beneficio o a la beca que el sistema detectó no cumplen con los requisitos. Por último en la tercer pestaña puedes ver, por ejemplo, para un período o una beca o un beneficio particular la cantidad de estudiantes a quiénes se otorgó o rechazó. Desde esta última solapa “Todos”, podrás ver el estado final o cómo se resolvió cada trámite asociado con esa beca o beneficio (asignado/rechazado). Aquí no se incluyen todos las asignaciones en estado preaprobado o prerrechazado. 
 <br>
 
 {{< note text=`Haz clic en el icono de flecha de los registros en cualquiera de las tres solapas para desplegar más información sobre su legajo como carrera, promedio, etc.
@@ -56,7 +56,7 @@ para acceder a la pantalla “Gestión de becas/beneficios”.
 ` >}}
 <br>
 
-9. Una vez que hayas verificado los datos de la ventana, selecciona aquellos registros de estudiantes de las solapas descriptas anteriormente presionando las casillas de verificación.
+9. Una vez que hayas verificado los datos de la pantalla, selecciona aquellos registros de estudiantes de las solapas descriptas anteriormente presionando sus casillas de verificación.
 <br>
 
 {{< tip text=`Puedes seleccionar la casilla en la parte superior de la grilla para incluir todos los ítems de la página en cada una de las solapas.
@@ -80,3 +80,5 @@ para acceder a la pantalla “Gestión de becas/beneficios”.
 <br>
 
 [Asignar o rechazar el otorgamiento de becas y beneficios a estudiantes →]({{< ref "asignar-rechazar-individual" >}} "Asignar o rechazar el otorgamiento de becas y beneficios a estudiantes")
+
+[Renovar becas o beneficios masivamente →]({{< ref "renovacion-masiva" >}} "Renovar becas o beneficios masivament")

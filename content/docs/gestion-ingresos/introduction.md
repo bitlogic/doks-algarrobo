@@ -55,6 +55,14 @@ Con esta funcionalidad podrás buscar las promociones comerciales que se hayan g
 
 Con esta funcionalidad puedes realizar los cambios que consideres necesarios tanto en la información general de una promoción, como en sus reglas o criterios relacionados. [Editar →]({{< relref "/editar-promos" >}})
 
+#### Duplicar promociones comerciales
+
+Con esta funcionalidad puedes copiar la configuración de una promoción y crear una con similares características ahorrando tiempo. [Duplicar →]({{< relref "/duplicar-promos" >}})
+
+#### Activar y desactivar promociones comerciales masivamente
+
+Con esta funcionalidad puedes realizar cambios masivos en los estados de las promociones comerciales. [Activar y desactivar masivamente →]({{< relref "/activar-desactivar" >}})
+
 ## Becas y beneficios
 #### Crear becas y beneficios
 
@@ -76,3 +84,7 @@ Con esta funcionalidad podrás realizar de manera individual la asignación o re
 #### Asignar o rechazar masivamente el otorgamiento de becas y beneficios a estudiantes
 
 Con esta funcionalidad podrás realizar de manera masiva la asignación o rechazo de becas o beneficios a los estudiantes. [Asignar o rechazar →]({{< relref "/asignar-rechazar masivo" >}})
+
+#### Renovar masivamente becas o beneficios
+
+Con esta funcionalidad podrás realizar de manera masiva la renovación de becas y/o beneficios. [Renovar masivamente →]({{< relref "/renovacion-masiva" >}})

@@ -11,7 +11,7 @@ toc: true
 ---
 
 1. Ingresa a la aplicación “Gestión de ingresos”.
-1. En el panel de navegación, accede a la pantalla “Gestión de becas/beneficios” presionando el icono {{<inline-icon image="becas.png" alt="becas icon">}}.
+1. En el panel de navegación, accede a la pantalla “Gestión de becas/beneficios” presionando el icono {{<inline-icon image="school.png" alt="school icon">}}.
 1. En la parte superior de la pantalla, ingresa el nombre de la beca o el beneficio que deseas editar. Otra forma de buscar esta información es por tipo de beneficio o por el porcentaje de descuento que tienen configurado. Para más información sobre la búsqueda, ingresa al enlace del artículo incluido en la sección Véase también.
 1. Por último, presiona el botón **BUSCAR**. Los resultados se podrán ver en la grilla de búsqueda. 
 1. Una vez que detectes el registro que quieres modificar, presiona el icono de lápiz {{<inline-icon image="edit.png" alt="edit icon">}}. La ventana de “Configuración de becas/beneficios” se abrirá automáticamente.

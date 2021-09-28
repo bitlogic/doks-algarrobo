@@ -17,8 +17,9 @@ toc: true
 {{<note text="Dependiendo de las opciones que seleccionas en los filtros, algunos datos se volverán obligatorios.">}}
 </b>
 
-4. Por último, presiona **Buscar**.
-5. Los resultados de la búsqueda se verán en el listado en la parte inferior de la pantalla.
+4. Selecciona las opciones de más filtros o menos filtros para sumar o quitar más detalles en tu búsqueda.
+5. Por último, presiona **Buscar**.
+6. Los resultados de la búsqueda se verán en el listado en la parte inferior de la pantalla.
 
 {{<note text="En los títulos de las columnas de la grilla puedes usar las flechas para ordenar los datos de manera ascendente o descendente. Desde esta grilla también puedes activar o desactivar una promoción. Además, al hacer clic en el icono de lápiz podrás editar los datos de la promoción seleccionada. ">}}
 </b>

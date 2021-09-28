@@ -11,8 +11,8 @@ toc: true
 ---
 
 1. Ingresa a la aplicación “Gestión de ingresos”. 
-1. En el panel de navegación, haz clic en el icono {{<inline-icon image="becas.png" alt="becas icon">}} para que puedas acceder a la pantalla “Gestión de becas/beneficios”.
-1. En la parte inferior derecha de la pantalla, posa el cursor sobre el icono de más opciones {{<inline-icon image="more actions.png" alt="more actions icon">}} y presiona el botón de signo más {{<inline-icon image="plus.png" alt="plus icon">}}. La pantalla “Configuración de becas/beneficios” se abrirá. 
+1. En el panel de navegación, haz clic en el icono {{<inline-icon image="school.png" alt="school icon">}} para que puedas acceder a la pantalla “Gestión de becas/beneficios”.
+1. En la parte inferior derecha de la pantalla, posa el cursor sobre el icono de más opciones {{<inline-icon image="add plus.png" alt="add icon">}} y presiona el botón de signo más {{<inline-icon image="plus.png" alt="plus icon">}}. La pantalla “Configuración de becas/beneficios” se abrirá. 
 1. Desde aquí puedes comenzar a definir los requisitos y a aquellos tipos de estudiantes a quiénes se podrá asignar. En esta ventana verás los siguientes campos y casillas de verificación. Recuerda que aquellos campos marcados con asterisco son obligatorios.
 <br>
 
