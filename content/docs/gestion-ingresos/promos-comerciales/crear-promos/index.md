@@ -20,8 +20,8 @@ toc: true
 </b>
 
 6. Activa la promoción deslizando el botón de "Estado" hacia la derecha. Para desactivarlo, deslízalo hacia la izquierda. Si se encuentra marcado en verde significa que la promoción está activa.
-7. En la pestaña "Tickets" puedes optar por el tipo de arancel y tickets a los que afectará esta promoción.
-8. Dirígete a la pestaña "Criterios" (ubicada a la derecha de “Tickets”). Aquí podrás configurar las reglas que se considerarán para hacer efectivo el descuento.
+7. En la solapa "Tickets" puedes optar por el tipo de arancel y tickets a los que afectará esta promoción.
+8. Dirígete a la solapa "Criterios" (ubicada a la derecha de “Tickets”). Aquí podrás configurar las reglas que se considerarán para hacer efectivo el descuento.
 
 {{<note text="Los criterios que definas aquí indican a quiénes aplica y cuál es el monto o porcentaje de la promoción. Por eso es importante aclarar que cada regla \"incluye\" la población destino y al mismo tiempo \"excluye\" al resto de las opciones que no se han mencionado en esa definición. Entonces, si no se definen criterios, la promoción aplica a \"todos\". En cambio, si se incluye al menos una combinación para un segmento de población, habrá que configurar entonces qué sucede con el resto de las opciones que quedan automáticamente excluidas. Para más detalles, ve a la siguiente nota.">}}
 </b>

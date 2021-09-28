@@ -55,6 +55,10 @@ Con esta funcionalidad podrás buscar las promociones comerciales que se hayan g
 
 Con esta funcionalidad puedes realizar los cambios que consideres necesarios tanto en la información general de una promoción, como en sus reglas o criterios relacionados. [Editar →]({{< relref "/editar-promos" >}})
 
+#### Duplicar promociones comerciales
+
+Con esta funcionalidad puedes copiar la configuración de una promoción y crear una con similares características ahorrando tiempo. [Duplicar →]({{< relref "/duplicar-promos" >}})
+
 #### Activar y desactivar promociones comerciales masivamente
 
 Con esta funcionalidad puedes realizar cambios masivos en los estados de las promociones comerciales. [Activar y desactivar masivamente →]({{< relref "/activar-desactivar" >}})
