@@ -1,5 +1,5 @@
 ---
-title: "Registro de contratos"
+title: "Registrar admisiones"
 lead: "Aquí puedes ver todas las opciones disponibles que corresponden al registro de contratos y convenios de la universidad con otras instituciones o departamentos"
 menu:
   docs:
@@ -8,17 +8,17 @@ weight: 020
 toc: true
 ---
 
-#### Crear contratos
+#### Crear admisión
 
-Con esta funcionalidad puedes registrar en el sistema los convenios o acuerdos realizados con otras instituciones, empresas o áreas internas de la universidad. [Crear →]({{< relref "/crear-contratos" >}} "Crear contratos")
+Con esta funcionalidad puedes registrar en el sistema los convenios o acuerdos realizados con otras instituciones, empresas o áreas internas de la universidad. [Crear →]({{< relref "/crear-admisiones" >}} "Crear admisión")
 
-#### Editar contratos
+#### Editar admisión
 
-Con esta funcionalidad puedes realizar cambios en los contratos que estén cargados en el sistema. [Editar →]({{< relref "/editar-contratos" >}} "Editar contratos")
+Con esta funcionalidad puedes realizar cambios en los contratos que estén cargados en el sistema. [Editar →]({{< relref "/editar-admisiones" >}} "Editar admisión")
 
-#### Buscar contratos
+#### Buscar admisiones
 
-Con esta funcionalidad puedes buscar los contratos que están registrados en el sistema. [Buscar →]({{< relref "/buscar-contratos" >}} "Buscar contratos")
+Con esta funcionalidad puedes buscar los contratos que están registrados en el sistema. [Buscar →]({{< relref "/buscar-admisiones" >}} "Buscar admisiones")
 
 #### Inscribir aspirantes individualmente
 

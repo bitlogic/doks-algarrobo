@@ -18,18 +18,18 @@ Con esta funcionalidad puedes realizar la inscripción a carreras de grado que p
 
 Con esta funcionalidad puedes realizar la inscripción a otras carreras que posean otra modalidad. [Inscripción →]({{< relref "/carreras-otras-modalidades" >}} "Realizar inscripción")
 
-## Registrar contratos
-#### Crear contratos
+## Registrar admisiones
+#### Crear admisión
 
-Con esta funcionalidad puedes registrar convenios con otras instituciones o departamentos de la institución. [Crear →]({{< relref "/crear-contratos" >}} "Crear contratos")
+Con esta funcionalidad puedes registrar admisiones con convenios con otras instituciones o departamentos de la institución. [Crear →]({{< relref "/crear-admisiones" >}} "Crear admisión")
 
-#### Buscar contratos
+#### Buscar admisiones
 
-Con esta funcionalidad puedes buscar todos los contratos registrados en el sistema. [Buscar →]({{< relref "/buscar-contratos" >}} "Buscar contratos")
+Con esta funcionalidad puedes buscar todos las admisiones registradas en el sistema. [Buscar →]({{< relref "/buscar-admisiones" >}} "Buscar admisiones")
 
-#### Editar contratos
+#### Editar admisión
 
-Con esta funcionalidad puedes realizar cambios en los detalles de los contratos que se han creado en el sistema. [Editar →]({{< relref "/editar-contratos" >}} "Editar contratos")
+Con esta funcionalidad puedes realizar cambios en los detalles de las admisiones que se han creado en el sistema. [Editar →]({{< relref "/editar-admisiones" >}} "Editar admisión")
 
 #### Inscribir aspirantes individualmente
 
