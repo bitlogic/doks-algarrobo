@@ -10,9 +10,9 @@ toc: true
 ---
 
 1. Si deseas realizar el pago de una matrícula o examen, ingresa al portal de estudiantes con tus credenciales.
-1. En el panel de navegación izquierdo, selecciona el icono de examen {{<inline-icon image="receipt.png" alt="payment icon">}}.
-1. Automáticamente el sistema abrirá la aplicación de pagos electrónicos en una nueva pestaña en tu buscador.
-1. Desde aquí podrás comenzar a realizar el pago de sus aranceles, matrículas, u otros conceptos. Para más información sobre el uso de la aplicación de pagos, lee el artículo relacionado en la siguiente sección de este documento.
+2. En el panel de navegación izquierdo, selecciona el icono de examen {{<inline-icon image="receipt.png" alt="payment icon">}}.
+3. Automáticamente el sistema abrirá la aplicación de pagos electrónicos en una nueva pestaña en tu buscador.
+4. Desde aquí podrás comenzar a realizar el pago de sus aranceles, matrículas, u otros conceptos. Para más información sobre el uso de la aplicación de pagos, lee el artículo relacionado en la siguiente sección de este documento.
 
 ## Véase también
 

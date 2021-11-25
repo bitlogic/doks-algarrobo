@@ -12,10 +12,8 @@ toc: true
 
 1. Accede a la pantalla "Reportes" del planificador haciendo clic en el icono {{<inline-icon image="report.png" alt="report icon">}} del panel de navegación izquierdo.
 1. En la parte superior de la pantalla, ingresa los datos en los campos "Modalidad", "Período"y "Subperíodo".
-1. Luego, haz clic en **Generar reportes**. 
-1. En la grilla se muestran los dos tipos de reportes que se pueden descargar: "Cátedras completo (inicio-fin)
-" y "Cátedras por módulo" y que se habrán completado con los valores que ingresaste en la parte superior de la pantalla. 
-1. Para finalizar, presiona el botón **Descargar** {{<inline-icon image="download file.png" alt="download icon">}}. Automáticamente se descargará un archivo .CSV a su dispositivo.
+1. Luego, haz clic en **Generar reportes**. En la grilla se muestran los dos tipos de reportes que se pueden descargar: "Cátedras completo (inicio-fin)" y "Cátedras por módulo". Se habrán completado con los valores que ingresaste en la parte de filtros de la pantalla. 
+1. Para finalizar, presiona el botón **Descargar**. Automáticamente se descargará un archivo .CSV a tu dispositivo.
 
 ## Véase también
 

@@ -10,8 +10,8 @@ weight: 150
 toc: true
 ---
 
-1. Abre el planificador.
-1. Completa los campos de búsqueda para que puedas encontrar la cátedra cuyos estudiantes deseas mover. 
+1. Accede a la pantalla "Gestión de cátedras" haciendo clic en el icono {{<inline-icon image="menu.png" alt="hamburger menu icon">}} del panel de navegación izquierdo.
+1. En la parte superior de la pantalla, se encuentra el formulario de búsqueda. Completa los campos para que puedas encontrar la cátedra cuyos estudiantes deseas mover. 
 <br>
 
 {{< tip text=`Para más información sobre la búsqueda de cátedras ingresa a la sección <b>Véase también</b> al final de este documento.

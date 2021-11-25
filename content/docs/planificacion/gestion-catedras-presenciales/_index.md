@@ -38,7 +38,7 @@ Con esta funcionalidad podrás abrir cátedras. [Abrir →]({{< relref "/abrir-c
 
 Con esta funcionalidad podrás editar cátedras. [Editar →]({{< relref "/editar-catedras" >}} "Editar cátedras")
 
-#### Descargar archivo en CSV (co-docente)
+#### Descargar archivo en CSV (Codocente)
 
 Con esta funcionalidad podrás descargar el archivo en CSV. [Descargar →]({{< relref "/descargar-archivo-csv" >}} "Descargar archivo")
 
@@ -46,11 +46,11 @@ Con esta funcionalidad podrás descargar el archivo en CSV. [Descargar →]({{< 
 
 Con esta funcionalidad podrás generar y descargar dos tipos de informes que te ayudarán en la gestión de las cátedras y módulos. [Generar reportes →]({{< relref "/obtener-reportes" >}} "Obtener reportes de cátedras")
 
-#### Buscar y asignar docentes (co-docente)
+#### Asignar docentes (Codocente)
 
 Con esta funcionalidad podrás buscar y asignar docentes. [Buscar →]({{< relref "/buscar-asignar-docentes" >}} "Buscar docentes")
 
-#### Ver estudiantes inscriptos en cada cátedra (mesa de ayuda)
+#### Ver estudiantes con inscripción en cada cátedra (Mesa de ayuda)
 
 Con esta funcionalidad podrás ver estudiantes inscriptos en cada cátedra. [Ver →]({{< relref "/ver-estudiantes-inscriptos" >}} "Ver estudiantes")
 

@@ -15,7 +15,7 @@ toc: true
 
 Con esta herramienta podrás consultar tu historial de pagos. [Consultar →]({{< relref "/consultar-historial-estudiante" >}} "Consultar historial")
 
-#### Consultar tu historial de pagos (asistente)
+#### Consultar el historial de pagos de un estudiante (mesa de ayuda)
 
 Con esta herramienta podrás consultar tu historial de pagos. [Consultar →]({{< relref "/consultar-historial-asistente" >}} "Consultar historial")
 
