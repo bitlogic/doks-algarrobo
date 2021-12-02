@@ -15,20 +15,28 @@ toc: true
 3. En la barra superior ingresa a la sección "Cuenta". En la pantalla puedes ver todas las transacciones disponibles en un un período seleccionado.
 <br>
 
-{{< note text=`A continuación detallamos la información sobre tu cuenta que puedes ver:
+{{< note text=`A continuación se detalla la información que puedes ver:
 <br>
 
 - Saldo actual disponible
-- Cantidad de tickets en estado de próximos vencimientos
-- Descargar el comprobante de pago
-- Volver al menú principal
-- Visualizar la totalidad de las transacciones disponibles en un período de tiempo explicitado
+</br>
+
+- Cantidad de tickets próximos a vencerse
+</br>
+
+- Todas las transacciones disponibles en un período definido
+</br>
 
 ` >}}
+</br>
 
-Descargar el comprobante de pago
-- Volver al menú principal
-- Visualizar la totalidad de las transacciones disponibles en un período de tiempo explicitado
-2. Al Hacer click en el icono de un comprobante de pago (3) muestra el comprobante y facilita la opción de imprimirlo
-1. Al presionar en “Imprimir Comprobante” (6) se obtiene la posibilidad de guardar el mismo como pdf.
-1. Al presionar en “Volver” (7) se retorna la pantalla de intenciones de pago.
+4. Si lo deseas, en esta pantalla, puedes ver el comprobante de pago haciendo clic en el ícono de comprobante de cada registro de pago. Si fuera necesario, puedes imprimirlo o guardarlo.
+5. Una vez que finalices puedes regresar a la pantalla de pagos electrónicos presionando el botón **Volver**. Para salir, presionar la "x" en la esquina superior derecha.
+
+## Véase también
+
+[Consultar tu historial de pagos →]({{< ref "consultar-ticket-estudiante" >}} "Consultar el historial de pagos de tu cuenta")
+</br>
+
+[Cargar saldo a tu cuenta →]({{< ref "cargar-saldo-estudiante" >}} "Cargar saldo a tu cuenta")
+</br>

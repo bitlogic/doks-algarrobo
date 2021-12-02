@@ -19,6 +19,9 @@ toc: true
 - En "Modalidad" de estudio puedes definir si estás buscando una cátedra presencial o virtual.
 <br>
 
+- En el campo "Docente titular" puedes filtrar ingresando el nombre de un docente.
+</br>
+
 - El botón selector de "Sólo contenido" te permite filtrar la búsqueda de cátedras por materias de solo contenido.
 <br>
 
@@ -52,6 +55,7 @@ toc: true
 4. Selecciona una materia o cátedra sobre la que desees conocer más detalles haciendo clic sobre su registro. Dentro de cada materia podrás ver las cátedras que se crearon abiertas y cerradas.  Aquí podrás ver datos como: nombre y código de la materia/cátedra (los códigos de las cátedras contienen letras y los de los seminarios, números), cantidad total de cátedras de la materia, cantidad de cátedras llenas/abiertas/cerradas. Además se desplegará toda su información debajo del nombre. Algunos de los datos que encontrarás son:
 
 - Nombre y tipo de cátedra y modalidad.
+- Nombre del docente titular.
 - Aquellas que sean de modelo "Coach" tendrán una etiqueta que lo indique a continuación de los datos mencionados anteriormente.
 - El término “Estándar” hace referencia a la capacidad/cupo de una cátedra para cada materia. También se puede ver el estado actual, con mensajes como: _“Esta cátedra está a punto de llenarse”_, _“Esta cátedra tiene entre un 80% y un 90% de ocupación”_ o _“Esta cátedra está llena”._
 - El término “Cupo” hace referencia al total de inscriptos/cupo total de la cátedra. 
