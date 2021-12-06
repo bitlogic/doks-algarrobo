@@ -14,7 +14,7 @@ toc: true
 1. En la parte superior de la pantalla, se encuentra el formulario de búsqueda. Ingresa los datos de la materia cuyas cátedras deseas consultar.
 1. En la grilla de resultados, selecciona la cátedra cuyos estudiantes deseas ver.
 1. Haz clic en el icono de ojo {{<inline-icon image="eye.png" alt="eye icon">}} que se encuentran a la derecha del registro de la materia. 
-1. La ventana "Estudiantes inscriptos" se abrirá. Aquí, podrás ver una lista de todos los alumnos inscriptos en la cátedra
+1. La ventana "Estudiantes con inscripción" se abrirá. Aquí, podrás ver una lista de todos los alumnos inscriptos en la cátedra
 1. Para descargar dicha información un excel presiona el icono {{<inline-icon image="download file.png" alt="download icon">}}.
 
 ## Véase también
