@@ -47,9 +47,9 @@ Con esta funcionalidad podrás descargar el archivo en CSV. [Descargar →]({{< 
 
 Con esta funcionalidad podrás buscar y asignar docentes. [Buscar →]({{< relref "/buscar-asignar-docentes" >}} "Buscar docentes")
 
-#### Ver estudiantes inscriptos en cada cátedra (mesa de ayuda)
+#### Ver estudiantes con inscripción en cada cátedra (mesa de ayuda)
 
-Con esta funcionalidad podrás ver estudiantes inscriptos en cada cátedra. [Ver →]({{< relref "/ver-estudiantes-inscriptos" >}} "Ver estudiantes")
+Con esta funcionalidad podrás ver estudiantes que se inscribieron en las cátedras. [Ver →]({{< relref "/ver-estudiantes-inscriptos" >}} "Ver estudiantes")
 
 #### Mover estudiantes de una cátedra a otra de manera masiva (área de planificación)
 
