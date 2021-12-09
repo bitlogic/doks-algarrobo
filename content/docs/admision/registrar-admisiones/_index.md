@@ -14,11 +14,15 @@ Con esta funcionalidad puedes registrar en el sistema los convenios o acuerdos r
 
 #### Editar admisión
 
-Con esta funcionalidad puedes realizar cambios en los contratos que estén cargados en el sistema. [Editar →]({{< relref "/editar-admisiones" >}} "Editar admisión")
+Con esta funcionalidad puedes realizar cambios en las admisiones que estén cargadas en el sistema. [Editar →]({{< relref "/editar-admisiones" >}} "Editar admisión")
 
 #### Buscar admisiones
 
-Con esta funcionalidad puedes buscar los contratos que están registrados en el sistema. [Buscar →]({{< relref "/buscar-admisiones" >}} "Buscar admisiones")
+Con esta funcionalidad puedes buscar las admisiones que están registradas en el sistema. [Buscar →]({{< relref "/buscar-admisiones" >}} "Buscar admisiones")
+
+#### Anular admisiones
+
+Con esta funcionalidad puedes anular las admisiones registradas en el sistema y sus inscripciones relacionadas. [Anular →]({{< relref "/anular-admisiones" >}} "Anular admisiones")
 
 #### Inscribir aspirantes individualmente
 

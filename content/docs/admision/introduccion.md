@@ -31,6 +31,10 @@ Con esta funcionalidad puedes buscar todos las admisiones registradas en el sist
 
 Con esta funcionalidad puedes realizar cambios en los detalles de las admisiones que se han creado en el sistema. [Editar →]({{< relref "/editar-admisiones" >}} "Editar admisión")
 
+#### Anular admisiones
+
+Con esta funcionalidad puedes anular registros de admisión que se hayan creado en el sistema. [Anular →]({{< relref "/anular-admisiones" >}} "Anular admisión")
+
 #### Inscribir aspirantes individualmente
 
 Con esta funcionalidad puedes inscribir uno por uno aquellas personas que decidan registrarse en la universidad como resultado de un contrato o convenio. [Inscribir aspirantes individualmente →]({{< relref "/inscribir-aspirantes-individualmente" >}} "Inscribir aspirantes individualmente")
