@@ -21,7 +21,7 @@ toc: true
 3. En la grilla de resultados, selecciona el/los casillero/s de uno o más registros de admisión de cada página. En la parte superior de la grilla, se habilitará el botón **Anular**.
 4. Presiona el botón. 
 5. Un mensaje de confirmación se abrirá para ingresar un motivo por el que deseas realizar esta acción. 
-6. Por último, haz clic en **Confirmar**.
+6. Por último, haz clic en **Anular**.
 
 {{< note text=`Recuerda que al anular una admisión también se anularán las inscripciones de estudiantes relacionados con el registro.
 
