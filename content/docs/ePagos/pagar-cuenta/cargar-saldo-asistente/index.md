@@ -1,5 +1,6 @@
 ---
-title: "Pago a cuenta (Asesores)"
+title: "Cargar saldo a la cuenta de un estudiante (Asesores)"
+description: "Puedes cargar dinero a la cuenta de un estudiante para que realice el pago de futuros tickets."
 lead: "Esta sección ofrece la posibilidad cargar dinero que quedará disponible para realizar el pago de futuros tickets, los cuales podrán ser abonados cuando se crea conveniente."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00

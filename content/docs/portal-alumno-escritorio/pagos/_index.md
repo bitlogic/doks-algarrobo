@@ -3,7 +3,7 @@ title: "Pago electrónico"
 lead: "Aquí puedes ver todas las opciones disponibles que corresponden a pagos."
 menu:
   docs:
-    parent: "Portal Alumno Escritorio"
+    parent: "Portal de estudiantes (Web)"
 weight: 010
 toc: true
 ---

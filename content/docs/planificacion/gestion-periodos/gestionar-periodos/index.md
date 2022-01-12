@@ -1,6 +1,6 @@
 ---
 title: "Habilitar inscripciones"
-description: "Habilita las cátedras de manera masiva para que los alumnos puedan inscribirse."
+description: "Habilita las cátedras de manera masiva para que los estudiantes puedan inscribirse."
 lead: "Con esta herramienta puedes realizar la habilitación masiva de cátedras para una modalidad, período y subperíodo de manera fácil y rápida. Una vez que estas cátedras estén abiertas para un período, los estudiantes podrán comenzar a inscribirse en ellas."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00

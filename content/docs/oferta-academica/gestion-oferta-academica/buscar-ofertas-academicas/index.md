@@ -11,7 +11,7 @@ toc: true
 
 ### Filtrar por estado una Oferta Académica
 
-Para buscar una oferta académica, escribir en el campo de búsqueda (1) cualquier dato conocido (descripción o parte de la descripción de una oferta, código del período, tipo de alumno, etc). La lista de resultados de divide en tantas páginas (5) como sea necesario para mostrar todos las coincidencias.
+Para buscar una oferta académica, escribir en el campo de búsqueda (1) cualquier dato conocido (descripción o parte de la descripción de una oferta, código del período, tipo de estudiante, etc). La lista de resultados de divide en tantas páginas (5) como sea necesario para mostrar todos las coincidencias.
 
 1. Para filtrar por estado de la oferta , hacer click sobre el botón desplegable “ESTADO” (2) y seleccionar “Activo” o “Inactivo”.
 

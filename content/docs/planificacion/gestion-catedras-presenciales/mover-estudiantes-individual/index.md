@@ -35,7 +35,7 @@ toc: true
 9. Una ventana de confirmación se abrirá para que revises nuevamente los datos que seleccionaste. Haz clic en **Confirmar**.
 <br>
 
-{{< tip text=`Si deseas ver la nueva cátedra en el calendario académico del alumno selecciona el período nuevamente.
+{{< tip text=`Si deseas ver la nueva cátedra en el calendario académico del estudiante selecciona el período nuevamente.
 
 ` >}}
 <br>

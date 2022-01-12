@@ -1,5 +1,5 @@
 ---
-title: "Conoce más sobre el portal alumno disponible en tu dispositivo móvil"
+title: "Conoce más sobre el portal de estudiantes disponible en tu dispositivo móvil"
 description: "Introducción funcional al nuevo sistema de promociones comerciales."
 lead: "Con la aplicación de autogestión puedes acceder a toda la información que necesitas de tu vida académica. Por ejemplo, puedes consultar el estado de tus materias, las notas que obtuviste, inscribirte para tus próximos exámenes, etc."
 date: 2020-10-06T08:48:57+00:00

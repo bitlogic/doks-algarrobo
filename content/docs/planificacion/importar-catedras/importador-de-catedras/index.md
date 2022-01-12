@@ -66,7 +66,7 @@ El importador analiza el contenido de la planilla cargada. Por este motivo es im
 | Código asignatura | Código interno de la materia | ADO204, ECO204, INF243, DER324
 | CAT/SEM | Código identificador de cada cátedra/seminario | AA, CM, 22, 45
 | Profesor código | Código identificador del titular de la cátedra/seminario | 99999999
-| Cupo | Máximo de alumnos permitido | 42
+| Cupo | Máximo de estudiantes permitido | 42
 | Currículo | Plan de estudio de la carrera | 7, 20, 6, 18
 | Semanas Experimenta | Semanas del subperíodo en las que se producen los encuentros | 2,4,6,8,9
 | Apertura | Orden de apertura de la cátedra/seminario a crear | 1, 2, 3, 4

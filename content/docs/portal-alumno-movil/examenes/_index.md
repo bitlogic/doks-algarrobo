@@ -3,7 +3,7 @@ title: "Exámenes - Móvil"
 lead: "Aquí puedes ver todas las opciones disponibles que corresponden a los exámenes."
 menu:
   docs:
-    parent: "Portal Alumno Móvil"
+    parent: "Portal de estudiantes (App móvil)"
 weight: 010
 toc: true
 ---

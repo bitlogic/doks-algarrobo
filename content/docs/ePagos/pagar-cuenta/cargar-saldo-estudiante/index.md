@@ -1,5 +1,5 @@
 ---
-title: "Carga saldo a tu cuenta (Estudiantes)"
+title: "Cargar saldo a tu cuenta (Estudiantes)"
 description: "Puedes cargar dinero que quedará disponible para realizar el pago de futuros tickets."
 lead: "Esta funcionalidad te permite tener dinero a favor en tu cuenta para el para el pago de futuros tickets cuando se crea conveniente."
 date: 2020-11-16T13:59:39+01:00

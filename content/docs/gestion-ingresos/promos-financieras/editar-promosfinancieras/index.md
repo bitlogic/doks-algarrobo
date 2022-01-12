@@ -14,7 +14,7 @@ toc: true
 1. En el panel de navegación, selecciona el icono {{<inline-icon image="currency.png" alt="currency icon">}}para que puedas acceder a la pantalla "Promociones financieras".
 1. En la parte superior, ingresa en nombre de la promoción cuya configuración deseas editar.
 1. En la ventana "Detalles de la promoción", ve a la sección "Reglas/Criterios".
-1. Haz clic en el icono de "Entradas" para elegir la población para quiénes aplican estas reglas. Puedes optar entre: Tipo de producto, Región, Modalidad, SubModalidad, Clase estudio, Carrera, Sede/CAU, Rol, Tipo de alumno, Período y Paquete. Todas estas opciones tienen listas desplegables. 
+1. Haz clic en el icono de "Entradas" para elegir la población para quiénes aplican estas reglas. Puedes optar entre: Tipo de producto, Región, Modalidad, SubModalidad, Clase estudio, Carrera, Sede/CAU, Rol, Tipo de estudiante, Período y Paquete. Todas estas opciones tienen listas desplegables. 
 1. Presiona el botón para activar la promoción y si deseas agrega una nota.
 1. Si deseas configurar esta promoción para que su aplicación abarque diferentes opciones de población, tendrás que seleccionar el botón **+ AGREGAR** y definir estos valores para todos los escenarios.
 

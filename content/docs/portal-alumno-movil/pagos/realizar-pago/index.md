@@ -11,7 +11,7 @@ toc: true
 
 1. Inicia sesión en la aplicación con tu usuario y contraseña. 
 1. En el panel de navegación ubicado en la barra inferior, pulsa el icono {{<inline-icon image="receipt.png" alt="payment icon">}}. La aplicación abrirá automáticamente la página web de la aplicación de pagos electrónicos.
-1. Para más detalles sobre el pago electrónico de matrículas y aranceles, consulta el documento [Consultar tus tickets pendientes de pago →]({{< ref "consultar-ticket-estudiante.md" >}} "Consultar tus tickets pendientes de pago") Al hacer click en “Pagos” desde el portal de alumnos.
+1. Para más detalles sobre el pago electrónico de matrículas y aranceles, consulta el documento [Consultar tus tickets pendientes de pago →]({{< ref "consultar-ticket-estudiante.md" >}} "Consultar tus tickets pendientes de pago") Al hacer click en “Pagos” desde el portal de estudiantes.
 <br>
 
 {{< tip text=`En la sección <b>Véase también</b> podrás encontrar más documentos que explican el uso de la aplicación de pagos electrónicos en detalle.

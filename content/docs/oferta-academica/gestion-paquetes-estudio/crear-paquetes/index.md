@@ -11,11 +11,11 @@ toc: true
 
 1. Para crear un paquete hacer click en el botón “Agregar Paquete” (7).
 1. Completar la sección “Detalles del paquete” del formulario, en donde “Nombre” y “Agrupamiento” son campos obligatorios.
-- Nombre del paquete: completar con la identificación interna del paquete, la cual no será vista por el alumno
+- Nombre del paquete: completar con la identificación interna del paquete, la cual no será vista por el estudiante.
 - Nombre comercial: es el nombre con el que se verá el paquete en las otras aplicaciones (ejemplo, ePagos, admisión)
 - Vigencia del paquete “desde…” y “hasta…”
 - Agrupamiento, en donde se puede seleccionar entre “paquete”, “sin grupo”, “período y tipo de ticket”, y “período”
-- Tipo de alumno, en donde se puede elegir entre “nuevo inscripto” y “re inscripto”
+- Tipo de estudiante, en donde se puede elegir entre “nuevo inscripto” y “re inscripto”
 - Modalidad, como por ejemplo “a distancia”, “presencial”, etc
 - Regular/Especial
 - Inactivo/Activo. Selector para desactivar o activar un paquete al momento de la creación

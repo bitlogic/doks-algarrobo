@@ -18,7 +18,7 @@ toc: true
 1. Realiza los cambios que creas necesarios vinculados con la información general.
 1. Una vez que hayas finalizado, presiona **Guardar**.
 1. En la parte inferior de la pantalla, puedes configurar las reglas o criterios a los que va aplicar este medio de pago en particular.
-1. Haz clic en el icono de "Entradas" para elegir la población para quiénes aplican estas reglas. Puedes optar entre: Tipo de producto, Clase estudio, Modalidad, SubModalidad, Carrera, Sede/CAU, Rol, Tipo de alumno, Período, Turno, Arancel completo y Promoción. Todas estas opciones tienen listas desplegables. 
+1. Haz clic en el icono de "Entradas" para elegir la población para quiénes aplican estas reglas. Puedes optar entre: Tipo de producto, Clase estudio, Modalidad, SubModalidad, Carrera, Sede/CAU, Rol, Tipo de estudiante, Período, Turno, Arancel completo y Promoción. Todas estas opciones tienen listas desplegables. 
 1. Presiona el botón para activar la promoción y si deseas agrega una nota.
 1. Si deseas configurar esta promoción para que su aplicación abarque diferentes opciones de población, tendrás que seleccionar el botón **+ AGREGAR** y definir estos valores para todos los escenarios.
 

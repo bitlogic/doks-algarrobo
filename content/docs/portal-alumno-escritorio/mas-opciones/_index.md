@@ -3,7 +3,7 @@ title: "Navegar el portal y realizar más acciones"
 lead: "En esta sección encontrarás un resumen de las partes que componen el portal con las acciones que podrás realizar con cada una de las funcionalidades. Además encontrarás información para acceder a algunas pantallas mediante atajos y consultar los canales de contacto de la universidad."
 menu:
   docs:
-    parent: "Portal Alumno Escritorio"
+    parent: "Portal de estudiantes (Web)"
 weight: 010
 toc: true
 ---

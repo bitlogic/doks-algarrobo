@@ -3,7 +3,7 @@ title: "Exámenes"
 lead: "Aquí puedes ver todas las opciones disponibles que corresponden a los exámenes."
 menu:
   docs:
-    parent: "Portal Alumno Escritorio"
+    parent: "Portal de estudiantes (Web)"
 weight: 010
 toc: true
 ---

@@ -3,7 +3,7 @@ title: "Más opciones"
 lead: "Aquí puedes ver todas las opciones disponibles que corresponden a más opciones."
 menu:
   docs:
-    parent: "Portal Alumno Móvil"
+    parent: "Portal de estudiantes (App móvil)"
 weight: 010
 toc: true
 ---

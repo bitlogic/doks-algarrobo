@@ -39,7 +39,7 @@ toc: true
 <br>
 
 8. Presiona el botón **Guardar** para confirmar los cambios. Un mensaje se desplegará para confirmar esta acción.
-9. Si estás seguro de querer mover estos alumnos, presiona **Confirmar**. Un mensaje confirmará que la acción se completó con éxito. 
+9. Si estás seguro de querer mover estos estudiantes, presiona **Confirmar**. Un mensaje confirmará que la acción se completó con éxito. 
 
 {{< note text=`La grilla donde se listaban todos los estudiantes de la cátedra de la que se los quitó se verá de color gris. Esto significa que estas personas ya no se encuentran inscriptas allí. 
 Por el contrario, si desde la grilla de búsqueda del planificador ingresas a la nueva cátedra a la que se movieron los estudiantes y haces clic en el icono de ojo verás los nombres de aquellas personas que acabas de mover.

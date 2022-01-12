@@ -3,7 +3,7 @@ title: "Cursado - Móvil"
 lead: "Aquí puedes ver todas las opciones disponibles relacionadas con información sobre cursado el cursado de tu/s carrera/s y los próximos eventos que tienes programados."
 menu:
   docs:
-    parent: "Portal Alumno Móvil"
+    parent: "Portal de estudiantes (App móvil)"
 weight: 010
 toc: true
 ---

@@ -18,14 +18,14 @@ toc: true
 </b>
 
 - "Carrera": cuando la carrera es de grado se solicitarán los datos del referido.
-- "Modalidad": los valores disponibles dependerán de la carrera seleccionada. Para la inscripción de modalidad presencial se solicitarán los datos del secundario del alumno.
+- "Modalidad": los valores disponibles dependerán de la carrera seleccionada. Para la inscripción de modalidad presencial se solicitarán los datos del secundario del estudiante.
 - "Turno": el turno dependerá de la carrera y la modalidad seleccionada.
 - "Sede/CAU": aquí debes colocar el lugar dónde estudiante desea completar sus estudios.
 - "Fecha de inicio de cursado": dependerá de los datos seleccionados con anterioridad.
 - "Paquete": selecciona el paquete basado en los datos de la carrera.
 
 2. Una vez que hayas completado todos los campos, haz clic en **Siguiente**. La pantalla "Datos particulares del estudiante" se habilitará.
-3. En esta pantalla podrás registrar toda la información general del alumno.
+3. En esta pantalla podrás registrar toda la información general del estudiante.
 4. Presiona **Siguiente** para continuar con el proceso de admisión. La pantalla de "Datos de estudios secundarios" se desplegará. A continuación, se listan algunos de los campos para completar si suponemos que se el asesor comercial está inscribiendo a una persona para una carrera de grado de modalidad Distancia Ed-Home:
 </b>
 
@@ -35,7 +35,7 @@ toc: true
 - "Fecha de egreso": fecha en la que se finalizaron los estudios secundarios.
 - "Promedio": calificación promedio obtenida en base a los resultados de los exámenes.
 
-4. Una vez finalizados los datos de la vida académica del alumno, haz clic en **Siguiente** para continuar. Se habilitará la pantalla "Domicilios”. 
+4. Una vez finalizados los datos de la vida académica del estudiantes, haz clic en **Siguiente** para continuar. Se habilitará la pantalla "Domicilios”. 
 5. Aquí puedes registrar y editar varios domicilios del estudiante. Si deseas agregar uno nuevo, presiona el botón con el mismo nombre.
 6. Cuando termines de cargar los datos, selecciona **Siguiente**. La sección “Referidos” de la admisión se verá en la pantalla.
 1. En esta sección puedes ingresar los datos de un referido para comenzar con su búsqueda. Cuando los referidos se asocian, ambos pueden obtener beneficios. Se pueden filtrar los datos por:
