@@ -33,16 +33,10 @@ toc: true
 
 [Abrir clase →]({{< ref "abrir-clase.md" >}} "Abrir clase")
 
-[Visualizar asistencia mediante la App→]({{< ref "visualizar-asistencia-con-app.md" >}} "Visualizar asistencia mediante la App")
+[Visualizar asistencia→]({{< ref "visualizar-asistencia.md" >}} "Visualizar asistencia")
+ 
+[Editar o registrar asistencia de Clase Abierta mediante la App o la Botonera→]({{< ref "editar-registrar-asistencia-clase-abierta.md" >}} "Editar o registrar asistencia de Clase Abierta mediante la App o la Botonera")
 
-[Visualizar asistencia mediante la Botonera→]({{< ref "visualizar-asistencia-con-botonera.md" >}} "Visualizar asistencia mediante la Botonera")
+[Editar o registrar asistencia de Clase Cerrada mediante la App o la Botonera→]({{< ref "editar-registrar-asistencia-clase-cerrada.md" >}} "Editar o registrar asistencia de Clase Cerrada mediante la App o la Botonera")
 
-[Editar o registrar asistencia de Clase Abierta mediante la App→]({{< ref "editar-registrar-asistencia-claseabierta-app.md" >}} "Editar o registrar asistencia de Clase Abierta mediante la App")
-
-[Editar o registrar asistencia de Clase Abierta mediante la Botonera→]({{< ref "editar-registrar-asistencia-claseabierta-botonera.md" >}} "Editar o registrar asistencia de Clase Abierta mediante la Botonera")
-
-[Editar o registrar asistencia de Clase Cerrada mediante la App→]({{< ref "editar-registrar-asistencia-clasecerrada-app.md" >}} "Editar o registrar asistencia de Clase Abierta mediante la App")
-
-[Editar o registrar asistencia de Clase Cerrada mediante la Botonera→]({{< ref "editar-registrar-asistencia-clasecerrada-botonera.md" >}} "Editar o registrar asistencia de Clase Abierta mediante la Botonera")
-
-[Visualiza tus asistencias en la app S21 - Estudiantes→]({{< ref "visualizar-asistencia.md" >}} "Visualiza tus asistencias en la app S21")
+[Visualiza tus asistencias en la app S21 - Estudiantes→]({{< ref "visualizar-asistencia-estudiante.md" >}} "Visualiza tus asistencias en la app S21")

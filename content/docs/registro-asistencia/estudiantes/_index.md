@@ -10,8 +10,8 @@ toc: true
 
 #### Registrar la asistencia a un módulo
 
-Con esta funcionalidad podrás registrar tu asistencia a un módulo simplemente escaneando un código QR con tu app móvil. [Registrar →]({{< relref "/registrar-asistencia" >}} "Registrar asistencia")
+Con esta funcionalidad podrás registrar tu asistencia a un módulo simplemente escaneando un código QR con tu app móvil. [Registrar asistencia→]({{< relref "/registrar-asistencia" >}} "Registrar asistencia")
 
 #### Visulaizar la asistencia a un módulo o más módulos
 
-Con esta funcionalidad podrás visualizar tu asistencia a uno o más módulos mediante el uso de la App móvil S21. [Visualizar asistencia con la App móvil →]({{< relref "/visualizar-asistencia" >}} "Visualizar asistencia")
+Con esta funcionalidad podrás visualizar tu asistencia a uno o más módulos mediante el uso de la App móvil S21. [Visualizar asistencia con la App móvil →]({{< relref "/visualizar-asistencia-estudiante" >}} "Visualizar asistencia")
