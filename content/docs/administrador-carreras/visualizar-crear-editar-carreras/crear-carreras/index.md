@@ -32,7 +32,7 @@ Para continuar con la creación de esta carrera, deberás añadir un Plan de est
  - En el mensaje desplegado inmediatamente después de crear la carrera, al hacer clic en el botón **Añadir Plan**.
  - Al corroborar que la carrera ha sido creada, al hacer clic en el signo **+** ubicado a la derecha del encabezado que detalla el Decanato y el Estado de la carrera.
 
-{{<note text="Si intentaras crear otra carrera y colocaras una misma Descripción, Código, o Código Presencial al hacer clic en el botón Guardar el sistema no te permitirá crearla y te informará que dichos campos deben ser únicos.">}}
+{{<note text="Si intentaras crear otra carrera y colocaras una misma Descripción, Código, o Código Presencial, al hacer clic en el botón Guardar el sistema no te permitirá crearla y te informará que dichos campos deben ser únicos.">}}
 </b>
 
  - Para añadir un Plan de estudio, dirígete a la sección _Diseñar Plan de Estudio_(ver link más abajo).
