@@ -1,0 +1,24 @@
+---
+title: "Visualizar, crear y editar materias"
+lead: "Aquí se muestra cómo buscar, visualizar, hacer cambios y agregar o crear materias"
+menu:
+  docs:
+    parent: "Admnistrador de Carreras"
+weight: 010
+toc: true
+---
+
+
+#### Visualización de materias
+
+Lista las materias ya ingresadas en el sistema con sus respectivos atributos y estados de *Activo / Inactivo* con estos simples pasos. [Visualizar →]({{< relref "/visualizar-materias" >}} "Visualizar materias")
+
+#### Creación de materias
+
+El "Administrador de carreras" permite crear o ingresar una **Materia** al sistema y asignarle los atributos correspondientes para que luego se liste entre las materias que conforman las diversas carreras de la universidad. [Crear →]({{< relref "/crear-materias" >}} "Crear materias")
+
+#### Edición de materias
+
+Luego de efectuar una búsqueda para localizar una materia, esta funcionalidad del "Administrador de carreras" te permite modificar algunos de los atributos de dicha materia. [Editar →]({{< relref "/editar-materias" >}} "Editar materias")
+
+
