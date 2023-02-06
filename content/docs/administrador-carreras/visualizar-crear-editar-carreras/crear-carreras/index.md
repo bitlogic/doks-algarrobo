@@ -25,7 +25,7 @@ Para crea carreras nuevas con sus características y **Plan de Estudio** propios
 9. Haz clic en el botón **Guardar**. Se desplegará el mensaje _“La carrera se creó con éxito”_, los campos completados se limpiarán, y podrás escoger entre crear otra carrera o agregar un **Plan de Estudios** a la carrera recién creada.
 10. Para verificar que la carrera ha sido creada, cierra el Formulario **Crear carrera** para volver a la ventana **Administrador de carreras**. Una vez allí, haz una búsqueda utilizando al menos los filtros **Nivel de estudio** y **Descripción o código de carrera** para visualizar la carrera recién creada.
 
-{{<note text="El Estado de la carrera recién creada será Borrador debido a que aun no tiene un Plan de Estudio asociado vigente (es decir,  con Resolución Ministerial). Tener la carrera en Estado BORRADOR te permitirá ir diseñando un Plan de Estudio, y una vez que dicho Plan esté completo, generar una resolución rectoral para luego solicitar la resolución ministerial.">}}
+{{<note text="El Estado de la carrera recién creada será Borrador debido a que aun no tiene un Plan de Estudio asociado vigente (es decir, con Resolución Ministerial). Tener la carrera en Estado BORRADOR te permitirá ir diseñando un Plan de Estudio, y una vez que dicho Plan esté completo, generar una resolución rectoral para luego solicitar la resolución ministerial.">}}
 </b>
 
 Para continuar con la creación de esta carrera, deberás añadir un Plan de estudio. Podrás hacerlo a partir de cualquiera de las siguientes dos instancias:
