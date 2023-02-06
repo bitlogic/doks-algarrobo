@@ -1,8 +1,8 @@
 ---
 title: "Conoce más sobre cómo administrar los recursos edilicios de la Universidad."
 lead: "Esta herramienta permite gestionar los edificios y aulas de los que dispone la universidad para tener un mayor control de estos recursos."
-date: 2022-07-24T11:11:53-0300
-lastmod: 2020-10-06T08:48:57+00:00
+date: 2023-02-06T11:55:50-0300
+lastmod: 2023-02-06T11:55:50-0300
 draft: false
 images: []
 weight: 010
@@ -50,6 +50,3 @@ Luego de efectuar una búsqueda para localizar un **Aula** en particular, "Gesti
 #### Dar de alta un aula
 
 "Gestión de aulas" te permite dar de alta o ingresar el registro de un **Aula** al sistema y asignarle los atributos correspondientes (Nombre, Tipo de aula, Estado del aula (*Disponible* / *No disponible*), Edificio, Capacidad, etc.) para que luego se liste entre las aulas que posee la universidad. [Dar de alta →]({{< relref "/dar-de-alta-aulas" >}} "Dar de alta un aula")
-
-
-
