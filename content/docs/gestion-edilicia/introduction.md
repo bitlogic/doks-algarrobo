@@ -1,13 +1,14 @@
 ---
 title: "Conoce más sobre cómo administrar los recursos edilicios de la Universidad."
 lead: "Esta herramienta permite gestionar los edificios y aulas de los que dispone la universidad para tener un mayor control de estos recursos."
-date: 2022-09-19T15:01:44-0300
+date: 2022-07-24T11:11:53-0300
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
 images: []
 weight: 010
 toc: true
 ---
+
 
 ## Visualización y ABM de edificios
 
