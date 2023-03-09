@@ -15,7 +15,11 @@ La app **Equivalencias** consta de varios módulos, entre ellos, el módulo **Re
 
 {{<note text="Los campos requeridos u obligatorios están indicados por un asterisco en color rojo. A medida que ingreses información en estos campos, se colocará una marca de <b>Check</b> para indicar que fueron completados y desaparecerán las leyendas que indican que falta ingresar información. Asimismo, una vez que el formulario esté completo se habilitará el botón <b>Guardar</b> para asegurarte de que no faltó ningún dato para crear la <b>Regla de Equivalencia</b>.">}}
 
-3. Ingresa un nombre para la **Regla de equivalencia** que sea lo suficientemente descriptivo para poder identificarla. Si lo deseas, podrás hacer clic en el botón **Generar** para que la app ingrese un nombre inicial en el campo **Nombre** que identificará la **Regla de equivalencia**. Este nombre se irá autocompletando a medida que vayas completando los demás campos hasta formular un nombre que describa la regla de forma unívoca que más tarde, si lo deseas, podrás cambiar.
+3. Ingresa un nombre para la **Regla de equivalencia** que sea lo suficientemente descriptivo para poder identificarla.
+
+    Si lo deseas, podrás hacer clic en el botón **Generar** para que la app ingrese un nombre inicial en el campo **Nombre** que identificará la **Regla de equivalencia**. Este nombre se irá autocompletando a medida que vayas completando los demás campos hasta formular un nombre que describa la regla de forma unívoca que más tarde, si lo deseas, podrás cambiar.
+
+
 4. Completa el campo **Resolución**. Este es el número de **Resolución rectoral** de la **Regla de equivalencia**.
 5. Activa el botón deslizable **Regla activa** para indicar si la **Regla de Equivalencia** estará vigente al finalizar su creación.
 6. Activa el botón deslizable **Requiere revisión**, el cual, como su nombre lo indica, podrá activarse para indicar que alguna materia o actividad de esta **Regla de Equivalencia** que se está agregando debe ser revisada antes de aplicarse cuando un estudiante solicite que se le considere una equivalencia – es decir, una verificación manual antes de otorgar la equivalencia de la materia que el estudiante aprobó en la institución de la que proviene.
@@ -40,7 +44,9 @@ En esta sección, debes seleccionar las materias y actividades que al habilitar 
 {{<note text="Una actividad o materia de origen puede tener una o más actividades o materias equivalentes, y viceversa.">}}
 
 14. Antes de guardar la **Regla de equivalencia**, cerciórate de que el **Nombre** sea lo más descriptivo posible para poder luego filtrarla al hacer una búsqueda. Si hiciste clic en el botón **Generar** para crear un nombre de forma automática, lo verás autocompletado, pero podrás modificarlo si lo consideraras necesario.
-15. Haz clic en el botón **Guardar** y confirma los cambios. A continuación, se desplegará el mensaje **_La regla se ha creado exitosamente_** y se habilitará el botón **Clonar** que podrás utiliza en caso de necesitar crear una nueva **Regla de equivalencias** que tenga varios ítems similares a la recién creada.
+15. Haz clic en el botón **Guardar** y confirma los cambios. A continuación, se desplegará el mensaje **_La regla se ha creado exitosamente_** y se habilitará el botón **Clonar** para duplicar la **Regla de Equivalencia** en caso de tener que generar una regla en donde se contemplen diferentes escenarios de equivalencias entre las materias de las instituciones mencionadas.
+
+Por ejemplo, si la materia **Derecho Penal I** de origen tuviera sólo como equivalencia la materia **_Leyes 1_** de destino, y la materia **Derecho Penal II** tuviera **_Leyes 2_** y **_Leyes 3_** como equivalencia, se podrá establecer una primera regla para el primer escenario, y luego **CLONAR** esta primera **Regla de Equivalencia** para contemplar el segundo escenario.
 
 ## Véase también
 

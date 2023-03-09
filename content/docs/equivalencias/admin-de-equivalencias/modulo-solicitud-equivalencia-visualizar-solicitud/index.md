@@ -12,22 +12,25 @@ La app **Equivalencias** consta de varios módulos, entre ellos, el módulo **Pe
 
 1. Ingresa a **equivalencias.uesiglo21.edu.ar** con tus credenciales y luego haz clic en el ícono **Pedido de Equivalencias** situado en el panel izquierdo de la pantalla.
 2. Localiza el **Pedido de Equivalencias** que deseas visualizar. Para ello, utiliza uno o más de los campos disponibles para filtrar la búsqueda: **Nombre**, **Nro identificación** (DNI o pasaporte), **Número de trámite** y **Estado**.
-3. Al localizar el **Pedido de Equivalencias**, tendrás una primera visualización en donde obtendrás:
+3. Al localizar el **Pedido de Equivalencias**, tendrás una primera visualización del mismo en donde obtendrás:
     - el **Número de trámite**
     - el nombre completo de la persona que realizó el **Pedido de Equivalencias**
     - el número de documento de la persona que realizó el **Pedido de Equivalencias**
-    - el **Estado** del **Pedido de Equivalencias**
+    - el **Estado** del **Pedido de Equivalencias**:Finalizado, Pendiente o Rechazado
     - un ícono de lápiz para editar el **Pedido de Equivalencia**
 
 4. Haz clic en cualquier lugar del **Pedido de Equivalencias** para poder visualizarlo en detalle. En esta pantalla podrás visualizar:
     - El **Número de trámite:** El número que el sistema le asignó a la solicitud de equivalencias que realizó el estudiante.
-    - El mensaje que anuncia si la solicitud de equivalencia ha sido aprobada, rechazada o si está pendiente de revisión.
+    - El mensaje que anuncia el **Estado** de la solicitud: **Finalizada**, **Rechazada** o **Pendiente** de revisión.
     - El nombre completo del solicitante y su tipo y número de documento.
     - Las instituciones de origen y destino con sus carreras y planes respectivos.
-    - La sección **Actividades/Materias presentadas por el alumno** en donde se listan - colapsadas, las materias o actividades con su respectivo **Estado** en el extremo izquierdo y su respectiva **Nota** en el extremo derecho.
+    - La sección **Actividades/Materias presentadas por el alumno** en donde se listan las materias o actividades con su respectivo **Estado** de **Aprobado**, **Pendiente** o **Rechazado** en el extremo izquierdo y su respectiva **Nota** en el extremo derecho.
+        <br>
+        <br>
+        Debajo de esta información se detalla nuevamente la **Nota** y se agrega su **Fecha de aprobación**, y el **Libro** y **Folio** en donde fue registrada la **Actividad/Materia** en la institución de origen.
+        <br>
+        <br>
     - La sección **Equivalencias de esta solicitud**, en donde figuran la o las materias o actividades otorgadas como equivalencia a aquellas presentadas por el solicitante, listadas una por una con su respectivo **Código** y **Estado**.
-
-5. Haz clic en la flecha de expansión ubicada en el extremo izquierdo de la materia o actividad para desplegar –además de la **Nota**, el **Código** de la materia o actividad, su **Fecha de aprobación**, y el **Libro** y **Folio** en donde fue registrada en la institución de origen.
 
 ## Véase también
 

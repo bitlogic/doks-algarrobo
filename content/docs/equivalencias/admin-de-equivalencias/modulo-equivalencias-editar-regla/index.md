@@ -45,7 +45,9 @@ Modifica esta sección según corresponda al agregar o eliminar materias o activ
 
 {{<note text="Una actividad o materia de origen puede tener una o más actividades o materias equivalentes, y viceversa.">}}
 
-13. Haz clic en el botón **Guardar** y confirma los cambios. A continuación, se desplegará el mensaje **_La regla se ha editado exitosamente_** y se habilitará el botón **Clonar** que podrás utiliza en caso de necesitar crear una nueva **Regla de equivalencias** que tenga varios ítems similares a la recién creada.
+13. Haz clic en el botón **Guardar** y confirma los cambios. A continuación, se desplegará el mensaje **_La regla se ha editado exitosamente_** y se habilitará el botón **Clonar** para duplicar la **Regla de Equivalencia** en caso de tener que generar una regla en donde se contemplen diferentes escenarios de equivalencias entre las materias de las instituciones mencionadas.
+
+Por ejemplo, si la materia **Derecho Penal I** de origen tuviera sólo como equivalencia la materia **_Leyes 1_** de destino, y la materia **Derecho Penal II** tuviera **_Leyes 2_** y **_Leyes 3_** como equivalencia, se podrá establecer una primera regla para el primer escenario, y luego **CLONAR** esta primera **Regla de Equivalencia** para contemplar el segundo escenario.
 
 ## Véase también
 

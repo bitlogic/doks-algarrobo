@@ -15,19 +15,17 @@ Al ingresar a la app **Equivalencias**, por defecto se despliega el módulo **In
 
 {{<note text="Si la institución ingresada es aquella de donde proviene el estudiante (llamada 'de Origen'), deja el botón deslizable tal cual está, es decir, desactivado o grisado.">}}
 
-3. Ingresa el nombre de la institución que deseas añadir y un código. Haz clic en la marca de **_Check_**.
+3. Ingresa el nombre de la institución y un código. El botón **Guardar** quedará habilitado.
 4. Confirma que deseas añadir la institución al hacer clic en el botón **Confirmar** o pulsando la tecla **Enter**.
-5. Si el código de la institución ya existe en el sistema, se desplegará el mensaje: _"Ya existe una institución con ese código."_ Cambia el código y vuelve a hacer clic en la marca de **_Check_** y confirma la incorporación de la nueva institución.
+5. Si el **Código** de la institución ya existe en el sistema, se desplegará el mensaje: _"Ya existe una institución con ese código."_ Cambia el **Código** y vuelve a hacer clic el botón **Guardar** y confirma la incorporación de la nueva institución.
 
 {{<note text="Si se añade una institución con un 'Nombre' igual o similar a uno ya ingresado - pero el código no ha sido utilizado, se advertirá de su existencia para que puedas realizar las modificaciones pertinentes o proseguir con su incorporación.">}}
 
-6. Si modificas el **Nombre**, vuelve a hacer clic en la marca de **_Check_** y confirma la incorporación de la nueva institución.
+6. Si modificas el **Nombre**, vuelve a hacer clic en el botón **Guardar** y confirma la incorporación de la nueva institución.
 7. Si no realizas ninguna modificación, haz clic en el botón **Continuar**. Al finalizar con la incorporación de la nueva institución, se desplegará el mensaje: _"La institución se ha creado exitosamente."_
 8. Automáticamente serás redirigido a la pantalla **Editar Institución** donde podrás modificar el **Nombre** de la institución y su condición de institución **Origen** o **Destino** –si bien no su **Código**, y agregar el o los Planes y carreras asociadas para continuar, si así lo deseas, con la carga de la nueva institución.
 
-Para más detalles acerca de la edición de la institución, dirígete a la sección **Editar instituciones**.
-
-{{<note text="Una institución recién añadida no tendrá Planes o carreras asociados. Para añadir un Plan/Carrera a la institución recién agregada, dirígete a la sección 'Editar Instituciones' cuyo link se lista más abajo y busca el sub-título 'Añadir un Plan/Carrera'.">}}
+{{<note text="Una institución recién añadida no tendrá Planes o carreras asociados. Para añadir un Plan/Carrera a la institución recién agregada, ver <b>Editar Instituciones</b>.">}}
 
 ## Véase también
 [Visualizar instituciones →]({{< relref "/modulo-instituciones-visualizar-institucion" >}} "Visualizar instituciones")

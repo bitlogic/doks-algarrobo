@@ -21,7 +21,7 @@ En el resultado de la búsqueda accederás a la siguiente información:
  - Un botón **Añadir institución** en el borde inferior de la pantalla que te permitirá sumar una institución a la lista existente.
 
 3. Haz clic sobre la institución para visualizarla en detalle. A continuación, se despliega la ventana **Editar institución** en donde podrás visualizar la o las **Carreras/Planes de Estudio** asociados de la institución que ya se han ingresado al sistema.
-4. Haz clic en una **Carrera** y **Plan de Estudios** en particular para visualizar las materias que conforman dicho Plan de Estudios.
+4. Haz clic en una **Carrera** y **Plan de Estudios** en particular para visualizar las materias que conforman dicho **Plan de Estudios**.
 
 ## Véase también
 [Añadir instituciones →]({{< relref "/modulo-instituciones-añadir-institucion" >}} "Añadir instituciones")

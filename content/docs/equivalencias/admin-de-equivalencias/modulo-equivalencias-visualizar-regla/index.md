@@ -29,7 +29,9 @@ En la pantalla **Regla de equivalencia**, podrás visualizar:
  - Los campos correspondientes a la institución de Destino: **Institución de destino** y **Plan/carrera de destino**
  - El botón deslizable **Todos** que, si está activo, indica que el **Plan/carrera** de la institución de origen tendrá una o más equivalencias en todos los Planes de todas las Carreras. Por ejemplo, la materia **Inglés** dictada en una institución de origen, podría tener equivalencias en todas las carreras de todos los planes de estudio de la institución de destino.
  - Una sección **Asociar Actividades/Materias** donde podrás agregar, como así también eliminar si fuera necesario, las materias o actividades que forman parte de cada uno de los **Planes/Carrera** de la institución **_Origen_** y **_Destino_** que ya fueron establecidas como equivalencias. Para más detalles, ver la sección **Editar Regla de Equivalencia**.
- - El botón **Clonar** para duplicar la **Regla de Equivalencia** en caso de tener que generar una regla con atributos similares para aprovechar la información ya ingresada, por ejemplo, las mismas instituciones de origen y de destino. Para más detalles, ver la sección **Añadir Regla de Equivalencia**.
+ - El botón **Clonar** para duplicar la **Regla de Equivalencia** en caso de tener que generar una regla para la misma institución de origen y destino y para el mismo **Plan/Carrera** en donde se contemplen diferentes escenarios de equivalencias entre las materias de las instituciones mencionadas. Para más detalles, ver la sección **Añadir Regla de Equivalencia**.
+   
+   **Ejemplo de clonación**: En el caso de que la materia **Derecho Penal I** de origen tuviera sólo como equivalencia la materia **_Leyes 1_** de destino, y la materia **Derecho Penal II** tuviera **_Leyes 2_** y **_Leyes 3_** como equivalencia, se podrá establecer una primera regla para el primer escenario, y luego **CLONAR** esta primera **Regla de Equivalencia** para contemplar el segundo escenario.
 
 ## Véase también
 [Visualizar instituciones →]({{< relref "/modulo-instituciones-visualizar-institucion" >}} "Visualizar instituciones")

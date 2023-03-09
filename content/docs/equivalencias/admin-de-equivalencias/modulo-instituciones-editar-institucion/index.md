@@ -23,7 +23,7 @@ Como co-docente, en este módulo podrás editar una institución, lo que implica
 ### Edita un Plan/Carrera existente
 
 5. En la misma pantalla donde se despliega la institución, en la sección **Planes/carreras asociadas** localiza el Plan/Carrera que deseas modificar. Para ello, utiliza el campo **Nombre** (o en el ícono de lupa) e ingresa parte del nombre del Plan.
-6. Una vez localizado el Plan/Carrera, por ejemplo, el plan **_Abogacía 2007_**, haz clic en el ícono de lápiz ubicado en la columna **Acciones** para desplegar la pantalla donde se listan todas las materias y actividades asociadas al Plan/Carrera y desde donde podrás editarlo.
+6. Una vez localizado el **Plan/Carrera**, por ejemplo, el plan **_Abogacía 2007_**, haz clic en el ícono de lápiz ubicado en la columna **Acciones** para desplegar la pantalla donde se listan todas las materias y actividades asociadas al **Plan/Carrera** y desde donde podrás editarlo.
 
 En la pantalla **Plan/Carrera** podrás:
  - Editar el **Nombre del Plan/Carrera**
@@ -69,7 +69,7 @@ En la pantalla **Plan/Carrera** podrás:
 1. Para agregar una **materia** o **actividad**, haz clic en el botón **+ NUEVA ACTIVIDAD/MATERIA**. A continuación, se añadirá una fila en el listado de materias/actividades donde podrás ingresar el **Nombre** de la actividad.
 2. Ingresa el **Nombre** de la **materia** o **actividad** que deseas agregar.
 
-{{<note text="Al ingresar la nueva actividad o materia, el Administrador de Equivalencias agregará una marca de 'Check' para indicar que el número de caracteres utilizado es aceptable y además le asignará un 'Código' único.">}}
+{{<note text="Al ingresar la nueva actividad o materia, el <b>Administrador de Equivalencias</b> agregará una marca de <i>Check</i> para indicar que el número de caracteres utilizado es aceptable y además le asignará un <b>Código</b> único.">}}
 
 3. Haz clic en el ícono de **_Check_** para salir del modo Edición.
 4. Haz clic en el botón **Guardar**.
@@ -90,18 +90,18 @@ En la pantalla **Plan/Carrera** podrás:
 1. Para agregar un **Plan/Carrera**, primero debes desplegar la pantalla **_Editar institución_** – a la que puedes llegar inmediatamente luego de añadir una Institución - o al localizar una Institución y hacer clic en el ícono de lápiz debajo de la columna **Acciones**.
 2. Una vez en la pantalla **_Editar institución_**, haz clic en el botón **Añadir Plan/Carrera**. A continuación, se añadirá una línea donde podrás ingresar el **Nombre** del plan/carrera.
 3. Agrega un **Nombre** para el **Plan/Carrera**. Por ejemplo, el **Plan/Carrera** **_2020-Abogacía_**. Luego, haz clic en el botón deslizante para activarlo.
-4. Haz clic en el ícono de **_Check_** o pulsa **Enter**.
+4. Haz clic en el botón **Guardar** o pulsa **Enter**.
 5. Confirma que deseas añadir el **Plan/Carrera** a la institución al hacer clic en el botón **Confirmar** o bien pulsando la tecla **Enter**.
 6. A continuación se desplegará la ventana **Plan/Carrera** con un mensaje anunciando que el plan se ha agregado con éxito. Desde esta ventana podrás:
     -Agregar **Materias** / **Actividades** para luego asociarlas a este **Plan/Carrera**
     o
     - Asociar **Materias** / **Actividades** existentes, es decir, que ya hayan sido agregadas a la institución pero aún no a este **Plan/Carrera**.
 
-Para agregar Materias / Actividades para luego asociarlas al plan dirígete a la sección **Agregar una materia o actividad**.
+Para agregar Materias / Actividades para luego asociarlas al plan ver **Agregar una materia o actividad**.
 
-Para asociar **Materias** / **Actividades** ya agregadas a la institución para luego asociarlas al plan, dirígete a la sección **Asociar al Plan una o más actividades existentes**.
+Para asociar **Materias** / **Actividades** ya agregadas a la institución para luego asociarlas al plan, ver **Asociar al Plan una o más actividades existentes**.
 
-{{<note text="En el caso de que ingresaras un Plan/Carrera con un nombre similar o igual a uno ya ingresado, el Administrador de Equivalencias te lo advertirá con un mensaje contextual, tras lo cual podrás: Cancelar para modificar el Nombre del Plan/Carrera; Cancelar toda la acción por ser un duplicado; Continuar ya que el nombre es similar, pero no igual.">}}
+{{<note text="En el caso de que ingresaras un <b>Plan/Carrera</b> con un nombre similar o igual a uno ya ingresado, el <b>Administrador de Equivalencias</b> te lo advertirá con un mensaje contextual, tras lo cual podrás: <i>Cancelar</i> para modificar el Nombre del Plan/Carrera; <i>Cancelar</i> toda la acción por ser un duplicado; <i>Continuar</i> ya que el nombre es similar, pero no igual.">}}
 
 Una vez agregado el **Plan/Carrera**, se desplegará el mensaje **_El plan se ha creado exitosamente._**
 

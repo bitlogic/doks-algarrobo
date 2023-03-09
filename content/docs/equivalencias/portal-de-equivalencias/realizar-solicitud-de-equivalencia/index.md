@@ -10,7 +10,7 @@ toc: true
 ---
 Inicia un pedido de equivalencias para que **Siglo 21** te reconozca la o las materias que cursaste y aprobaste en la misma o en otra institución a través del **Portal de Equivalencias**.
 
-1. Ingresa a https://tusestudiosprevios.21.edu.ar. La ventana **Solicitud de equivalencias** que se despliega por defecto te informa acerca de los 5 pasos que necesitas realizar para completar tu solicitud:
+1. Ingresa a **_https://tusestudiosprevios.21.edu.ar_**. La ventana **Solicitud de equivalencias** que se despliega por defecto te informa acerca de los 5 pasos que necesitas realizar para completar tu solicitud:
   + **Paso # 1:** Completa tus datos personales y de contacto
   + **Paso # 2:** Selecciona institución, Carrera y Plan de Estudios de donde vienes
   + **Paso # 3:** Selecciona las materias que tienes aprobadas y carga aquellas materias que no estén en el listado
