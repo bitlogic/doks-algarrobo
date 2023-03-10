@@ -51,12 +51,12 @@ Visualiza los datos ingresados en una solicitud de equivalencias la cual determi
 
 ## Solicitud de Equivalencias y consulta de Estado de solicitud
 
-Solicita que Siglo 21 evalúe la adjudicación de equivalencias de materias o actividades que hayas cursado en Siglo 21 o en cualquier otra universidad o institución a través del **Gestor de Equivalencias** y realiza el seguimiento de tu solicitud.
+Solicita que Siglo 21 evalúe la adjudicación de equivalencias de materias o actividades que hayas cursado en Siglo 21 o en cualquier otra universidad o institución a través del **Portal de Equivalencias** y realiza el seguimiento de tu solicitud.
 
 #### Realizar solicitud de Equivalencia
 
-Envía tu solicitud de equivalencias a Siglo 21 mediante el **Gestor de Equivalencias**. [Realizar solicitud →]({{< relref "/realizar-solicitud-de-equivalencia" >}} "Realizar solicitud")
+Envía tu solicitud de equivalencias a Siglo 21 mediante el **Portal de Equivalencias**. [Realizar solicitud →]({{< relref "/realizar-solicitud-de-equivalencia" >}} "Realizar solicitud")
 
 #### Consultar Estado de solicitud de Equivalencia
 
-Realiza el seguimiento de tu solicitud de equivalancias mediante el **Gestor de Equivalencias**. [Consultar Estado de solicitud →]({{< relref "/consultar-estado-solicitud-de-equivalencia" >}} "Consultar Estaddo de solicitud")
+Realiza el seguimiento de tu solicitud de equivalencias mediante el **Portal de Equivalencias**. [Consultar Estado de solicitud →]({{< relref "/consultar-estado-solicitud-de-equivalencia" >}} "Consultar Estaddo de solicitud")

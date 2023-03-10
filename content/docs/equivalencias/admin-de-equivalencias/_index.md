@@ -1,6 +1,6 @@
 ---
 title: "Revisar solicitudes de equivalencias, gestionar reglas de equivalencias y administrar instituciones educativas"
-lead: "Mediante el Administrador de Equivalencias se pueden administrar las reglas de equivalencias y las instituciones pertinentes como así también revisar las solicitudes de equivalancias de los estudiantes"
+lead: "Mediante el Administrador de Equivalencias se pueden administrar las reglas de equivalencias y las instituciones pertinentes como así también revisar las solicitudes de equivalencias de los estudiantes"
 menu:
   docs:
     parent: "Equivalencias"
@@ -10,36 +10,39 @@ toc: true
 
 #### Añadir Regla de Equivalencia
 
-Con esta funcionalidad podrás TEST TEST TEST TEST localizar para luego desplegar, y si fuera necesario editar, información acerca de una carrera en particular. [Añadir →]({{< relref "/modulo-equivalencias-añadir-regla" >}} "Añadir Regla de Equivalencia")
+Con esta funcionalidad podrás agregar Reglas de Equivalencia para establecer cuáles son la o las Materias o Actividades aprobadas en una institución _de Origen_ que serán reconocidas como aprobadas por una institución _de Destino_. [Añadir →]({{< relref "/modulo-equivalencias-añadir-regla" >}} "Añadir Regla de Equivalencia")
 
 #### Editar Regla de Equivalencia
 
-Con esta funcionalidad podrás TEST TEST TEST TEST localizar para luego desplegar, y si fuera necesario editar, información acerca de una carrera en particular. [Editar →]({{< relref "/modulo-equivalencias-editar-regla" >}} "Editar Regla de Equivalencia")
+Con esta funcionalidad podrás edita **Reglas de Equivalencia** para cambiar algunos de los componentes que indican cuáles son las **Materias** o **Actividades** aprobadas en una institución _de Origen_ que serán reconocidas como aprobadas por una institución _de Destino_. [Editar →]({{< relref "/modulo-equivalencias-editar-regla" >}} "Editar Regla de Equivalencia")
+
 
 #### Visualizar Regla de Equivalencia
 
-Con esta funcionalidad podrás TEST TEST TEST TEST localizar para luego desplegar, y si fuera necesario editar, información acerca de una carrera en particular. [Visualizar →]({{< relref "/modulo-equivalencias-visualizar-regla" >}} "Visualizar Regla de Equivalencia")
+Con esta funcionalidad podrás visualizar **Reglas de Equivalencia** para conocer cuáles son la o las **Materias** o **Actividades** aprobadas en una institución _de Origen_ que serán reconocidas como aprobadas por una institución _de Destino_. [Visualizar →]({{< relref "/modulo-equivalencias-visualizar-regla" >}} "Visualizar Regla de Equivalencia")
 
 #### Añadir Institución
 
-Con esta funcionalidad podrás TEST TEST TEST TEST localizar para luego desplegar, y si fuera necesario editar, información acerca de una carrera en particular. [Añadir →]({{< relref "/modulo-instituciones-añadir-institucion" >}} "Añadir Institución")
+Con esta funcionalidad podrás agrega las universidades o instituciones educativas con sus diferentes **Carreras** y **Planes de Estudio** que serán parte de las **Reglas de equivalencia**. [Añadir →]({{< relref "/modulo-instituciones-añadir-institucion" >}} "Añadir Institución")
 
 #### Editar Institución
 
-Con esta funcionalidad podrás TEST TEST TEST TEST localizar para luego desplegar, y si fuera necesario editar, información acerca de una carrera en particular. [Editar →]({{< relref "/modulo-instituciones-editar-institucion" >}} "Editar Institución")
+Con esta funcionalidad podrás editar una institución al modificar su **Nombre** o su condición de institución _de Origen_ o _de Destino_ o al añadir una **Carrera** con su respectivo **Plan de Estudio**. [Editar →]({{< relref "/modulo-instituciones-editar-institucion" >}} "Editar Institución")
 
 #### Eliminar Institución
 
-Con esta funcionalidad podrás TEST TEST TEST TEST localizar para luego desplegar, y si fuera necesario editar, información acerca de una carrera en particular. [Eliminar →]({{< relref "/modulo-instituciones-eliminar-institucion" >}} "Eliminar Institución")
+Elimina instituciones con sus diferentes **Carreras** y respectivos **Planes de Estudio** siempre y cuando no exista ninguna **Regla de equivalencia** que involucre a la institución a eliminar. [Eliminar →]({{< relref "/modulo-instituciones-eliminar-institucion" >}} "Eliminar Institución")
+
 
 #### Visualizar Institución
 
-Con esta funcionalidad podrás TEST TEST TEST TEST localizar para luego desplegar, y si fuera necesario editar, información acerca de una carrera en particular. [Visualizar →]({{< relref "/modulo-instituciones-visualizar-institucion" >}} "Visualizar Institución")
+Visualiza las universidades o instituciones educativas con sus diferentes **Carreras** y **Planes de Estudio** que a su vez son o serán parte de las **Reglas de equivalencia**. [Visualizar →]({{< relref "/modulo-instituciones-visualizar-institucion" >}} "Visualizar Institución")
 
 #### Visualizar Solicitud de Equivalencia
 
-Con esta funcionalidad podrás TEST TEST TEST TEST localizar para luego desplegar, y si fuera necesario editar, información acerca de una carrera en particular. [Visualizar →]({{< relref "/modulo-solicitud-equivalencia-visualizar-solicitud" >}} "Visualizar Solicitud")
+A través del Módulo **Pedido de Equivalencia** podrás visualizar las solicitudes de equivalencias que ha recibido la universidad para su análisis y acreditación. [Visualizar →]({{< relref "/modulo-solicitud-equivalencia-visualizar-solicitud" >}} "Visualizar Solicitud")
 
 #### Revisar Solicitud de Equivalencia
 
-Con esta funcionalidad podrás TEST TEST TEST TEST localizar para luego desplegar, y si fuera necesario editar, información acerca de una carrera en particular. [Revisar →]({{< relref "/modulo-solicitud-equivalencia-revisar-solicitud" >}} "Revisar Solicitud")
+Revisa minuciosamente la documentación presentada por los estudiantes que realizaron **Pedidos de equivalencia** para luego aprobarla o rechazarla. [Revisar →]({{< relref "/modulo-solicitud-equivalencia-revisar-solicitud" >}} "Revisar Solicitud")
+

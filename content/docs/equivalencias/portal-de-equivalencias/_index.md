@@ -10,8 +10,8 @@ toc: true
 
 #### Realizar una solicitud de Equivalencia
 
-Con esta funcionalidad podrás TEST TEST TEST TEST localizar para luego desplegar, y si fuera necesario editar, información acerca de una carrera en particular. [Solicitar →]({{< relref "/realizar-solicitud-de-equivalencia" >}} "Solicitar Equivalencia")
+Si aspiras a a ser estudiante en Siglo 21 y ya tienes materias aprobadas en nuestra universidad o en otra institución, podrás solicitar que se evalúe la adjudicación de equivalencias en **Siglo 21** a través del **Portal de Equivalencias**. [Solicitar →]({{< relref "/realizar-solicitud-de-equivalencia" >}} "Solicitar Equivalencia")
 
 #### Consultar el Estado de una solicitud de Equivalencia
 
-Con esta funcionalidad podrás TEST TEST TEST TEST localizar para luego desplegar, y si fuera necesario editar, información acerca de una carrera en particular. [Consultar Estado →]({{< relref "/consultar-estado-solicitud-de-equivalencia" >}} "Consultar Estado de Solicitud")
+Consulta el **Estado** de tu pedido de equivalencias ingresando al **Portal de Equivalencias** o directamente mediante el enlace proporcionado por la app al ingresar tu solicitud. [Consultar Estado →]({{< relref "/consultar-estado-solicitud-de-equivalencia" >}} "Consultar Estado de Solicitud")
