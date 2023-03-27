@@ -10,9 +10,10 @@ toc: true
 ---
 El **Administrador de carreras** te permite crear materias para luego agregárselas a un **Plan de Estudio** de una carrera determinada.
 
-1. Haz clic en el ícono **Materias** ubicado en el panel izquierdo de la pantalla del **Administrador de carreras** para abrir el **Módulo “Materias”**.
-2. En la pantalla que se despliega, para crear una materia nueva, haz clic en el botón con el **signo +** ubicado en el extremo inferior derecho de la ventana. En seguida se desplegará un ícono. Haz clic en este ícono para desplegar el formulario **Crear materia**.
-3. En la sección **Datos**, ingresa la información necesaria para la creación de la nueva materia:
+1. Asegúrate de estar conectado a la red de Siglo 21 o a la VPN y luego ingresa a **https://admincarreras.uesiglo21.edu.ar** e introduce las credenciales que utilizas para entrar al SGU. A continuación, se abrirá la app **Administrador de carreras**.
+2. Haz clic en el ícono **Materias** ubicado en el panel izquierdo de la pantalla del **Administrador de carreras** para abrir el **Módulo “Materias”**.
+3. En la pantalla que se despliega, para crear una materia nueva, haz clic en el botón con el **signo +** ubicado en el extremo inferior derecho de la ventana. En seguida se desplegará un ícono. Haz clic en este ícono para desplegar el formulario **Crear materia**.
+4. En la sección **Datos**, ingresa la información necesaria para la creación de la nueva materia:
     - **Área disciplinar**: Selecciona el área a la que pertenece la materia que estás creando mediante la lista desplegable. Por ejemplo, **Ciencias de la comunicación**.
     - **Código**: El **Administrador de carreras** le asignará un código a la materia que se forma con el código del **Área disciplinar** más un número que es el más alto que el sistema encuentra – y que podrás cambiar si fuera necesario.
     - **Descripción**: Ingresa el nombre de la materia, por ejemplo, _Periodismo deportivo_.
@@ -20,7 +21,7 @@ El **Administrador de carreras** te permite crear materias para luego agregárse
     - **Créditos**: Introduce el número de créditos que serán otorgados una vez que el estudiante aprueba la materia.
     - **Horas reloj / cátedra**: Ingresa el número de horas reloj o cátedra que insumirá cursar la materia.
     - **Tipo de materia:** Indica si es una materia “De Proceso”, EFIP, MIA, etc.
-4. Haz clic en el botón **Guardar** para salvar los cambios. Si no hubo ningún problema, tales como un **Código** o **Descripción** duplicado, los campos del formulario se limpiarán y se desplegará el mensaje _"La materia se creó con éxito."_
+5. Haz clic en el botón **Guardar** para salvar los cambios. Si no hubo ningún problema, tales como un **Código** o **Descripción** duplicado, los campos del formulario se limpiarán y se desplegará el mensaje _"La materia se creó con éxito."_
 
 {{<note text="Si el Código o la Descripción ya hubiesen sido utilizados, el sistema desplegará el mensaje “El código de la materia ya existe.” o “La Descripción de la materia ya existe.”">}}
 <br>

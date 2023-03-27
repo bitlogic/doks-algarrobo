@@ -10,7 +10,7 @@ toc: true
 ---
 Para crea carreras nuevas con sus características y **Plan de Estudio** propios, comienza completando un formulario con los requisitos mínimos.
 
-1. Ingresa a **https://admincarreras.uesiglo21.edu.ar** e introduce las credenciales que utilizas para entrar al SGU para desplegar la app **Administrador de Carreras**.
+1. Asegúrate de estar conectado a la red de Siglo 21 o a la VPN y luego ingresa a **https://admincarreras.uesiglo21.edu.ar** e introduce las credenciales que utilizas para entrar al SGU. A continuación, se abrirá la app **Administrador de carreras**.
 2. Haz clic en el botón verde con el signo **+** que se encuentra en la esquina inferior derecha de la pantalla para desplegar el ícono **Crear carrera**. Haz clic en este ícono.
 3. A continuación se desplegará el formulario **Crear carrera**. Completa como mínimo los campos requeridos que están señalados con un asterisco: **Descripción**, **Código**, **Nivel de Estudio**, **Decanato** y **Título final**. Completa el **Título Intermedio** y la **Orientación** según corresponda. 
 
@@ -25,7 +25,7 @@ Para crea carreras nuevas con sus características y **Plan de Estudio** propios
 9. Haz clic en el botón **Guardar**. Se desplegará el mensaje _“La carrera se creó con éxito”_, los campos completados se limpiarán, y podrás escoger entre crear otra carrera o agregar un **Plan de Estudios** a la carrera recién creada.
 10. Para verificar que la carrera ha sido creada, cierra el Formulario **Crear carrera** para volver a la ventana **Administrador de carreras**. Una vez allí, haz una búsqueda utilizando al menos los filtros **Nivel de estudio** y **Descripción o código de carrera** para visualizar la carrera recién creada.
 
-{{<note text="El Estado de la carrera recién creada será Borrador debido a que aun no tiene un Plan de Estudio asociado vigente (es decir, con Resolución Ministerial). Tener la carrera en Estado BORRADOR te permitirá ir diseñando un Plan de Estudio, y una vez que dicho Plan esté completo, generar una resolución rectoral para luego solicitar la resolución ministerial.">}}
+{{<note text="El Estado de la carrera recién creada será Borrador debido a que aun no tiene un Plan de Estudio asociado vigente (es decir,  con Resolución Ministerial). Tener la carrera en Estado BORRADOR te permitirá ir diseñando un Plan de Estudio, y una vez que dicho Plan esté completo, generar una resolución rectoral para luego solicitar la resolución ministerial.">}}
 </b>
 
 Para continuar con la creación de esta carrera, deberás añadir un Plan de estudio. Podrás hacerlo a partir de cualquiera de las siguientes dos instancias:

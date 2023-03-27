@@ -10,7 +10,7 @@ toc: true
 ---
 El **Administrador de carreras** permite buscar un **Plan de Estudio** de una carrera determinada para clonarlo y así utilizar como base los atributos y las materias que lo componen.
 
-1. Ingresa a **https://admincarreras.uesiglo21.edu.ar** e introduce las credenciales que utilizas para entrar al SGU y así desplegar la app **Administrador de Carreras**.
+1. Asegúrate de estar conectado a la red de Siglo 21 o a la VPN y luego ingresa a **https://admincarreras.uesiglo21.edu.ar** e introduce las credenciales que utilizas para entrar al SGU. A continuación, se abrirá la app **Administrador de carreras**.
 2. Localiza la carrera cuyo **Plan de Estudio** deseas clonar primero mediante el filtro **Nivel de estudio** para que se habiliten los demás filtros disponibles y el botón de búsqueda. Utiliza los demás filtros disponibles para así limitar los resultados y haz clic en el botón **Buscar**.
 3. Una vez localizada la carrera, haz clic sobre la misma para desplegar los diferentes planes de estudio que tenga asociados y localiza el **Plan de Estudio** que deseas clonar.
 4. Selecciona el **Plan de Estudio** que deseas clonar y haz clic en el ícono **Clonar plan**.

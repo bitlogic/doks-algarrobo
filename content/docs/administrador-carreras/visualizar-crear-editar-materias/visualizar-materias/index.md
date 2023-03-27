@@ -10,8 +10,9 @@ toc: true
 ---
 El **Administrador de carreras** permite visualizar una **Materia** para obtener información acerca de ella o para cerciorarte de que fue agregada con éxito.
 
-1. Haz clic en el ícono **Materias** ubicado en el panel izquierdo de la pantalla del _“Administrador de carreras”_ para abrir el **Módulo “Materias”**.
-2. Localiza la materia a visualizar. Para ello debes ingresar al menos el **Tipo de materia** para habilitar los demás filtros y activar el botón **Buscar**.
+1. Asegúrate de estar conectado a la red de Siglo 21 o a la VPN y luego ingresa a **https://admincarreras.uesiglo21.edu.ar** e introduce las credenciales que utilizas para entrar al SGU. A continuación, se abrirá la app **Administrador de carreras**.
+2. Haz clic en el ícono **Materias** ubicado en el panel izquierdo de la pantalla del _“Administrador de carreras”_ para abrir el **Módulo “Materias”**.
+3. Localiza la materia a visualizar. Para ello debes ingresar al menos el **Tipo de materia** para habilitar los demás filtros y activar el botón **Buscar**.
 
 {{<note text="Si no conoces el “Tipo de materia” podrás seleccionar la opción “Todos”.">}}
 <br>

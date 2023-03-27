@@ -10,11 +10,12 @@ toc: true
 ---
 El **Administrador de carreras** te permite editar una materia al modificar algunos de sus atributos y el o los Programas asociados.
 
-1. Haz clic en el ícono **Materias** ubicado en el panel izquierdo de la pantalla del **Administrador de carreras** para abrir el **Módulo “Materias”**.
-2. Localiza la materia a editar mediante la aplicación de los filtros tales como **Descripción** o **código de materia** o **Estado de materia** (Activo o Inactivo).
-3. Una vez localizada la materia, haz clic sobre la misma. A continuación, se desplegará debajo del nombre de la materia una sección donde se indica el **Estado** (Activo o Inactivo), el **Tipo de Materia** (por ejemplo, “NP”), y el **Área disciplinar**, y en el extremo derecho, un sector con **Acciones** entre las cuales encontrarás el ícono de lápiz que habilitará la edición.
-4. Haz clic en este ícono de lápiz. A continuación, se desplegará la ventana **Editar materia** en donde podrás editar algunos campos, tales como los campos **Responsable** -que señala quién es la persona responsable de la materia, el número de **Créditos**, el número de **Horas reloj / cátedra**, y el **Estado de materia**.
-5. Luego de modificar el o los campos necesarios, haz clic en el botón **Guardar** para salvar los cambios. El **Administrador de carreras** desplegará el mensaje _“La materia se editó con éxito”_.
+1. Asegúrate de estar conectado a la red de Siglo 21 o a la VPN y luego ingresa a **https://admincarreras.uesiglo21.edu.ar** e introduce las credenciales que utilizas para entrar al SGU. A continuación, se abrirá la app **Administrador de carreras**.
+2. Haz clic en el ícono **Materias** ubicado en el panel izquierdo de la pantalla del **Administrador de carreras** para abrir el **Módulo “Materias”**.
+3. Localiza la materia a editar mediante la aplicación de los filtros tales como **Descripción** o **código de materia** o **Estado de materia** (Activo o Inactivo).
+4. Una vez localizada la materia, haz clic sobre la misma. A continuación, se desplegará debajo del nombre de la materia una sección donde se indica el **Estado** (Activo o Inactivo), el **Tipo de Materia** (por ejemplo, “NP”), y el **Área disciplinar**, y en el extremo derecho, un sector con **Acciones** entre las cuales encontrarás el ícono de lápiz que habilitará la edición.
+5. Haz clic en este ícono de lápiz. A continuación, se desplegará la ventana **Editar materia** en donde podrás editar algunos campos, tales como los campos **Responsable** -que señala quién es la persona responsable de la materia, el número de **Créditos**, el número de **Horas reloj / cátedra**, y el **Estado de materia**.
+6. Luego de modificar el o los campos necesarios, haz clic en el botón **Guardar** para salvar los cambios. El **Administrador de carreras** desplegará el mensaje _“La materia se editó con éxito”_.
 
 **Edición de Programas de una Materia**
 

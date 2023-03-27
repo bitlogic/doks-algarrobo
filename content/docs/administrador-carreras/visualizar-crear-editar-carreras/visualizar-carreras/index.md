@@ -10,7 +10,7 @@ toc: true
 ---
 Para visualizar información acerca de una carrera como por ejemplo los Planes de Estudio y las materias que componen cada uno de estos planes, primero debes localizarla mediante una búsqueda que puedes optimizar mediante el uso de los diferentes filtros disponibles.
 
-1. Ingresa a **https://admincarreras.uesiglo21.edu.ar** e introduce las credenciales que utilizas para entrar al SGU para desplegar la app **Administrador de Carreras**.
+1. Asegúrate de estar conectado a la red de Siglo 21 o a la VPN y luego ingresa a **https://admincarreras.uesiglo21.edu.ar** e introduce las credenciales que utilizas para entrar al SGU. A continuación, se abrirá la app **Administrador de carreras**.
 2. Para iniciar una búsqueda de una **Carrera** en particular, debes localizarla mediante el uso de los filtros disponibles para así limitar los resultados de la búsqueda. Puedes filtrar por:
    
     *Filtros en relación a la carrera*:

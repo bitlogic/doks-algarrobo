@@ -10,7 +10,7 @@ toc: true
 ---
 El **Administrador de carreras** permite editar el **Plan de Estudio** de una carrera determinada, lo que significa que puedes activar un **Plan de Estudio**- que su Estado pase de Borrador a Activo – o modificar ciertos atributos del plan. Lo primero que debes hacer es localizar la carrera, y luego el **Plan de Estudio** a editar.
 
-1. Ingresa a https://admincarreras.uesiglo21.edu.ar e introduce las credenciales que utilizas para entrar al SGU para desplegar la ventana **Administrador de carreras**.
+1. Asegúrate de estar conectado a la red de Siglo 21 o a la VPN y luego ingresa a **https://admincarreras.uesiglo21.edu.ar** e introduce las credenciales que utilizas para entrar al SGU. A continuación, se abrirá la app **Administrador de carreras**.
 2. Localiza la carrera cuyo **Plan de Estudio** necesites editar. Para ello, primero utiliza el filtro **Nivel de estudio** para que se habiliten los demás filtros disponibles y el botón de búsqueda. Luego, utiliza los demás filtros para así limitar los resultados de la búsqueda. Haz clic en el botón **Buscar**.
 3. Una vez localizada la carrera, haz clic sobre la misma para desplegar los diferentes **Planes de Estudio** que tenga y localiza el que deseas editar.
 4. Una vez localizado el **Plan de Estudio** que deseas editar, podrás realizar modificaciones al plan o, si el Estado del plan es **Borrador**, podrás activarlo.
