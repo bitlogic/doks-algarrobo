@@ -37,11 +37,12 @@ Inicia un pedido de equivalencias para que **Siglo 21** te reconozca la o las ma
 12. A continuación, se desplegará la pantalla para completar el <span style="color:red">**Paso# 4:** _Completa los datos académicos de todas las materias que quedaron seleccionadas y cargadas en el paso anterior_</span>. Aquí debes ingresar las notas que obtuviste en cada una de las materias que agregaste en el paso anterior, la fecha en la que obtuviste dicha nota, y el Folio y Libro donde figura la nota. En caso de que hubieras ingresado una materia de forma manual, debes cargar el **Programa de la Materia**.
 13. Una vez completadas todas las notas, fechas, y Folio / Libro se habilitará el botón **Siguiente**. Haz clic en este botón para proceder al **Paso # 5**.
 14. En este <span style="color:red">**Paso # 5:** _Adjunta la documentación obligatoria (Documento Único (DU), Analítico Oficial y Plan de Estudio)_</span>, deberás cargar la documentación requerida.
-15. Una vez subida toda la documentación, se habilitará el botón **Finalizar**. Haz clic en este botón terminar el proceso de solicitud de equivalencias. A continuación se desplegará un mensaje anunciando que tu solicitud se registró correctamente y que la universidad S21 la analizará en detalle.
+15. Una vez subida toda la documentación, accede al link **_Términos y condiciones_** relacionados con la información ingresada y, si estás de acuerdo con los mismos, haz clic en el casillero **Acepto los términos y condiciones**. 
+16. Una vez subida toda la documentación, se habilitará el botón **Finalizar**. Haz clic en este botón terminar el proceso de solicitud de equivalencias. A continuación se desplegará un mensaje anunciando que tu solicitud se registró correctamente y que la universidad S21 la analizará en detalle.
 
 El **Portal de Equivalencias** te proporcionará un **vínculo** que podrás guardar en tu navegador como _“Favoritos”_ para consultar el **Estado** de tu solicitud cuantas veces quieras, como así también un **Código** que si bien NO deberás ingresarlo si copias y guardas el enlace, sí deberás hacerlo cuando intentes consultar el **Estado** de tu pedido de equivalencias ingresando a la app Equivalencias.
 
-16. Haz clic en el **vínculo** para verificar que abre la solicitud de equivalencias que acabas de enviar.
+17. Haz clic en el **vínculo** para verificar que abre la solicitud de equivalencias que acabas de enviar.
 
 {{<note text="También podrás hacer clic derecho en el vínculo para copiarlo y luego pégalo en la barra de direcciones de tu buscador y agregarlo a tus <b>Favoritos</b> para poder volver a él cuando necesites consultar el estado de tu solicitud de equivalencias.">}}
 
@@ -52,7 +53,7 @@ En la sección inferior de la pantalla podrás ver listadas la institución o un
 {{<warning text="Si has cerrado esta ventana que abriste con el vínculo proporcionado y no lo has guardado, podrás acceder a tu solicitud de Equivalencias ingresando nuevamente a <i>tusestudiosprevios.21.edu.ar</i> y luego haciendo clic en <b>Buscar solicitud</b>.">}}
 </b>
 
-17. Si has cerrado la ventana que abrió el vínculo proporcionado por el **Portal de Equivalencias**, ingresa nuevamente a **_tusestudiosprevios.21.edu.ar_** y haz clic en **Buscar solicitud**. Luego, ingresa el **Número de Seguimiento** de tu **Pedido de Equivalencias** y tu tipo y número de documento.
+18. Si has cerrado la ventana que abrió el vínculo proporcionado por el **Portal de Equivalencias**, ingresa nuevamente a **_tusestudiosprevios.21.edu.ar_** y haz clic en **Buscar solicitud**. Luego, ingresa el **Número de Seguimiento** de tu **Pedido de Equivalencias** y tu tipo y número de documento.
 18. Una vez completados los datos, se habilitará el botón **Buscar**. Haz clic en este botón para localizar tu solicitud de equivalencias. A continuación, podrás ver:
     
      + la institución o universidad a la que asististe anteriormente

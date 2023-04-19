@@ -10,7 +10,7 @@ toc: true
 
 #### Añadir Regla de Equivalencia
 
-Con esta funcionalidad podrás agregar **Reglas de Equivalencia** para establecer cuáles son la o las Materias o Actividades aprobadas en una institución _de Origen_ que serán reconocidas como aprobadas por una institución _de Destino_. [Añadir →]({{< relref "/modulo-equivalencias-añadir-regla" >}} "Añadir Regla de Equivalencia")
+Con esta funcionalidad podrás agregar Reglas de Equivalencia para establecer cuáles son la o las Materias o Actividades aprobadas en una institución _de Origen_ que serán reconocidas como aprobadas por una institución _de Destino_. [Añadir →]({{< relref "/modulo-equivalencias-añadir-regla" >}} "Añadir Regla de Equivalencia")
 
 #### Editar Regla de Equivalencia
 
