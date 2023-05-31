@@ -106,7 +106,7 @@ Para dar de alta a un **Programa**, asegúrate de obtener el archivo que lista:
 
 [Editar carreras →]({{< relref "/editar-carreras" >}} "Editar carreras")
 
-[Visualizar Plan de Estudio →]({{< relref "/visualizar-plan-de-estudio" >}} "Visualizar Plan de Estudio")
+[Visualizar Plan de Estudio →]({{< relref "/visualizar-plan-estudio" >}} "Visualizar Plan de Estudio")
 
 [Diseñar Plan de Estudio →]({{< relref "/diseñar-plan-de-estudio" >}} "Diseñar Plan de Estudio")
 

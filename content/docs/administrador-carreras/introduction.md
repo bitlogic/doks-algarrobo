@@ -53,7 +53,7 @@ El "Administrador de carreras" permite la visualización y modificación de **Pl
 
 #### Visualizar un plan de estudio
 
-Localiza una **Plan de Estudio** y visualiza detalles tales como el **Título final** a obtener, el **Título intermedio** si lo hubiere, la **Resolución rectoral** y la **Resolución ministerial** además de todas las materias que conforman la carrera de acuerdo a dicho Plan de estudios. [Visualizar →]({{< relref "/visualizar-plan-de-estudio" >}} "Visualizar Plan de Estudio")
+Localiza una **Plan de Estudio** y visualiza detalles tales como el **Título final** a obtener, el **Título intermedio** si lo hubiere, la **Resolución rectoral** y la **Resolución ministerial** además de todas las materias que conforman la carrera de acuerdo a dicho Plan de estudios. [Visualizar →]({{< relref "/visualizar-plan-estudio" >}} "Visualizar Plan de Estudio")
 
 #### Editar un plan de estudio
 

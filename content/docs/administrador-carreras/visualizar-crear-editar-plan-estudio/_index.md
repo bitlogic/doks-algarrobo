@@ -11,7 +11,7 @@ toc: true
 
 #### Visualización de planes de estudio
 
-Localiza una **Plan de Estudio** y visualiza detalles tales como el **Título final** a obtener, el **Título intermedio** si lo hubiere, la **Resolución rectoral** y la **Resolución ministerial** además de todas las materias que conforman la carrera de acuerdo al Plan de estudios localizado. [Visualizar →]({{< relref "/visualizar-plan-de-estudio" >}} "Visualizar Plan de Estudio")
+Localiza una **Plan de Estudio** y visualiza detalles tales como el **Título final** a obtener, el **Título intermedio** si lo hubiere, la **Resolución rectoral** y la **Resolución ministerial** además de todas las materias que conforman la carrera de acuerdo al Plan de estudios localizado. [Visualizar →]({{< relref "/visualizar-plan-estudio" >}} "Visualizar Plan de Estudio")
 
 
 #### Diseño de planes de estudio

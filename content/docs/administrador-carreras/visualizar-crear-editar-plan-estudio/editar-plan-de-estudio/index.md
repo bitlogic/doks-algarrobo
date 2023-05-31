@@ -18,7 +18,8 @@ El **Administrador de carreras** permite editar el **Plan de Estudio** de una ca
 {{<note text="Para que la carrera entre en vigencia, deberá tener al menos un Plan de Estudio cuyo Estado sea “Activo”.">}}
 </b>
 
-**Activar un Plan de Estudio**
+#### Activar un Plan de Estudio
+
 1. Haz clic en el ícono de lápiz para proceder a editar el **Plan de Estudio**.
 2. En la pantalla siguiente, localiza el campo **Estado** y selecciona **ACTIVO**.
 3. Haz clic en el botón **Editar Materias**. A continuación, si aún no hubieses completado las **Resoluciones**, se desplegará el mensaje de advertencia _"Se requiere al menos una resolución"_. Completa esta sección para poder activar el **Plan de Estudios**.
@@ -32,25 +33,40 @@ A continuación se desplegará una sección para completar el número de la **Re
 6. Si no hubiera que realizar ningún cambio en cuanto a las materias y titulaciones, haz clic en el botón **Finalizar**.
 7. Corrobora que el **Estado** del **Plan de Estudio** que has activado sea **Activo** localizando nuevamente la carrera y el **Plan de Estudio** correspondiente.
 
-**Editar un Plan de Estudio**
+#### Editar un Plan de Estudio
+
 Además de activar un **Plan de Estudios**, podrás modificarlo al agregar o quitar materias o al modificar la configuración de dichas materias.
 
-{{<note text="Un Plan de Estudio cuyo Estado sea Activo no podrá editarse.">}}
+{{<note text="Un <b>Plan de Estudio</b> cuyo Estado sea <b>Activo</b> no podrá editarse.">}}
 </b>
 
 8. Una vez localizado el **Plan de Estudios** que deseas modificar, haz clic en el ícono de lápiz para proceder a editarlo. Por ejemplo, podrás editar la **Duración** de la materia.
 9. Una vez realizados los cambios necesarios, haz clic en el botón **Editar Materias** para guardarlos.
 10. En la ventana que se despliega podrás agregar o quitar materias – siempre que no sea correlativa de alguna otra materia que aún no has eliminado, y agregar o quitar segmentos para las diferentes titulaciones.
 
-{{<note text="Si no encontraras una materia – o si no puedes agregarla porque la carga de la materia no ha sido finalizada y la materia cuenta con un “Programa activo”, deberás ingresarla o editarla desde el Módulo de Materias. Para ello, dirígete a la sección “Crear Materias” (ver vínculo más abajo).">}}
+{{<note text="Si no encontraras una materia – o si no puedes agregarla porque la carga de la materia no ha sido finalizada y la materia cuenta con un <b>Programa activo</b>, deberás ingresarla o editarla desde el <b>Módulo de Materias</b>. Para ello, dirígete a la sección <b>Crear Materias</b> (ver vínculo más abajo).">}}
 </b>
 
-**Agregar materias a un Plan de Estudio**
-El Administrador de Carreras te permite agregar materias a un Plan de Estudio por segmentos que agrupan materias de acuerdo al título y orientaciones que otorga la carrera.
+11. De ser necesario, edita las **Materias Electivas I** y **II**. Para ello, haz clic en el ícono de **Edición** (con forma de lápiz).
+
+    A continuación, se desplegará la ventana desde donde podrás añadir o quitar materias, modificar el número de **Cuatrimestre** o la **cantidad de encuentros** ya establecidos para la **Materia Electiva I** o la **Materia Electiva II**.
+</br>
+    - Para quitar materias, simplemente haz clic en la pequeña cruz ubicada el extremo derecho de la materia.
+    - Para agregar materias, haz clic dentro del campo **Posibles materias** y comienza a escribir el nombre o parte del nombre de la materia.
+</br>
+</br>
+12. Apenas se realiza un cambio, la app habilitará el botón **Guardar**. Haz clic en este botón para salvar los cambios.
+
+El Administrador de Carreras te informará que la materia se editó en el **Plan de Estudios** con éxito.
+
+
+#### Agregar materias a un Plan de Estudio
+
+El **Administrador de Carreras** te permite agregar materias a un **Plan de Estudio** por segmentos que agrupan materias de acuerdo al título y orientaciones que otorga la carrera.
 
    **Añadir materias al Segmento agrupador de materias comunes inicial**
 
-   11. Añade materias al segmento común e inicial **Grupo de materias 1**. Para ello, haz clic en el campo desplegable **Materias** y escribe las primeras letras o al menos 3 letras que conformen el nombre de la materia. Inmediatamente después de agregar una materia, se desplegará una ventana con 3 Pestañas:
+   1.  Añade materias al segmento común e inicial **Grupo de materias 1**. Para ello, haz clic en el campo desplegable **Materias** y escribe las primeras letras o al menos 3 letras que conformen el nombre de la materia. Inmediatamente después de agregar una materia, se desplegará una ventana con 3 Pestañas:
        1.  _“Configuración de materia en el plan”_: aquí debes indicar los atributos de la **Materia**
        2.  _“Información de la materia”_: aquí podrás visualizar información extra acerca de la materia como por ejemplo criterios de regularidad
        3.  _“Programa activo de la materia”_: aquí obtendrás un resumen del **Programa activo**
@@ -73,7 +89,11 @@ El Administrador de Carreras te permite agregar materias a un Plan de Estudio po
 22. Añade o quita materias de los segmentos de una titulación u orientación en particular. Para ello, haz clic en el campo desplegable **Materias** y escribe las primeras letras o al menos 3 letras que conformen el nombre de la materia.
 23. Una vez agregada la materia del segmento escogido, haz clic en el botón **Guardar**. A continuación, podrás ver la materia agregada a dicho Segmento.
 24. Haz clic en el botón **Finalizar** para salvar la configuración del **Plan de Estudio**.
-25. La edición de un **Plan de estudio**, también contempla la edición de una materia que esté incluida en el plan. Para ello, haz clic en el ícono de lápiz situado en el extremo derecho de la materia para así modificar el **Cuatrimestre**, la **Cantidad de encuentros**, el **Tipo de materia**, para editar o agregar una o más **Correlativas**, como así también para indicar mediante los indicadores deslizables si, por ejemplo, la materia tiene habilitada la inscripción automática.
+25. La edición de un **Plan de estudio**, también contempla la edición de una materia que esté incluida en el plan. Para ello, haz clic en el ícono de lápiz situado en el extremo derecho de la materia para así modificar el **Cuatrimestre**, la **Cantidad de encuentros**, para editar o agregar una o más **Correlativas**, como así también para indicar mediante los indicadores deslizables si, por ejemplo, la materia tiene habilitada la inscripción automática.
+
+{{<note text="El <b>Tipo de materia</b> de todas las materias de un <b>Plan de Estudios</b> serán programáticas (obligatorias), con la excepción de las materias <b>Materia Electiva I</b> y <b>Materia Electiva II</b> que son las únicas que pueden ser categorizadas como <b>“Electivas</b>.">}}
+</b>
+
 26. También podrás _quitar_ la **Materia** asociada al **Plan de estudios** al seleccionar el ícono de eliminar ubicado junto al ícono de lápiz. El **_Administrador de Carreras_** desplegará una ventana para que confirmes que deseas eliminar la materia.
 
 
@@ -84,7 +104,7 @@ El Administrador de Carreras te permite agregar materias a un Plan de Estudio po
 
 [Editar carreras →]({{< relref "/editar-carreras" >}} "Editar carreras")
 
-[Visualizar Plan de Estudio →]({{< relref "/visualizar-plan-de-estudio" >}} "Visualizar Plan de Estudio")
+[Visualizar Plan de Estudio →]({{< relref "/visualizar-plan-estudio" >}} "Visualizar Plan de Estudio")
 
 [Diseñar Plan de Estudio →]({{< relref "/diseñar-plan-de-estudio" >}} "Diseñar Plan de Estudio")
 

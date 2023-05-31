@@ -29,7 +29,7 @@ El **Administrador de carreras** te permite editar una carrera al realizar modif
 
 [Crear carreras →]({{< relref "/crear-carreras" >}} "Crear carreras")
 
-[Visualizar Plan de Estudio →]({{< relref "/visualizar-plan-de-estudio" >}} "Visualizar Plan de Estudio")
+[Visualizar Plan de Estudio →]({{< relref "/visualizar-plan-estudio" >}} "Visualizar Plan de Estudio")
 
 [Clonar Plan de Estudio →]({{< relref "/clonar-plan-de-estudio" >}} "Clonar Plan de Estudio")
 

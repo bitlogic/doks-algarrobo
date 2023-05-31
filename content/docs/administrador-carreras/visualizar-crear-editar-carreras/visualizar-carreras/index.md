@@ -62,7 +62,7 @@ En cada **Cuatrimestre**, podrás hacer clic en la flecha ubicada junto a **Hora
 
 [Editar carreras →]({{< relref "/editar-carreras" >}} "Editar carreras")
 
-[Visualizar Plan de Estudio →]({{< relref "/visualizar-plan-de-estudio" >}} "Visualizar Plan de Estudio")
+[Visualizar Plan de Estudio →]({{< relref "/visualizar-plan-estudio" >}} "Visualizar Plan de Estudio")
 
 [Clonar Plan de Estudio →]({{< relref "/clonar-plan-de-estudio" >}} "Clonar Plan de Estudio")
 

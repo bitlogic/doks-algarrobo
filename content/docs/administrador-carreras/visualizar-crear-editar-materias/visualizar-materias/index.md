@@ -50,7 +50,8 @@ Luego de localizar una materia, junto al ícono de edición se observa el ícono
    - La metodología
    - El sistema de evaluación
 
-
+7. Haz clic en el botón **Descargar** ubicado en la parte superior del Programa a la derecha para _exportar_ u obtener una copia en formato **PDF del Programa**.
+8. Haz clic en el botón **Imprimir** para guardar el **Programa** en tu computadora o en algún Drive de tu elección.
 
 ## Véase también
 [Visualizar carreras →]({{< relref "/visualizar-carreras" >}} "Visualizar carreras")
@@ -59,7 +60,7 @@ Luego de localizar una materia, junto al ícono de edición se observa el ícono
 
 [Editar carreras →]({{< relref "/editar-carreras" >}} "Editar carreras")
 
-[Visualizar Plan de Estudio →]({{< relref "/visualizar-plan-de-estudio" >}} "Visualizar Plan de Estudio")
+[Visualizar Plan de Estudio →]({{< relref "/visualizar-plan-estudio" >}} "Visualizar Plan de Estudio")
 
 [Diseñar Plan de Estudio →]({{< relref "/diseñar-plan-de-estudio" >}} "Diseñar Plan de Estudio")
 

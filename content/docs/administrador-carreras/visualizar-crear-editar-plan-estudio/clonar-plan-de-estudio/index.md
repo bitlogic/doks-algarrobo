@@ -16,7 +16,8 @@ El **Administrador de carreras** permite buscar un **Plan de Estudio** de una ca
 4. Selecciona el **Plan de Estudio** que deseas clonar y haz clic en el ícono **Clonar plan**.
 5. En la pantalla que se despliega, selecciona una **Modalidad** y un **Plan de Estudios** – ya que son los datos que combinados indefectiblemente deben ser diferentes, y luego haz clic en el botón **Agregar**. A continuación, el **Administrador de carreras** te llevará a la página inicial donde se lista la carrera y todos sus **Planes de Estudio**.
 6. Realiza una búsqueda del **Plan de Estudios** recién clonado – cuyo Estado será de **Borrador**, para revisarlo y editar lo que sea necesario.
-7. Edita si fuera necesario el **Plan de Estudio** recién clonado en la pantalla de edición del plan. Para más detalles acerca de cómo editar un **Plan de Estudio**, dirígete a la sección _Editar Plan de Estudio_ (ver vínculo más abajo).
+7. Abre el **Plan de Estudio** recién clonado utilizando el ícono **Más información**.
+8. Edita si fuera necesario el **Plan de Estudio** recién clonado en la pantalla de edición del plan. Para más detalles acerca de cómo editar un **Plan de Estudio**, dirígete a la sección _Editar Plan de Estudio_ (ver vínculo más abajo).
 
 
 ## Véase también
@@ -26,7 +27,7 @@ El **Administrador de carreras** permite buscar un **Plan de Estudio** de una ca
 
 [Editar carreras →]({{< relref "/editar-carreras" >}} "Editar carreras")
 
-[Visualizar Plan de Estudio →]({{< relref "/visualizar-plan-de-estudio" >}} "Visualizar Plan de Estudio")
+[Visualizar Plan de Estudio →]({{< relref "/visualizar-plan-estudio" >}} "Visualizar Plan de Estudio")
 
 [Diseñar Plan de Estudio →]({{< relref "/diseñar-plan-de-estudio" >}} "Diseñar Plan de Estudio")
 
