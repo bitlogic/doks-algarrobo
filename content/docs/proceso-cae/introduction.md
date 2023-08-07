@@ -17,9 +17,9 @@ Una vez que hayas regularizado la materia **Seminario Final** (Grado) o **Trabaj
 ## Docentes
 #### Iniciar proceso CAE - Docentes
 
-La app Proceso CAE te facilitará la gestión del Trabajo Práctico (TP) correspondiente a la materia del tipo Trabajo Final que los estudiantes envían para su revisión. [Iniciar Proceso CAE - Docentes→]({{< relref "/iniciar-proceso-cae-docentes" >}} "Iniciar Proceso CAE - Docentes")
+La app Proceso CAE te facilitará la gestión del **Trabajo Práctico (TP)** correspondiente a la materia del tipo Trabajo Final que los estudiantes envían para su revisión. [Iniciar Proceso CAE - Docentes→]({{< relref "/iniciar-proceso-cae-docentes" >}} "Iniciar Proceso CAE - Docentes")
 
 ## Co-docentes
 #### Proceso CAE - Codocentes
 
-TEST TEST TEST. [Proceso CAE - Co-docentes→]({{< relref "/tareas-proceso-cae-codocentes" >}} "Proceso CAE - Co-docentes")
+Como codocente podrás ingresar a la app **Proceso CAE** para realizar cambios tales como volver a subir un archivo porque se subió uno por equivocación o revertir una aprobación o una desaprobación por indicación del docente CAE. [Proceso CAE - Co-docentes→]({{< relref "/tareas-proceso-cae-codocentes" >}} "Proceso CAE - Co-docentes")

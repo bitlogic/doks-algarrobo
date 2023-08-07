@@ -1,6 +1,6 @@
 ---
-title: "TEST TEST TEST"
-lead: "TEST TEST TEST."
+title: "Conoce cómo puedes intervenir en el Proceso CAE como codocente."
+lead: "Como co-docente podrás ingresar a la app Proceso CAE para realizar cambios tales como reemplazar archivos adjuntos o revertir una desaprobación."
 date: 2022-09-23T11:17:02-0300
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -9,28 +9,38 @@ weight: 150
 toc: true
 ---
 
+### Cómo revertir un Estado de “Aprobado” de una sección
 
-1. TEST TEST TEST.
-2. TEST TEST TEST.
+1. Para revertir una aprobado o desaprobado, dirígete al **SGU** y luego haz clic en **Reporte de Alumnos**.  A continuación, ingresa el **Legajo** o **DNI** del estudiante, y una vez en la **Botonera**, selecciona **Gestionar Proceso CAE**.
+2. En la pantalla que se despliega, en la parte superior podrás observar algunos datos del estudiante, y en la parte inferior, las diferentes secciones según en qué instancia esté el Proceso CAE.
 
-    A continuación, TEST TEST TEST.
+## Cómo revertir una aprobación
 
-    {{<note text="El módulo <b>Carga masiva</b> consta de un sector desde donde se subirá el nuevo archivo con la lista de precios, y en la parte inferior de la pantalla, de un listado que muestra todas las listas de precios subidas hasta la fecha.">}}
-<br>
-3. TEST TEST TEST.
-4. Haz clic en el ícono verde {{<inline-icon image="baseline_arrow_upward_black_24dp.png" alt="arrow icon">}} (que contiene una flecha apuntando hacia arriba) TEST TEST TEST.
+3. Primero, cerciórate de que el Estado general del Proceso CAE sea **Aprobado**.
+4. Luego, haz clic en la sección cuyo Estado es **Aprobado** y haz clic en el ícono **Revertir**.
+5. Aclara el motivo por el que se está revirtiendo – en este caso – el **Aprobado**.
+6. Haz clic en el botón **Guardar**.
+7. Confirma el cambio que estás por realizar.
 
-{{<warning text="TEST TEST TEST, la app <b><i>Pricing</i></b> requiere que realices una verificación o validación del contenido del archivo recién subido. Es por esto que el <b><i>precio recién cargado aún no está vigente</i></b>.">}}
-</b>
+A continuación, podrás observar que:
+ - se despliega el mensaje **_Operación realizada con éxito_**
+ - el Estado general del proceso CAE para a ser de **_Aprobado_** a **_Pendiente de revisión_**
+ - se lista la sección en donde se indica que el rol **Docente**, es decir, el docente CAE, tiene una revisión por realizar y cuyo Estado es **_En proceso_**
 
-7. TEST TEST TEST.
+El docente CAE verá este Estado **_En proceso_** cuando ingrese a la app **Proceso CAE** y procederá a realizar la revisión correspondiente.
 
-{{< tip text=`TEST TEST TEST.
+## Cómo reemplazar un archivo que el docente o el estudiante subió por equivocación
 
-` >}}
-<br>
+1. Para reemplazar un archivo que el docente o el estudiante ha subido por equivocación, primero dirígete al **SGU** y luego haz clic en **Reporte de Alumnos**.  A continuación, ingresa el **Legajo** o **DNI** del estudiante, y una vez en la Botonera, selecciona **Gestionar Proceso CAE**.
+2. En la pantalla que se despliega, en la parte superior podrás observar algunos datos del estudiante, y en la parte inferior, las diferentes secciones según en qué instancia esté el Proceso CAE.
 
+- Si reemplazas un archivo pero no realizas ninguna otra acción, el Estado general del **Proceso CAE** y el Estado de la sección no cambiarán.
+- Si además de reemplazar un archivo, apruebas el TF, el Estado general del **Proceso CAE** y el Estado de la sección cambiarán a **_Aprobado_**.
+- Si además de reemplazar un archivo, desapruebas el TF, si el estudiante cuenta con más instancias para subir su TG, el Estado general del **Proceso CAE** y el Estado de la sección cambiarán a **_Pendiente de Entrega_** y **_Esperando Entrega_** respectivamente.
+- Si, en cambio, además de reemplazar un archivo, desapruebas el TF, si el estudiante **NO** cuenta con más instancias para subir su TG, el Estado general del **Proceso CAE** y el Estado de la sección cambiarán a **_Desaprobado_** y **_Necesita corregir_** respectivamente.
 
 ## Véase también
 
-[Agregar texto adicional al Analítico →]({{< relref "/agregar-texto-adicional-analitico" >}} "Agregar texto adicional al Analítico")
+[Iniciar proceso CAE - estudiantes →]({{< relref "/iniciar-proceso-cae-estudiantes" >}} "Iniciar proceso CAE - estudiantes")
+
+[Iniciar proceso CAE - docentes →]({{< relref "/iniciar-proceso-cae-docentes" >}} "Iniciar proceso CAE - docentes")
