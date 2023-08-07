@@ -1,6 +1,6 @@
 ---
-title: "Cómo se inicia el Proceso CAE para los estudiantes"
-lead: "Cómo se inicia el Proceso CAE para los estudiantes que cursan la materia del tipo Trabajo Final."
+title: "Inicio del Proceso CAE para estudiantes"
+lead: "Cómo se inicia el Proceso CAE para estudiantes que cursan la materia del tipo Trabajo Final."
 menu:
   docs:
     parent: "Proceso CAE"

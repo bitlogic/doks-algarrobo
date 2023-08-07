@@ -1,5 +1,5 @@
 ---
-title: "Cómo intervienen los codocentes en el Proceso CAE"
+title: "Acciones de codocentes en el Proceso CAE"
 lead: "Cuáles son las tareas que los codocentes pueden realizan durante el Proceso CAE."
 menu:
   docs:

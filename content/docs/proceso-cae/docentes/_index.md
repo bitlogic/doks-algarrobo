@@ -1,5 +1,5 @@
 ---
-title: "Cómo se inicia el Proceso CAE para los docentes del CAE"
+title: "Inicio del Proceso CAE para docentes"
 lead: "Cómo se inicia el Proceso de revisión que realizan los docentes del CAE."
 menu:
   docs:
