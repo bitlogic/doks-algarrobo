@@ -1,6 +1,6 @@
 ---
 title: "Conoce más sobre cómo gestionar Cupones"
-lead: "Esta herramienta se utiliza para generar y administrar los Cupones de descuento que el sector de Marketing de Siglo 21 determine segun sus campañas."
+lead: "Esta herramienta se utiliza para generar y administrar los Cupones de descuento promocionados por el sector de Marketing de la universidad."
 date: 2022-08-19T11:15:53-0300
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -31,12 +31,15 @@ Luego de crear una Cabecera de Cupón desde la Promoción, deberás localizar di
 Las promociones pueden ser Comerciales o del tipo Cupones. Para poder generar Cupones, éstos deben estar asociados a una Promoción del tipo “Cupones”.
 
 ### Localizar Promociones
+
 Sigue los siguientes pasos para localizar una Promoción ya creada. [Localizar Promociones →]({{< relref "/localizar-promociones" >}} "Localizar Promociones")
 
 ### Editar Promociones
+
 Sigue los siguientes pasos para editar una Promoción. [Editar Promociones →]({{< relref "/editar-promociones" >}} "Editar Promociones")
 
 ### Desactivar Promociones
+
 Sigue los siguientes pasos para desactivar una Promoción. [Desactivar Promociones →]({{< relref "/desactivar-promociones" >}} "Desactivar Promociones")
 
 ## Cabecera de Cupones
@@ -59,7 +62,7 @@ Los campos editables de una Cabecera de Cupones son el **Nombre** y los que indi
 
 Las cabeceras de cupones que se crean para agrupar Cupones que tengan las mismas características previamente definidas tales como una fecha de pueden activarse o desactivare según la necesidad del negocio. [Activar una Cabecera de Cupones →]({{< relref "/activar-cabecera-cupones" >}} "Activar una Cabecera de Cupones")
 
-## Cómo aplicar Cupones y otras gestiones
+## Cómo asignar Cupones y otras gestiones
 
 Realiza gestiones tales como visualizar Cupones, aplicarlos o asignarlos a estudiantes NI, corroborar que fueron aplicados, y conoce cómo los aplica un estudiante NI desde eCommerce y un estudiante RI desde el Portal del Estudiante.
 
@@ -67,9 +70,9 @@ Realiza gestiones tales como visualizar Cupones, aplicarlos o asignarlos a estud
 
 Si así lo desearas, mediante la app Cupones podrás ver todos los cupones que se encuentran inscriptos dentro de las Cabeceras de Cupones existentes. [Visualizar Cupones →]({{< relref "/visualizar-cupones" >}} "Visualizar Cupones")
 
-### Cómo aplicar un Cupón durante la Admisión
+### Cómo asignar un Cupón durante la Admisión
 
-Los cupones que se generaron para los estudiantes NI se asignan desde Admisiones, es decir, en el momento en que el Asesor está procesando la admisión del estudiante NI, si éste cuenta con un Cupón podrá anunciárselo a su Asesor para que lo aplique al monto a abonar de su Matrícula o Arancel. [Cómo aplicar un Cupón durante la Admisión →]({{< relref "/aplicar-cupones-a-ni" >}} "Cómo aplicar un Cupón durante la Admisión")
+Los cupones que se generaron para los estudiantes NI se asignan desde Admisiones, es decir, en el momento en que el Asesor está procesando la admisión del estudiante NI, si éste cuenta con un Cupón podrá anunciárselo a su Asesor para que lo aplique al monto a abonar de su Matrícula o Arancel. [Cómo asignar un Cupón durante la Admisión →]({{< relref "/como-asignar-cupon-a-ni" >}} "Cómo asignar un Cupón durante la Admisión")
 
 ### Corroborar si un Cupón fue aplicado
 

@@ -12,9 +12,9 @@ toc: true
 
 Si así lo desearas, mediante la app Cupones podrás ver todos los cupones que se encuentran inscriptos dentro de las Cabeceras de Cupones existentes. [Visualizar Cupones →]({{< relref "/visualizar-cupones" >}} "Visualizar Cupones")
 
-### Cómo aplicar un Cupón durante la Admisión
+### Cómo asignar un Cupón durante la Admisión
 
-Los cupones que se generaron para los estudiantes NI se asignan desde Admisiones, es decir, en el momento en que el Asesor está procesando la admisión del estudiante NI, si éste cuenta con un Cupón podrá anunciárselo a su Asesor para que lo aplique al monto a abonar de su Matrícula o Arancel. [Cómo aplicar un Cupón durante la Admisión →]({{< relref "/aplicar-cupones-a-ni" >}} "Cómo aplicar un Cupón durante la Admisión")
+Los cupones que se generaron para los estudiantes NI se asignan desde Admisiones, es decir, en el momento en que el Asesor está procesando la admisión del estudiante NI, si éste cuenta con un Cupón podrá anunciárselo a su Asesor para que lo aplique al monto a abonar de su Matrícula o Arancel. [Cómo asignar un Cupón durante la Admisión →]({{< relref "/como-asignar-cupon-a-ni" >}} "Cómo asignar un Cupón durante la Admisión")
 
 ### Corroborar si un Cupón fue aplicado
 
